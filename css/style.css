@@ -187,6 +187,13 @@ select {
   background: #e4e9e4;
 }
 
+.gallery-empty {
+  color: var(--muted);
+  font-size: 0.95rem;
+  text-align: center;
+  padding: 20px;
+}
+
 .gallery-slide img {
   width: 100%;
   height: 100%;
@@ -356,6 +363,26 @@ select {
   color: #8a2f28;
 }
 
+.feedback.reveal {
+  background: #eef6f1;
+  border: 1px solid var(--green-mid);
+  color: var(--green-dark);
+}
+
+.feedback.reveal strong {
+  font-size: 1.1rem;
+}
+
+.flashcard-controls {
+  display: flex;
+  justify-content: center;
+}
+
+.flashcard-controls .btn {
+  padding: 12px 28px;
+  font-size: 1rem;
+}
+
 .feedback .answer-detail {
   display: block;
   margin-top: 6px;
@@ -500,7 +527,50 @@ select {
 
 .credits-list a { color: var(--green-mid); }
 
-@media (max-width: 480px) {
-  .mc-options { grid-template-columns: 1fr; }
-  .controls { flex-direction: column; align-items: stretch; }
+@media (max-width: 600px) {
+  .app-header { padding: 20px 14px 18px; }
+  .app-header h1 { font-size: 1.4rem; }
+  .tagline { font-size: 0.85rem; }
+
+  #app { padding: 14px 10px 32px; }
+
+  .controls { flex-direction: column; align-items: stretch; gap: 10px; padding: 12px; }
+  .control-group { min-width: 0; }
+
+  .card { padding: 14px; }
+
+  .mc-options { grid-template-columns: 1fr; gap: 8px; }
+  .mc-option { padding: 14px; font-size: 1rem; }
+
+  .fill-form { flex-direction: column; }
+  .fill-form input { font-size: 16px; }
+  .fill-form button { width: 100%; }
+
+  .gallery-nav {
+    width: 40px;
+    height: 40px;
+    font-size: 1.5rem;
+  }
+
+  .gallery-slide-label { font-size: 0.7rem; padding: 3px 8px; }
+
+  .prompt-text { font-size: 1.05rem; margin: 14px 0 12px; }
+
+  .status-bar { font-size: 0.82rem; }
+
+  .flashcard-controls .btn { width: 100%; }
+
+  .summary-actions { flex-direction: column; }
+  .summary-actions .btn { width: 100%; }
+
+  .credits-list .credit-row { flex-direction: column; gap: 2px; }
+
+  .modal-content { padding: 18px; max-height: 85vh; }
+}
+
+@media (hover: none) and (pointer: coarse) {
+  .btn, .mc-option, select, .gallery-nav, .gallery-dot {
+    min-height: 40px;
+  }
+  .gallery-dot { min-height: 7px; }
 }

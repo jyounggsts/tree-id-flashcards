@@ -1,50 +1,4499 @@
 [
-  { "id": "sugar-maple", "common": "Sugar Maple", "scientific": "Acer saccharum", "family": "Sapindaceae", "group": "broadleaf", "leafType": "simple", "arrangement": "opposite", "search": "Acer saccharum leaf" },
-  { "id": "red-maple", "common": "Red Maple", "scientific": "Acer rubrum", "family": "Sapindaceae", "group": "broadleaf", "leafType": "simple", "arrangement": "opposite", "search": "Acer rubrum leaf" },
-  { "id": "silver-maple", "common": "Silver Maple", "scientific": "Acer saccharinum", "family": "Sapindaceae", "group": "broadleaf", "leafType": "simple", "arrangement": "opposite", "search": "Acer saccharinum leaf" },
-  { "id": "boxelder", "common": "Boxelder", "scientific": "Acer negundo", "family": "Sapindaceae", "group": "broadleaf", "leafType": "compound", "arrangement": "opposite", "search": "Acer negundo leaf" },
-  { "id": "white-oak", "common": "White Oak", "scientific": "Quercus alba", "family": "Fagaceae", "group": "broadleaf", "leafType": "simple", "arrangement": "alternate", "search": "Quercus alba leaf" },
-  { "id": "northern-red-oak", "common": "Northern Red Oak", "scientific": "Quercus rubra", "family": "Fagaceae", "group": "broadleaf", "leafType": "simple", "arrangement": "alternate", "search": "Quercus rubra leaf" },
-  { "id": "black-oak", "common": "Black Oak", "scientific": "Quercus velutina", "family": "Fagaceae", "group": "broadleaf", "leafType": "simple", "arrangement": "alternate", "search": "Quercus velutina leaf" },
-  { "id": "pin-oak", "common": "Pin Oak", "scientific": "Quercus palustris", "family": "Fagaceae", "group": "broadleaf", "leafType": "simple", "arrangement": "alternate", "search": "Quercus palustris leaf" },
-  { "id": "bur-oak", "common": "Bur Oak", "scientific": "Quercus macrocarpa", "family": "Fagaceae", "group": "broadleaf", "leafType": "simple", "arrangement": "alternate", "search": "Quercus macrocarpa leaf" },
-  { "id": "chestnut-oak", "common": "Chestnut Oak", "scientific": "Quercus montana", "family": "Fagaceae", "group": "broadleaf", "leafType": "simple", "arrangement": "alternate", "search": "Quercus montana leaf" },
-  { "id": "scarlet-oak", "common": "Scarlet Oak", "scientific": "Quercus coccinea", "family": "Fagaceae", "group": "broadleaf", "leafType": "simple", "arrangement": "alternate", "search": "Quercus coccinea leaf" },
-  { "id": "american-beech", "common": "American Beech", "scientific": "Fagus grandifolia", "family": "Fagaceae", "group": "broadleaf", "leafType": "simple", "arrangement": "alternate", "search": "Fagus grandifolia leaf" },
-  { "id": "shagbark-hickory", "common": "Shagbark Hickory", "scientific": "Carya ovata", "family": "Juglandaceae", "group": "broadleaf", "leafType": "compound", "arrangement": "alternate", "search": "Carya ovata leaf" },
-  { "id": "pignut-hickory", "common": "Pignut Hickory", "scientific": "Carya glabra", "family": "Juglandaceae", "group": "broadleaf", "leafType": "compound", "arrangement": "alternate", "search": "Carya glabra leaf" },
-  { "id": "black-walnut", "common": "Black Walnut", "scientific": "Juglans nigra", "family": "Juglandaceae", "group": "broadleaf", "leafType": "compound", "arrangement": "alternate", "search": "Juglans nigra leaf" },
-  { "id": "american-elm", "common": "American Elm", "scientific": "Ulmus americana", "family": "Ulmaceae", "group": "broadleaf", "leafType": "simple", "arrangement": "alternate", "search": "Ulmus americana leaf" },
-  { "id": "slippery-elm", "common": "Slippery Elm", "scientific": "Ulmus rubra", "family": "Ulmaceae", "group": "broadleaf", "leafType": "simple", "arrangement": "alternate", "search": "Ulmus rubra leaf" },
-  { "id": "green-ash", "common": "Green Ash", "scientific": "Fraxinus pennsylvanica", "family": "Oleaceae", "group": "broadleaf", "leafType": "compound", "arrangement": "opposite", "search": "Fraxinus pennsylvanica leaf" },
-  { "id": "white-ash", "common": "White Ash", "scientific": "Fraxinus americana", "family": "Oleaceae", "group": "broadleaf", "leafType": "compound", "arrangement": "opposite", "search": "Fraxinus americana leaf" },
-  { "id": "tulip-tree", "common": "Tulip Tree (Yellow-poplar)", "scientific": "Liriodendron tulipifera", "family": "Magnoliaceae", "group": "broadleaf", "leafType": "simple", "arrangement": "alternate", "search": "Liriodendron tulipifera leaf" },
-  { "id": "eastern-cottonwood", "common": "Eastern Cottonwood", "scientific": "Populus deltoides", "family": "Salicaceae", "group": "broadleaf", "leafType": "simple", "arrangement": "alternate", "search": "Populus deltoides leaf" },
-  { "id": "quaking-aspen", "common": "Quaking Aspen", "scientific": "Populus tremuloides", "family": "Salicaceae", "group": "broadleaf", "leafType": "simple", "arrangement": "alternate", "search": "Populus tremuloides leaf" },
-  { "id": "black-cherry", "common": "Black Cherry", "scientific": "Prunus serotina", "family": "Rosaceae", "group": "broadleaf", "leafType": "simple", "arrangement": "alternate", "search": "Prunus serotina leaf" },
-  { "id": "flowering-dogwood", "common": "Flowering Dogwood", "scientific": "Cornus florida", "family": "Cornaceae", "group": "broadleaf", "leafType": "simple", "arrangement": "opposite", "search": "Cornus florida leaf" },
-  { "id": "american-sycamore", "common": "American Sycamore", "scientific": "Platanus occidentalis", "family": "Platanaceae", "group": "broadleaf", "leafType": "simple", "arrangement": "alternate", "search": "Platanus occidentalis leaf" },
-  { "id": "black-locust", "common": "Black Locust", "scientific": "Robinia pseudoacacia", "family": "Fabaceae", "group": "broadleaf", "leafType": "compound", "arrangement": "alternate", "search": "Robinia pseudoacacia leaf" },
-  { "id": "honey-locust", "common": "Honey Locust", "scientific": "Gleditsia triacanthos", "family": "Fabaceae", "group": "broadleaf", "leafType": "compound", "arrangement": "alternate", "search": "Gleditsia triacanthos leaf" },
-  { "id": "sweetgum", "common": "Sweetgum", "scientific": "Liquidambar styraciflua", "family": "Altingiaceae", "group": "broadleaf", "leafType": "simple", "arrangement": "alternate", "search": "Liquidambar styraciflua leaf" },
-  { "id": "yellow-birch", "common": "Yellow Birch", "scientific": "Betula alleghaniensis", "family": "Betulaceae", "group": "broadleaf", "leafType": "simple", "arrangement": "alternate", "search": "Betula alleghaniensis leaf" },
-  { "id": "paper-birch", "common": "Paper Birch", "scientific": "Betula papyrifera", "family": "Betulaceae", "group": "broadleaf", "leafType": "simple", "arrangement": "alternate", "search": "Betula papyrifera leaf" },
-  { "id": "river-birch", "common": "River Birch", "scientific": "Betula nigra", "family": "Betulaceae", "group": "broadleaf", "leafType": "simple", "arrangement": "alternate", "search": "Betula nigra leaf" },
-  { "id": "american-basswood", "common": "American Basswood", "scientific": "Tilia americana", "family": "Malvaceae", "group": "broadleaf", "leafType": "simple", "arrangement": "alternate", "search": "Tilia americana leaf" },
-  { "id": "sassafras", "common": "Sassafras", "scientific": "Sassafras albidum", "family": "Lauraceae", "group": "broadleaf", "leafType": "simple", "arrangement": "alternate", "search": "Sassafras albidum leaf" },
-  { "id": "black-tupelo", "common": "Black Tupelo (Blackgum)", "scientific": "Nyssa sylvatica", "family": "Nyssaceae", "group": "broadleaf", "leafType": "simple", "arrangement": "alternate", "search": "Nyssa sylvatica leaf" },
-  { "id": "hackberry", "common": "Hackberry", "scientific": "Celtis occidentalis", "family": "Cannabaceae", "group": "broadleaf", "leafType": "simple", "arrangement": "alternate", "search": "Celtis occidentalis leaf" },
-  { "id": "eastern-redbud", "common": "Eastern Redbud", "scientific": "Cercis canadensis", "family": "Fabaceae", "group": "broadleaf", "leafType": "simple", "arrangement": "alternate", "search": "Cercis canadensis leaf" },
-  { "id": "sourwood", "common": "Sourwood", "scientific": "Oxydendrum arboreum", "family": "Ericaceae", "group": "broadleaf", "leafType": "simple", "arrangement": "alternate", "search": "Oxydendrum arboreum leaf" },
-  { "id": "eastern-white-pine", "common": "Eastern White Pine", "scientific": "Pinus strobus", "family": "Pinaceae", "group": "conifer", "leafType": "needle (5 per bundle)", "arrangement": "spiral", "search": "Pinus strobus needles" },
-  { "id": "red-pine", "common": "Red Pine", "scientific": "Pinus resinosa", "family": "Pinaceae", "group": "conifer", "leafType": "needle (2 per bundle)", "arrangement": "spiral", "search": "Pinus resinosa needles" },
-  { "id": "loblolly-pine", "common": "Loblolly Pine", "scientific": "Pinus taeda", "family": "Pinaceae", "group": "conifer", "leafType": "needle (3 per bundle)", "arrangement": "spiral", "search": "Pinus taeda needles" },
-  { "id": "shortleaf-pine", "common": "Shortleaf Pine", "scientific": "Pinus echinata", "family": "Pinaceae", "group": "conifer", "leafType": "needle (2-3 per bundle)", "arrangement": "spiral", "search": "Pinus echinata needles" },
-  { "id": "eastern-hemlock", "common": "Eastern Hemlock", "scientific": "Tsuga canadensis", "family": "Pinaceae", "group": "conifer", "leafType": "needle (flat, single)", "arrangement": "spiral", "search": "Tsuga canadensis needles" },
-  { "id": "white-spruce", "common": "White Spruce", "scientific": "Picea glauca", "family": "Pinaceae", "group": "conifer", "leafType": "needle (4-sided, single)", "arrangement": "spiral", "search": "Picea glauca needles" },
-  { "id": "balsam-fir", "common": "Balsam Fir", "scientific": "Abies balsamea", "family": "Pinaceae", "group": "conifer", "leafType": "needle (flat, single)", "arrangement": "spiral", "search": "Abies balsamea needles" },
-  { "id": "douglas-fir", "common": "Douglas-fir", "scientific": "Pseudotsuga menziesii", "family": "Pinaceae", "group": "conifer", "leafType": "needle (flat, single)", "arrangement": "spiral", "search": "Pseudotsuga menziesii needles" },
-  { "id": "eastern-redcedar", "common": "Eastern Redcedar", "scientific": "Juniperus virginiana", "family": "Cupressaceae", "group": "conifer", "leafType": "scale-like", "arrangement": "opposite", "search": "Juniperus virginiana foliage" },
-  { "id": "northern-white-cedar", "common": "Northern White-cedar (Arborvitae)", "scientific": "Thuja occidentalis", "family": "Cupressaceae", "group": "conifer", "leafType": "scale-like", "arrangement": "opposite", "search": "Thuja occidentalis foliage" },
-  { "id": "baldcypress", "common": "Baldcypress", "scientific": "Taxodium distichum", "family": "Cupressaceae", "group": "conifer", "leafType": "needle (deciduous)", "arrangement": "alternate", "search": "Taxodium distichum foliage" }
+  {
+    "id": "sugar-maple",
+    "common": "Sugar Maple",
+    "scientific": "Acer saccharum",
+    "family": "Sapindaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "opposite",
+    "search": "Acer saccharum leaf",
+    "region": [
+      "eastern-us",
+      "socal"
+    ]
+  },
+  {
+    "id": "red-maple",
+    "common": "Red Maple",
+    "scientific": "Acer rubrum",
+    "family": "Sapindaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "opposite",
+    "search": "Acer rubrum leaf",
+    "region": [
+      "eastern-us",
+      "socal"
+    ]
+  },
+  {
+    "id": "silver-maple",
+    "common": "Silver Maple",
+    "scientific": "Acer saccharinum",
+    "family": "Sapindaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "opposite",
+    "search": "Acer saccharinum leaf",
+    "region": [
+      "eastern-us",
+      "socal"
+    ]
+  },
+  {
+    "id": "boxelder",
+    "common": "Boxelder",
+    "scientific": "Acer negundo",
+    "family": "Sapindaceae",
+    "group": "broadleaf",
+    "leafType": "compound",
+    "arrangement": "opposite",
+    "search": "Acer negundo leaf",
+    "region": [
+      "eastern-us",
+      "socal"
+    ]
+  },
+  {
+    "id": "white-oak",
+    "common": "White Oak",
+    "scientific": "Quercus alba",
+    "family": "Fagaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Quercus alba leaf",
+    "region": [
+      "eastern-us"
+    ]
+  },
+  {
+    "id": "northern-red-oak",
+    "common": "Northern Red Oak",
+    "scientific": "Quercus rubra",
+    "family": "Fagaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Quercus rubra leaf",
+    "region": [
+      "eastern-us",
+      "socal"
+    ]
+  },
+  {
+    "id": "black-oak",
+    "common": "Black Oak",
+    "scientific": "Quercus velutina",
+    "family": "Fagaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Quercus velutina leaf",
+    "region": [
+      "eastern-us"
+    ]
+  },
+  {
+    "id": "pin-oak",
+    "common": "Pin Oak",
+    "scientific": "Quercus palustris",
+    "family": "Fagaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Quercus palustris leaf",
+    "region": [
+      "eastern-us",
+      "socal"
+    ]
+  },
+  {
+    "id": "bur-oak",
+    "common": "Bur Oak",
+    "scientific": "Quercus macrocarpa",
+    "family": "Fagaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Quercus macrocarpa leaf",
+    "region": [
+      "eastern-us",
+      "socal"
+    ]
+  },
+  {
+    "id": "chestnut-oak",
+    "common": "Chestnut Oak",
+    "scientific": "Quercus montana",
+    "family": "Fagaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Quercus montana leaf",
+    "region": [
+      "eastern-us"
+    ]
+  },
+  {
+    "id": "scarlet-oak",
+    "common": "Scarlet Oak",
+    "scientific": "Quercus coccinea",
+    "family": "Fagaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Quercus coccinea leaf",
+    "region": [
+      "eastern-us",
+      "socal"
+    ]
+  },
+  {
+    "id": "american-beech",
+    "common": "American Beech",
+    "scientific": "Fagus grandifolia",
+    "family": "Fagaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Fagus grandifolia leaf",
+    "region": [
+      "eastern-us"
+    ]
+  },
+  {
+    "id": "shagbark-hickory",
+    "common": "Shagbark Hickory",
+    "scientific": "Carya ovata",
+    "family": "Juglandaceae",
+    "group": "broadleaf",
+    "leafType": "compound",
+    "arrangement": "alternate",
+    "search": "Carya ovata leaf",
+    "region": [
+      "eastern-us"
+    ]
+  },
+  {
+    "id": "pignut-hickory",
+    "common": "Pignut Hickory",
+    "scientific": "Carya glabra",
+    "family": "Juglandaceae",
+    "group": "broadleaf",
+    "leafType": "compound",
+    "arrangement": "alternate",
+    "search": "Carya glabra leaf",
+    "region": [
+      "eastern-us"
+    ]
+  },
+  {
+    "id": "black-walnut",
+    "common": "Black Walnut",
+    "scientific": "Juglans nigra",
+    "family": "Juglandaceae",
+    "group": "broadleaf",
+    "leafType": "compound",
+    "arrangement": "alternate",
+    "search": "Juglans nigra leaf",
+    "region": [
+      "eastern-us"
+    ]
+  },
+  {
+    "id": "american-elm",
+    "common": "American Elm",
+    "scientific": "Ulmus americana",
+    "family": "Ulmaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Ulmus americana leaf",
+    "region": [
+      "eastern-us",
+      "socal"
+    ]
+  },
+  {
+    "id": "slippery-elm",
+    "common": "Slippery Elm",
+    "scientific": "Ulmus rubra",
+    "family": "Ulmaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Ulmus rubra leaf",
+    "region": [
+      "eastern-us"
+    ]
+  },
+  {
+    "id": "green-ash",
+    "common": "Green Ash",
+    "scientific": "Fraxinus pennsylvanica",
+    "family": "Oleaceae",
+    "group": "broadleaf",
+    "leafType": "compound",
+    "arrangement": "opposite",
+    "search": "Fraxinus pennsylvanica leaf",
+    "region": [
+      "eastern-us",
+      "socal"
+    ]
+  },
+  {
+    "id": "white-ash",
+    "common": "White Ash",
+    "scientific": "Fraxinus americana",
+    "family": "Oleaceae",
+    "group": "broadleaf",
+    "leafType": "compound",
+    "arrangement": "opposite",
+    "search": "Fraxinus americana leaf",
+    "region": [
+      "eastern-us",
+      "socal"
+    ]
+  },
+  {
+    "id": "tulip-tree",
+    "common": "Tulip Tree (Yellow-poplar)",
+    "scientific": "Liriodendron tulipifera",
+    "family": "Magnoliaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Liriodendron tulipifera leaf",
+    "region": [
+      "eastern-us",
+      "socal"
+    ]
+  },
+  {
+    "id": "eastern-cottonwood",
+    "common": "Eastern Cottonwood",
+    "scientific": "Populus deltoides",
+    "family": "Salicaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Populus deltoides leaf",
+    "region": [
+      "eastern-us"
+    ]
+  },
+  {
+    "id": "quaking-aspen",
+    "common": "Quaking Aspen",
+    "scientific": "Populus tremuloides",
+    "family": "Salicaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Populus tremuloides leaf",
+    "region": [
+      "eastern-us"
+    ]
+  },
+  {
+    "id": "black-cherry",
+    "common": "Black Cherry",
+    "scientific": "Prunus serotina",
+    "family": "Rosaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Prunus serotina leaf",
+    "region": [
+      "eastern-us"
+    ]
+  },
+  {
+    "id": "flowering-dogwood",
+    "common": "Flowering Dogwood",
+    "scientific": "Cornus florida",
+    "family": "Cornaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "opposite",
+    "search": "Cornus florida leaf",
+    "region": [
+      "eastern-us",
+      "socal"
+    ]
+  },
+  {
+    "id": "american-sycamore",
+    "common": "American Sycamore",
+    "scientific": "Platanus occidentalis",
+    "family": "Platanaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Platanus occidentalis leaf",
+    "region": [
+      "eastern-us",
+      "socal"
+    ]
+  },
+  {
+    "id": "black-locust",
+    "common": "Black Locust",
+    "scientific": "Robinia pseudoacacia",
+    "family": "Fabaceae",
+    "group": "broadleaf",
+    "leafType": "compound",
+    "arrangement": "alternate",
+    "search": "Robinia pseudoacacia leaf",
+    "region": [
+      "eastern-us",
+      "socal"
+    ]
+  },
+  {
+    "id": "honey-locust",
+    "common": "Honey Locust",
+    "scientific": "Gleditsia triacanthos",
+    "family": "Fabaceae",
+    "group": "broadleaf",
+    "leafType": "compound",
+    "arrangement": "alternate",
+    "search": "Gleditsia triacanthos leaf",
+    "region": [
+      "eastern-us",
+      "socal"
+    ]
+  },
+  {
+    "id": "sweetgum",
+    "common": "Sweetgum",
+    "scientific": "Liquidambar styraciflua",
+    "family": "Altingiaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Liquidambar styraciflua leaf",
+    "region": [
+      "eastern-us",
+      "socal"
+    ]
+  },
+  {
+    "id": "yellow-birch",
+    "common": "Yellow Birch",
+    "scientific": "Betula alleghaniensis",
+    "family": "Betulaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Betula alleghaniensis leaf",
+    "region": [
+      "eastern-us"
+    ]
+  },
+  {
+    "id": "paper-birch",
+    "common": "Paper Birch",
+    "scientific": "Betula papyrifera",
+    "family": "Betulaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Betula papyrifera leaf",
+    "region": [
+      "eastern-us"
+    ]
+  },
+  {
+    "id": "river-birch",
+    "common": "River Birch",
+    "scientific": "Betula nigra",
+    "family": "Betulaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Betula nigra leaf",
+    "region": [
+      "eastern-us",
+      "socal"
+    ]
+  },
+  {
+    "id": "american-basswood",
+    "common": "American Basswood",
+    "scientific": "Tilia americana",
+    "family": "Malvaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Tilia americana leaf",
+    "region": [
+      "eastern-us",
+      "socal"
+    ]
+  },
+  {
+    "id": "sassafras",
+    "common": "Sassafras",
+    "scientific": "Sassafras albidum",
+    "family": "Lauraceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Sassafras albidum leaf",
+    "region": [
+      "eastern-us",
+      "socal"
+    ]
+  },
+  {
+    "id": "black-tupelo",
+    "common": "Black Tupelo (Blackgum)",
+    "scientific": "Nyssa sylvatica",
+    "family": "Nyssaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Nyssa sylvatica leaf",
+    "region": [
+      "eastern-us",
+      "socal"
+    ]
+  },
+  {
+    "id": "hackberry",
+    "common": "Hackberry",
+    "scientific": "Celtis occidentalis",
+    "family": "Cannabaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Celtis occidentalis leaf",
+    "region": [
+      "eastern-us",
+      "socal"
+    ]
+  },
+  {
+    "id": "eastern-redbud",
+    "common": "Eastern Redbud",
+    "scientific": "Cercis canadensis",
+    "family": "Fabaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Cercis canadensis leaf",
+    "region": [
+      "eastern-us",
+      "socal"
+    ]
+  },
+  {
+    "id": "sourwood",
+    "common": "Sourwood",
+    "scientific": "Oxydendrum arboreum",
+    "family": "Ericaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Oxydendrum arboreum leaf",
+    "region": [
+      "eastern-us"
+    ]
+  },
+  {
+    "id": "eastern-white-pine",
+    "common": "Eastern White Pine",
+    "scientific": "Pinus strobus",
+    "family": "Pinaceae",
+    "group": "conifer",
+    "leafType": "needle (5 per bundle)",
+    "arrangement": "spiral",
+    "search": "Pinus strobus needles",
+    "region": [
+      "eastern-us"
+    ]
+  },
+  {
+    "id": "red-pine",
+    "common": "Red Pine",
+    "scientific": "Pinus resinosa",
+    "family": "Pinaceae",
+    "group": "conifer",
+    "leafType": "needle (2 per bundle)",
+    "arrangement": "spiral",
+    "search": "Pinus resinosa needles",
+    "region": [
+      "eastern-us"
+    ]
+  },
+  {
+    "id": "loblolly-pine",
+    "common": "Loblolly Pine",
+    "scientific": "Pinus taeda",
+    "family": "Pinaceae",
+    "group": "conifer",
+    "leafType": "needle (3 per bundle)",
+    "arrangement": "spiral",
+    "search": "Pinus taeda needles",
+    "region": [
+      "eastern-us"
+    ]
+  },
+  {
+    "id": "shortleaf-pine",
+    "common": "Shortleaf Pine",
+    "scientific": "Pinus echinata",
+    "family": "Pinaceae",
+    "group": "conifer",
+    "leafType": "needle (2-3 per bundle)",
+    "arrangement": "spiral",
+    "search": "Pinus echinata needles",
+    "region": [
+      "eastern-us"
+    ]
+  },
+  {
+    "id": "eastern-hemlock",
+    "common": "Eastern Hemlock",
+    "scientific": "Tsuga canadensis",
+    "family": "Pinaceae",
+    "group": "conifer",
+    "leafType": "needle (flat, single)",
+    "arrangement": "spiral",
+    "search": "Tsuga canadensis needles",
+    "region": [
+      "eastern-us"
+    ]
+  },
+  {
+    "id": "white-spruce",
+    "common": "White Spruce",
+    "scientific": "Picea glauca",
+    "family": "Pinaceae",
+    "group": "conifer",
+    "leafType": "needle (4-sided, single)",
+    "arrangement": "spiral",
+    "search": "Picea glauca needles",
+    "region": [
+      "eastern-us"
+    ]
+  },
+  {
+    "id": "balsam-fir",
+    "common": "Balsam Fir",
+    "scientific": "Abies balsamea",
+    "family": "Pinaceae",
+    "group": "conifer",
+    "leafType": "needle (flat, single)",
+    "arrangement": "spiral",
+    "search": "Abies balsamea needles",
+    "region": [
+      "eastern-us"
+    ]
+  },
+  {
+    "id": "douglas-fir",
+    "common": "Douglas-fir",
+    "scientific": "Pseudotsuga menziesii",
+    "family": "Pinaceae",
+    "group": "conifer",
+    "leafType": "needle (flat, single)",
+    "arrangement": "spiral",
+    "search": "Pseudotsuga menziesii needles",
+    "region": [
+      "eastern-us",
+      "socal"
+    ]
+  },
+  {
+    "id": "eastern-redcedar",
+    "common": "Eastern Redcedar",
+    "scientific": "Juniperus virginiana",
+    "family": "Cupressaceae",
+    "group": "conifer",
+    "leafType": "scale-like",
+    "arrangement": "opposite",
+    "search": "Juniperus virginiana foliage",
+    "region": [
+      "eastern-us"
+    ]
+  },
+  {
+    "id": "northern-white-cedar",
+    "common": "Northern White-cedar (Arborvitae)",
+    "scientific": "Thuja occidentalis",
+    "family": "Cupressaceae",
+    "group": "conifer",
+    "leafType": "scale-like",
+    "arrangement": "opposite",
+    "search": "Thuja occidentalis foliage",
+    "region": [
+      "eastern-us"
+    ]
+  },
+  {
+    "id": "baldcypress",
+    "common": "Baldcypress",
+    "scientific": "Taxodium distichum",
+    "family": "Cupressaceae",
+    "group": "conifer",
+    "leafType": "needle (deciduous)",
+    "arrangement": "alternate",
+    "search": "Taxodium distichum foliage",
+    "region": [
+      "eastern-us",
+      "socal"
+    ]
+  },
+  {
+    "id": "acacia-baileyana",
+    "common": "Bailey Acacia",
+    "scientific": "Acacia baileyana",
+    "family": "Fabaceae",
+    "group": "broadleaf",
+    "leafType": "compound (bipinnate)",
+    "arrangement": "alternate",
+    "search": "Acacia baileyana leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "acacia-cultriformis",
+    "common": "Knife-leaf Acacia",
+    "scientific": "Acacia cultriformis",
+    "family": "Fabaceae",
+    "group": "broadleaf",
+    "leafType": "simple (phyllode)",
+    "arrangement": "alternate",
+    "search": "Acacia cultriformis leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "acacia-cyclops",
+    "common": "Coastal Wattle",
+    "scientific": "Acacia cyclops",
+    "family": "Fabaceae",
+    "group": "broadleaf",
+    "leafType": "simple (phyllode)",
+    "arrangement": "alternate",
+    "search": "Acacia cyclops leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "acacia-dealbata",
+    "common": "Silver Wattle",
+    "scientific": "Acacia dealbata",
+    "family": "Fabaceae",
+    "group": "broadleaf",
+    "leafType": "compound (bipinnate)",
+    "arrangement": "alternate",
+    "search": "Acacia dealbata leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "acacia-decurrens",
+    "common": "Green Wattle",
+    "scientific": "Acacia decurrens",
+    "family": "Fabaceae",
+    "group": "broadleaf",
+    "leafType": "compound (bipinnate)",
+    "arrangement": "alternate",
+    "search": "Acacia decurrens leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "acacia-longifolia",
+    "common": "Golden Wattle (Sydney)",
+    "scientific": "Acacia longifolia",
+    "family": "Fabaceae",
+    "group": "broadleaf",
+    "leafType": "simple (phyllode)",
+    "arrangement": "alternate",
+    "search": "Acacia longifolia leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "acacia-mearnsii",
+    "common": "Black Wattle",
+    "scientific": "Acacia mearnsii",
+    "family": "Fabaceae",
+    "group": "broadleaf",
+    "leafType": "compound (bipinnate)",
+    "arrangement": "alternate",
+    "search": "Acacia mearnsii leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "acacia-melanoxylon",
+    "common": "Blackwood Acacia",
+    "scientific": "Acacia melanoxylon",
+    "family": "Fabaceae",
+    "group": "broadleaf",
+    "leafType": "simple (phyllode)",
+    "arrangement": "alternate",
+    "search": "Acacia melanoxylon leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "acacia-pendula",
+    "common": "Weeping Myall",
+    "scientific": "Acacia pendula",
+    "family": "Fabaceae",
+    "group": "broadleaf",
+    "leafType": "simple (phyllode)",
+    "arrangement": "alternate",
+    "search": "Acacia pendula leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "acacia-pycnantha",
+    "common": "Golden Wattle",
+    "scientific": "Acacia pycnantha",
+    "family": "Fabaceae",
+    "group": "broadleaf",
+    "leafType": "simple (phyllode)",
+    "arrangement": "alternate",
+    "search": "Acacia pycnantha leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "acacia-redolens",
+    "common": "Trailing Acacia",
+    "scientific": "Acacia redolens",
+    "family": "Fabaceae",
+    "group": "broadleaf",
+    "leafType": "simple (phyllode)",
+    "arrangement": "alternate",
+    "search": "Acacia redolens leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "acacia-retinodes",
+    "common": "Everblooming Acacia",
+    "scientific": "Acacia retinodes",
+    "family": "Fabaceae",
+    "group": "broadleaf",
+    "leafType": "simple (phyllode)",
+    "arrangement": "alternate",
+    "search": "Acacia retinodes leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "acacia-saligna",
+    "common": "Blue-leaf Wattle",
+    "scientific": "Acacia saligna",
+    "family": "Fabaceae",
+    "group": "broadleaf",
+    "leafType": "simple (phyllode)",
+    "arrangement": "alternate",
+    "search": "Acacia saligna leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "acacia-stenophylla",
+    "common": "Shoestring Acacia",
+    "scientific": "Acacia stenophylla",
+    "family": "Fabaceae",
+    "group": "broadleaf",
+    "leafType": "simple (phyllode)",
+    "arrangement": "alternate",
+    "search": "Acacia stenophylla leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "acacia-verticillata",
+    "common": "Star Acacia",
+    "scientific": "Acacia verticillata",
+    "family": "Fabaceae",
+    "group": "broadleaf",
+    "leafType": "simple (phyllode)",
+    "arrangement": "whorled",
+    "search": "Acacia verticillata leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "acer-buergerianum",
+    "common": "Trident Maple",
+    "scientific": "Acer buergerianum",
+    "family": "Sapindaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "opposite",
+    "search": "Acer buergerianum leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "acer-campestre",
+    "common": "Hedge Maple",
+    "scientific": "Acer campestre",
+    "family": "Sapindaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "opposite",
+    "search": "Acer campestre leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "acer-macrophyllum",
+    "common": "Bigleaf Maple",
+    "scientific": "Acer macrophyllum",
+    "family": "Sapindaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "opposite",
+    "search": "Acer macrophyllum leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "acer-oblongum",
+    "common": "Evergreen Maple",
+    "scientific": "Acer oblongum",
+    "family": "Sapindaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "opposite",
+    "search": "Acer oblongum leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "acer-palmatum",
+    "common": "Japanese Maple",
+    "scientific": "Acer palmatum",
+    "family": "Sapindaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "opposite",
+    "search": "Acer palmatum leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "acer-paxii",
+    "common": "Evergreen Maple (Paxii)",
+    "scientific": "Acer paxii",
+    "family": "Sapindaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "opposite",
+    "search": "Acer paxii leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "acer-platanoides",
+    "common": "Norway Maple",
+    "scientific": "Acer platanoides",
+    "family": "Sapindaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "opposite",
+    "search": "Acer platanoides leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "acer-pseudoplatanus",
+    "common": "Sycamore Maple",
+    "scientific": "Acer pseudoplatanus",
+    "family": "Sapindaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "opposite",
+    "search": "Acer pseudoplatanus leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "aesculus-carnea",
+    "common": "Red Horsechestnut",
+    "scientific": "Aesculus × carnea",
+    "family": "Sapindaceae",
+    "group": "broadleaf",
+    "leafType": "compound (palmate)",
+    "arrangement": "opposite",
+    "search": "Aesculus × carnea leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "aesculus-californica",
+    "common": "California Buckeye",
+    "scientific": "Aesculus californica",
+    "family": "Sapindaceae",
+    "group": "broadleaf",
+    "leafType": "compound (palmate)",
+    "arrangement": "opposite",
+    "search": "Aesculus californica leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "aesculus-hippocastanum",
+    "common": "European Horsechestnut",
+    "scientific": "Aesculus hippocastanum",
+    "family": "Sapindaceae",
+    "group": "broadleaf",
+    "leafType": "compound (palmate)",
+    "arrangement": "opposite",
+    "search": "Aesculus hippocastanum leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "aesculus-pavia",
+    "common": "Red Buckeye",
+    "scientific": "Aesculus pavia",
+    "family": "Sapindaceae",
+    "group": "broadleaf",
+    "leafType": "compound (palmate)",
+    "arrangement": "opposite",
+    "search": "Aesculus pavia leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "afrocarpus-falcatus",
+    "common": "African Fern Pine",
+    "scientific": "Afrocarpus falcatus",
+    "family": "Podocarpaceae",
+    "group": "conifer",
+    "leafType": "needle (flat)",
+    "arrangement": "alternate",
+    "search": "Afrocarpus falcatus needles",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "agonis-flexuosa",
+    "common": "Australian Willow (Peppermint Willow)",
+    "scientific": "Agonis flexuosa",
+    "family": "Myrtaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Agonis flexuosa leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "ailanthus-altissima",
+    "common": "Tree of Heaven",
+    "scientific": "Ailanthus altissima",
+    "family": "Simaroubaceae",
+    "group": "broadleaf",
+    "leafType": "compound",
+    "arrangement": "alternate",
+    "search": "Ailanthus altissima leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "albizia-julibrissin",
+    "common": "Silk Tree (Mimosa)",
+    "scientific": "Albizia julibrissin",
+    "family": "Fabaceae",
+    "group": "broadleaf",
+    "leafType": "compound (bipinnate)",
+    "arrangement": "alternate",
+    "search": "Albizia julibrissin leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "allocasuarina-verticillata",
+    "common": "Drooping Sheoak",
+    "scientific": "Allocasuarina verticillata",
+    "family": "Casuarinaceae",
+    "group": "broadleaf",
+    "leafType": "needle-like (jointed branchlets)",
+    "arrangement": "whorled",
+    "search": "Allocasuarina verticillata leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "alnus-cordata",
+    "common": "Italian Alder",
+    "scientific": "Alnus cordata",
+    "family": "Betulaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Alnus cordata leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "alnus-rhombifolia",
+    "common": "White Alder",
+    "scientific": "Alnus rhombifolia",
+    "family": "Betulaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Alnus rhombifolia leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "alnus-rubra",
+    "common": "Red Alder",
+    "scientific": "Alnus rubra",
+    "family": "Betulaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Alnus rubra leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "angophora-costata",
+    "common": "Sydney Red Gum",
+    "scientific": "Angophora costata",
+    "family": "Myrtaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "opposite",
+    "search": "Angophora costata leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "araucaria-araucana",
+    "common": "Monkey Puzzle Tree",
+    "scientific": "Araucaria araucana",
+    "family": "Araucariaceae",
+    "group": "conifer",
+    "leafType": "needle (scale-like)",
+    "arrangement": "spiral",
+    "search": "Araucaria araucana needles",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "araucaria-bidwillii",
+    "common": "Bunya Bunya",
+    "scientific": "Araucaria bidwillii",
+    "family": "Araucariaceae",
+    "group": "conifer",
+    "leafType": "needle (broad)",
+    "arrangement": "spiral",
+    "search": "Araucaria bidwillii needles",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "araucaria-columnaris",
+    "common": "Cook Pine",
+    "scientific": "Araucaria columnaris",
+    "family": "Araucariaceae",
+    "group": "conifer",
+    "leafType": "needle (small, curved)",
+    "arrangement": "spiral",
+    "search": "Araucaria columnaris needles",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "araucaria-cunninghamii",
+    "common": "Hoop Pine",
+    "scientific": "Araucaria cunninghamii",
+    "family": "Araucariaceae",
+    "group": "conifer",
+    "leafType": "needle",
+    "arrangement": "spiral",
+    "search": "Araucaria cunninghamii needles",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "araucaria-heterophylla",
+    "common": "Norfolk Island Pine",
+    "scientific": "Araucaria heterophylla",
+    "family": "Araucariaceae",
+    "group": "conifer",
+    "leafType": "needle",
+    "arrangement": "spiral",
+    "search": "Araucaria heterophylla needles",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "arbutus-andrachne",
+    "common": "Grecian Strawberry Tree",
+    "scientific": "Arbutus andrachne",
+    "family": "Ericaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Arbutus andrachne leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "arbutus-canariensis",
+    "common": "Canary Island Madrone",
+    "scientific": "Arbutus canariensis",
+    "family": "Ericaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Arbutus canariensis leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "arbutus-menziesii",
+    "common": "Pacific Madrone",
+    "scientific": "Arbutus menziesii",
+    "family": "Ericaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Arbutus menziesii leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "arbutus-unedo",
+    "common": "Strawberry Tree",
+    "scientific": "Arbutus unedo",
+    "family": "Ericaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Arbutus unedo leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "archontophoenix-alexandrae",
+    "common": "Alexandra Palm",
+    "scientific": "Archontophoenix alexandrae",
+    "family": "Arecaceae",
+    "group": "palm",
+    "leafType": "frond (pinnate)",
+    "arrangement": "spiral",
+    "search": "Archontophoenix alexandrae leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "archontophoenix-cunninghamiana",
+    "common": "King Palm",
+    "scientific": "Archontophoenix cunninghamiana",
+    "family": "Arecaceae",
+    "group": "palm",
+    "leafType": "frond (pinnate)",
+    "arrangement": "spiral",
+    "search": "Archontophoenix cunninghamiana leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "bauhinia-blakeana",
+    "common": "Hong Kong Orchid Tree",
+    "scientific": "Bauhinia × blakeana",
+    "family": "Fabaceae",
+    "group": "broadleaf",
+    "leafType": "simple (bilobed)",
+    "arrangement": "alternate",
+    "search": "Bauhinia × blakeana leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "bauhinia-forficata",
+    "common": "Brazilian Orchid Tree",
+    "scientific": "Bauhinia forficata",
+    "family": "Fabaceae",
+    "group": "broadleaf",
+    "leafType": "simple (bilobed)",
+    "arrangement": "alternate",
+    "search": "Bauhinia forficata leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "bauhinia-variegata",
+    "common": "Purple Orchid Tree",
+    "scientific": "Bauhinia variegata",
+    "family": "Fabaceae",
+    "group": "broadleaf",
+    "leafType": "simple (bilobed)",
+    "arrangement": "alternate",
+    "search": "Bauhinia variegata leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "betula-pendula",
+    "common": "European White Birch",
+    "scientific": "Betula pendula",
+    "family": "Betulaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Betula pendula leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "brachychiton-acerifolius",
+    "common": "Illawarra Flame Tree",
+    "scientific": "Brachychiton acerifolius",
+    "family": "Malvaceae",
+    "group": "broadleaf",
+    "leafType": "simple (lobed)",
+    "arrangement": "alternate",
+    "search": "Brachychiton acerifolius leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "brachychiton-discolor",
+    "common": "Pink Flame Tree",
+    "scientific": "Brachychiton discolor",
+    "family": "Malvaceae",
+    "group": "broadleaf",
+    "leafType": "simple (lobed)",
+    "arrangement": "alternate",
+    "search": "Brachychiton discolor leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "brachychiton-populneus",
+    "common": "Bottle Tree (Kurrajong)",
+    "scientific": "Brachychiton populneus",
+    "family": "Malvaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Brachychiton populneus leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "brachychiton-rupestris",
+    "common": "Queensland Bottle Tree",
+    "scientific": "Brachychiton rupestris",
+    "family": "Malvaceae",
+    "group": "broadleaf",
+    "leafType": "simple (lobed)",
+    "arrangement": "alternate",
+    "search": "Brachychiton rupestris leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "brahea-armata",
+    "common": "Mexican Blue Palm",
+    "scientific": "Brahea armata",
+    "family": "Arecaceae",
+    "group": "palm",
+    "leafType": "frond (palmate)",
+    "arrangement": "spiral",
+    "search": "Brahea armata leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "brahea-edulis",
+    "common": "Guadalupe Palm",
+    "scientific": "Brahea edulis",
+    "family": "Arecaceae",
+    "group": "palm",
+    "leafType": "frond (palmate)",
+    "arrangement": "spiral",
+    "search": "Brahea edulis leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "butia-capitata",
+    "common": "Pindo Palm (Jelly Palm)",
+    "scientific": "Butia capitata",
+    "family": "Arecaceae",
+    "group": "palm",
+    "leafType": "frond (pinnate)",
+    "arrangement": "spiral",
+    "search": "Butia capitata leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "callistemon-citrinus",
+    "common": "Lemon Bottlebrush",
+    "scientific": "Callistemon citrinus",
+    "family": "Myrtaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Callistemon citrinus leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "callistemon-viminalis",
+    "common": "Weeping Bottlebrush",
+    "scientific": "Callistemon viminalis",
+    "family": "Myrtaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Callistemon viminalis leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "calocedrus-decurrens",
+    "common": "Incense Cedar",
+    "scientific": "Calocedrus decurrens",
+    "family": "Cupressaceae",
+    "group": "conifer",
+    "leafType": "scale-like",
+    "arrangement": "opposite",
+    "search": "Calocedrus decurrens needles",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "calodendrum-capense",
+    "common": "Cape Chestnut",
+    "scientific": "Calodendrum capense",
+    "family": "Rutaceae",
+    "group": "broadleaf",
+    "leafType": "compound (palmate)",
+    "arrangement": "opposite",
+    "search": "Calodendrum capense leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "carpinus-betulus",
+    "common": "European Hornbeam",
+    "scientific": "Carpinus betulus",
+    "family": "Betulaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Carpinus betulus leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "carya-illinoinensis",
+    "common": "Pecan",
+    "scientific": "Carya illinoinensis",
+    "family": "Juglandaceae",
+    "group": "broadleaf",
+    "leafType": "compound",
+    "arrangement": "alternate",
+    "search": "Carya illinoinensis leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "casuarina-cunninghamiana",
+    "common": "River Sheoak",
+    "scientific": "Casuarina cunninghamiana",
+    "family": "Casuarinaceae",
+    "group": "broadleaf",
+    "leafType": "needle-like (jointed branchlets)",
+    "arrangement": "whorled",
+    "search": "Casuarina cunninghamiana leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "casuarina-equisetifolia",
+    "common": "Horsetail Tree",
+    "scientific": "Casuarina equisetifolia",
+    "family": "Casuarinaceae",
+    "group": "broadleaf",
+    "leafType": "needle-like (jointed branchlets)",
+    "arrangement": "whorled",
+    "search": "Casuarina equisetifolia leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "catalpa-bignonioides",
+    "common": "Southern Catalpa",
+    "scientific": "Catalpa bignonioides",
+    "family": "Bignoniaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "whorled",
+    "search": "Catalpa bignonioides leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "catalpa-speciosa",
+    "common": "Western Catalpa",
+    "scientific": "Catalpa speciosa",
+    "family": "Bignoniaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "whorled",
+    "search": "Catalpa speciosa leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "chitalpa-tashkentensis",
+    "common": "Chitalpa",
+    "scientific": "×Chitalpa tashkentensis",
+    "family": "Bignoniaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "opposite",
+    "search": "×Chitalpa tashkentensis leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "cedrela-sinensis",
+    "common": "Chinese Cedar (Chinese Toon)",
+    "scientific": "Cedrela sinensis",
+    "family": "Meliaceae",
+    "group": "broadleaf",
+    "leafType": "compound",
+    "arrangement": "alternate",
+    "search": "Cedrela sinensis leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "cedrus-atlantica",
+    "common": "Atlas Cedar",
+    "scientific": "Cedrus atlantica",
+    "family": "Pinaceae",
+    "group": "conifer",
+    "leafType": "needle",
+    "arrangement": "spiral",
+    "search": "Cedrus atlantica needles",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "cedrus-brevifolia",
+    "common": "Cyprus Cedar",
+    "scientific": "Cedrus brevifolia",
+    "family": "Pinaceae",
+    "group": "conifer",
+    "leafType": "needle",
+    "arrangement": "spiral",
+    "search": "Cedrus brevifolia needles",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "cedrus-deodara",
+    "common": "Deodar Cedar",
+    "scientific": "Cedrus deodara",
+    "family": "Pinaceae",
+    "group": "conifer",
+    "leafType": "needle",
+    "arrangement": "spiral",
+    "search": "Cedrus deodara needles",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "cedrus-libani",
+    "common": "Cedar of Lebanon",
+    "scientific": "Cedrus libani",
+    "family": "Pinaceae",
+    "group": "conifer",
+    "leafType": "needle",
+    "arrangement": "spiral",
+    "search": "Cedrus libani needles",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "ceiba-speciosa",
+    "common": "Floss Silk Tree",
+    "scientific": "Ceiba speciosa",
+    "family": "Malvaceae",
+    "group": "broadleaf",
+    "leafType": "compound (palmate)",
+    "arrangement": "alternate",
+    "search": "Ceiba speciosa leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "celtis-australis",
+    "common": "European Hackberry",
+    "scientific": "Celtis australis",
+    "family": "Cannabaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Celtis australis leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "celtis-laevigata",
+    "common": "Sugarberry",
+    "scientific": "Celtis laevigata",
+    "family": "Cannabaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Celtis laevigata leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "celtis-sinensis",
+    "common": "Chinese Hackberry",
+    "scientific": "Celtis sinensis",
+    "family": "Cannabaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Celtis sinensis leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "ceratonia-siliqua",
+    "common": "Carob Tree",
+    "scientific": "Ceratonia siliqua",
+    "family": "Fabaceae",
+    "group": "broadleaf",
+    "leafType": "compound",
+    "arrangement": "alternate",
+    "search": "Ceratonia siliqua leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "cercidiphyllum-japonicum",
+    "common": "Katsura Tree",
+    "scientific": "Cercidiphyllum japonicum",
+    "family": "Cercidiphyllaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "opposite",
+    "search": "Cercidiphyllum japonicum leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "cercis-occidentalis",
+    "common": "California Redbud",
+    "scientific": "Cercis occidentalis",
+    "family": "Fabaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Cercis occidentalis leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "cercis-siliquastrum",
+    "common": "Judas Tree",
+    "scientific": "Cercis siliquastrum",
+    "family": "Fabaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Cercis siliquastrum leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "chamaecyparis-lawsoniana",
+    "common": "Port Orford Cedar",
+    "scientific": "Chamaecyparis lawsoniana",
+    "family": "Cupressaceae",
+    "group": "conifer",
+    "leafType": "scale-like",
+    "arrangement": "opposite",
+    "search": "Chamaecyparis lawsoniana needles",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "chamaerops-humilis",
+    "common": "Mediterranean Fan Palm",
+    "scientific": "Chamaerops humilis",
+    "family": "Arecaceae",
+    "group": "palm",
+    "leafType": "frond (palmate)",
+    "arrangement": "spiral",
+    "search": "Chamaerops humilis leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "chilopsis-linearis",
+    "common": "Desert Willow",
+    "scientific": "Chilopsis linearis",
+    "family": "Bignoniaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "opposite",
+    "search": "Chilopsis linearis leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "chionanthus-retusus",
+    "common": "Chinese Fringe Tree",
+    "scientific": "Chionanthus retusus",
+    "family": "Oleaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "opposite",
+    "search": "Chionanthus retusus leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "chionanthus-virginicus",
+    "common": "White Fringe Tree",
+    "scientific": "Chionanthus virginicus",
+    "family": "Oleaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "opposite",
+    "search": "Chionanthus virginicus leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "chiranthodendron-pentadactylon",
+    "common": "Monkey Hand Tree",
+    "scientific": "Chiranthodendron pentadactylon",
+    "family": "Malvaceae",
+    "group": "broadleaf",
+    "leafType": "simple (lobed)",
+    "arrangement": "alternate",
+    "search": "Chiranthodendron pentadactylon leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "cinnamomum-camphora",
+    "common": "Camphor Tree",
+    "scientific": "Cinnamomum camphora",
+    "family": "Lauraceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Cinnamomum camphora leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "cordyline-australis",
+    "common": "Cabbage Tree",
+    "scientific": "Cordyline australis",
+    "family": "Asparagaceae",
+    "group": "palm",
+    "leafType": "sword-shaped leaves",
+    "arrangement": "spiral",
+    "search": "Cordyline australis leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "cornus-capitata",
+    "common": "Evergreen Dogwood",
+    "scientific": "Cornus capitata",
+    "family": "Cornaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "opposite",
+    "search": "Cornus capitata leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "cornus-kousa",
+    "common": "Kousa Dogwood",
+    "scientific": "Cornus kousa",
+    "family": "Cornaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "opposite",
+    "search": "Cornus kousa leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "cornus-mas",
+    "common": "Cornelian Cherry",
+    "scientific": "Cornus mas",
+    "family": "Cornaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "opposite",
+    "search": "Cornus mas leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "cornus-nuttallii",
+    "common": "Pacific Dogwood",
+    "scientific": "Cornus nuttallii",
+    "family": "Cornaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "opposite",
+    "search": "Cornus nuttallii leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "corymbia-calophylla",
+    "common": "Marri",
+    "scientific": "Corymbia calophylla",
+    "family": "Myrtaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Corymbia calophylla leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "corymbia-citriodora",
+    "common": "Lemon-scented Gum",
+    "scientific": "Corymbia citriodora",
+    "family": "Myrtaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Corymbia citriodora leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "corymbia-ficifolia",
+    "common": "Red-flowering Gum",
+    "scientific": "Corymbia ficifolia",
+    "family": "Myrtaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Corymbia ficifolia leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "crataegus-lavallei",
+    "common": "Lavalle Hawthorn",
+    "scientific": "Crataegus × lavallei",
+    "family": "Rosaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Crataegus × lavallei leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "crataegus-laevigata",
+    "common": "English Hawthorn",
+    "scientific": "Crataegus laevigata",
+    "family": "Rosaceae",
+    "group": "broadleaf",
+    "leafType": "simple (lobed)",
+    "arrangement": "alternate",
+    "search": "Crataegus laevigata leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "crataegus-phaenopyrum",
+    "common": "Washington Hawthorn",
+    "scientific": "Crataegus phaenopyrum",
+    "family": "Rosaceae",
+    "group": "broadleaf",
+    "leafType": "simple (lobed)",
+    "arrangement": "alternate",
+    "search": "Crataegus phaenopyrum leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "crinodendron-patagua",
+    "common": "Lily-of-the-Valley Tree",
+    "scientific": "Crinodendron patagua",
+    "family": "Elaeocarpaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "opposite",
+    "search": "Crinodendron patagua leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "cryptomeria-japonica",
+    "common": "Japanese Cedar (Sugi)",
+    "scientific": "Cryptomeria japonica",
+    "family": "Cupressaceae",
+    "group": "conifer",
+    "leafType": "needle (awl-like)",
+    "arrangement": "spiral",
+    "search": "Cryptomeria japonica needles",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "cupaniopsis-anacardioides",
+    "common": "Carrotwood",
+    "scientific": "Cupaniopsis anacardioides",
+    "family": "Sapindaceae",
+    "group": "broadleaf",
+    "leafType": "compound",
+    "arrangement": "alternate",
+    "search": "Cupaniopsis anacardioides leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "dodonaea-viscosa",
+    "common": "Hopseed Bush",
+    "scientific": "Dodonaea viscosa",
+    "family": "Sapindaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Dodonaea viscosa leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "dracaena-draco",
+    "common": "Dragon Tree",
+    "scientific": "Dracaena draco",
+    "family": "Asparagaceae",
+    "group": "palm",
+    "leafType": "sword-shaped leaves",
+    "arrangement": "spiral",
+    "search": "Dracaena draco leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "elaeagnus-angustifolia",
+    "common": "Russian Olive",
+    "scientific": "Elaeagnus angustifolia",
+    "family": "Elaeagnaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Elaeagnus angustifolia leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "elaeis-guineensis",
+    "common": "African Oil Palm",
+    "scientific": "Elaeis guineensis",
+    "family": "Arecaceae",
+    "group": "palm",
+    "leafType": "frond (pinnate)",
+    "arrangement": "spiral",
+    "search": "Elaeis guineensis leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "eriobotrya-deflexa",
+    "common": "Bronze Loquat",
+    "scientific": "Eriobotrya deflexa",
+    "family": "Rosaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Eriobotrya deflexa leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "eriobotrya-japonica",
+    "common": "Loquat",
+    "scientific": "Eriobotrya japonica",
+    "family": "Rosaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Eriobotrya japonica leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "erythrina-bidwillii",
+    "common": "Bidwill's Coral Tree",
+    "scientific": "Erythrina × bidwillii",
+    "family": "Fabaceae",
+    "group": "broadleaf",
+    "leafType": "compound (trifoliate)",
+    "arrangement": "alternate",
+    "search": "Erythrina × bidwillii leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "erythrina-caffra",
+    "common": "Coast Coral Tree",
+    "scientific": "Erythrina caffra",
+    "family": "Fabaceae",
+    "group": "broadleaf",
+    "leafType": "compound (trifoliate)",
+    "arrangement": "alternate",
+    "search": "Erythrina caffra leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "erythrina-coralloides",
+    "common": "Naked Coral Tree",
+    "scientific": "Erythrina coralloides",
+    "family": "Fabaceae",
+    "group": "broadleaf",
+    "leafType": "compound (trifoliate)",
+    "arrangement": "alternate",
+    "search": "Erythrina coralloides leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "erythrina-crista-galli",
+    "common": "Cockspur Coral Tree",
+    "scientific": "Erythrina crista-galli",
+    "family": "Fabaceae",
+    "group": "broadleaf",
+    "leafType": "compound (trifoliate)",
+    "arrangement": "alternate",
+    "search": "Erythrina crista-galli leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "erythrina-falcata",
+    "common": "Brazilian Coral Tree",
+    "scientific": "Erythrina falcata",
+    "family": "Fabaceae",
+    "group": "broadleaf",
+    "leafType": "compound (trifoliate)",
+    "arrangement": "alternate",
+    "search": "Erythrina falcata leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "erythrina-humeana",
+    "common": "Dwarf Coral Tree",
+    "scientific": "Erythrina humeana",
+    "family": "Fabaceae",
+    "group": "broadleaf",
+    "leafType": "compound (trifoliate)",
+    "arrangement": "alternate",
+    "search": "Erythrina humeana leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "erythrina-latissima",
+    "common": "Broad-leaved Coral Tree",
+    "scientific": "Erythrina latissima",
+    "family": "Fabaceae",
+    "group": "broadleaf",
+    "leafType": "compound (trifoliate)",
+    "arrangement": "alternate",
+    "search": "Erythrina latissima leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "erythrina-lysistemon",
+    "common": "Common Coral Tree",
+    "scientific": "Erythrina lysistemon",
+    "family": "Fabaceae",
+    "group": "broadleaf",
+    "leafType": "compound (trifoliate)",
+    "arrangement": "alternate",
+    "search": "Erythrina lysistemon leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "erythrina-speciosa",
+    "common": "Brazilian Fireman's Cap",
+    "scientific": "Erythrina speciosa",
+    "family": "Fabaceae",
+    "group": "broadleaf",
+    "leafType": "compound (trifoliate)",
+    "arrangement": "alternate",
+    "search": "Erythrina speciosa leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "erythrina-sykesii",
+    "common": "Sykes' Coral Tree",
+    "scientific": "Erythrina × sykesii",
+    "family": "Fabaceae",
+    "group": "broadleaf",
+    "leafType": "compound (trifoliate)",
+    "arrangement": "alternate",
+    "search": "Erythrina × sykesii leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "eucalyptus-camaldulensis",
+    "common": "River Red Gum",
+    "scientific": "Eucalyptus camaldulensis",
+    "family": "Myrtaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Eucalyptus camaldulensis leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "eucalyptus-cinerea",
+    "common": "Silver Dollar Gum (Argyle Apple)",
+    "scientific": "Eucalyptus cinerea",
+    "family": "Myrtaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "opposite (juvenile)",
+    "search": "Eucalyptus cinerea leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "eucalyptus-cladocalyx",
+    "common": "Sugar Gum",
+    "scientific": "Eucalyptus cladocalyx",
+    "family": "Myrtaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Eucalyptus cladocalyx leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "eucalyptus-conferruminata",
+    "common": "Bushy Yate",
+    "scientific": "Eucalyptus conferruminata",
+    "family": "Myrtaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Eucalyptus conferruminata leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "eucalyptus-globulus",
+    "common": "Blue Gum",
+    "scientific": "Eucalyptus globulus",
+    "family": "Myrtaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Eucalyptus globulus leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "eucalyptus-grandis",
+    "common": "Rose Gum",
+    "scientific": "Eucalyptus grandis",
+    "family": "Myrtaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Eucalyptus grandis leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "eucalyptus-gunnii",
+    "common": "Cider Gum",
+    "scientific": "Eucalyptus gunnii",
+    "family": "Myrtaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "opposite (juvenile)",
+    "search": "Eucalyptus gunnii leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "eucalyptus-leucoxylon",
+    "common": "White Ironbark",
+    "scientific": "Eucalyptus leucoxylon",
+    "family": "Myrtaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Eucalyptus leucoxylon leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "eucalyptus-nicholii",
+    "common": "Narrow-leaved Black Peppermint",
+    "scientific": "Eucalyptus nicholii",
+    "family": "Myrtaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Eucalyptus nicholii leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "eucalyptus-polyanthemos",
+    "common": "Silver Dollar Gum (Red Box)",
+    "scientific": "Eucalyptus polyanthemos",
+    "family": "Myrtaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "opposite (juvenile)",
+    "search": "Eucalyptus polyanthemos leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "eucalyptus-pulverulenta",
+    "common": "Silver-leaved Mountain Gum",
+    "scientific": "Eucalyptus pulverulenta",
+    "family": "Myrtaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "opposite",
+    "search": "Eucalyptus pulverulenta leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "eucalyptus-robusta",
+    "common": "Swamp Mahogany",
+    "scientific": "Eucalyptus robusta",
+    "family": "Myrtaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Eucalyptus robusta leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "eucalyptus-rudis",
+    "common": "Flooded Gum",
+    "scientific": "Eucalyptus rudis",
+    "family": "Myrtaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Eucalyptus rudis leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "eucalyptus-saligna",
+    "common": "Sydney Blue Gum",
+    "scientific": "Eucalyptus saligna",
+    "family": "Myrtaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Eucalyptus saligna leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "eucalyptus-sideroxylon",
+    "common": "Red Ironbark",
+    "scientific": "Eucalyptus sideroxylon",
+    "family": "Myrtaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Eucalyptus sideroxylon leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "eucalyptus-tereticornis",
+    "common": "Forest Red Gum",
+    "scientific": "Eucalyptus tereticornis",
+    "family": "Myrtaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Eucalyptus tereticornis leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "eucalyptus-torquata",
+    "common": "Coral Gum",
+    "scientific": "Eucalyptus torquata",
+    "family": "Myrtaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Eucalyptus torquata leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "eucalyptus-viminalis",
+    "common": "Manna Gum",
+    "scientific": "Eucalyptus viminalis",
+    "family": "Myrtaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Eucalyptus viminalis leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "euterpe-oleracea",
+    "common": "Açaí Palm",
+    "scientific": "Euterpe oleracea",
+    "family": "Arecaceae",
+    "group": "palm",
+    "leafType": "frond (pinnate)",
+    "arrangement": "spiral",
+    "search": "Euterpe oleracea leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "fagus-sylvatica",
+    "common": "European Beech",
+    "scientific": "Fagus sylvatica",
+    "family": "Fagaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Fagus sylvatica leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "feijoa-sellowiana",
+    "common": "Pineapple Guava",
+    "scientific": "Feijoa sellowiana",
+    "family": "Myrtaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "opposite",
+    "search": "Feijoa sellowiana leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "ficus-auriculata",
+    "common": "Roxburgh Fig",
+    "scientific": "Ficus auriculata",
+    "family": "Moraceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Ficus auriculata leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "ficus-benjamina",
+    "common": "Weeping Fig",
+    "scientific": "Ficus benjamina",
+    "family": "Moraceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Ficus benjamina leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "ficus-carica",
+    "common": "Common Fig",
+    "scientific": "Ficus carica",
+    "family": "Moraceae",
+    "group": "broadleaf",
+    "leafType": "simple (lobed)",
+    "arrangement": "alternate",
+    "search": "Ficus carica leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "ficus-elastica",
+    "common": "Rubber Tree",
+    "scientific": "Ficus elastica",
+    "family": "Moraceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Ficus elastica leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "ficus-macrophylla",
+    "common": "Moreton Bay Fig",
+    "scientific": "Ficus macrophylla",
+    "family": "Moraceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Ficus macrophylla leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "ficus-microcarpa",
+    "common": "Indian Laurel Fig",
+    "scientific": "Ficus microcarpa",
+    "family": "Moraceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Ficus microcarpa leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "ficus-rubiginosa",
+    "common": "Rusty Fig (Port Jackson Fig)",
+    "scientific": "Ficus rubiginosa",
+    "family": "Moraceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Ficus rubiginosa leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "firmiana-simplex",
+    "common": "Chinese Parasol Tree",
+    "scientific": "Firmiana simplex",
+    "family": "Malvaceae",
+    "group": "broadleaf",
+    "leafType": "simple (lobed)",
+    "arrangement": "alternate",
+    "search": "Firmiana simplex leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "fraxinus-angustifolia",
+    "common": "Narrow-leaved Ash (Raywood)",
+    "scientific": "Fraxinus angustifolia",
+    "family": "Oleaceae",
+    "group": "broadleaf",
+    "leafType": "compound",
+    "arrangement": "opposite",
+    "search": "Fraxinus angustifolia leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "fraxinus-holotricha",
+    "common": "Moraine Ash",
+    "scientific": "Fraxinus holotricha",
+    "family": "Oleaceae",
+    "group": "broadleaf",
+    "leafType": "compound",
+    "arrangement": "opposite",
+    "search": "Fraxinus holotricha leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "fraxinus-latifolia",
+    "common": "Oregon Ash",
+    "scientific": "Fraxinus latifolia",
+    "family": "Oleaceae",
+    "group": "broadleaf",
+    "leafType": "compound",
+    "arrangement": "opposite",
+    "search": "Fraxinus latifolia leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "fraxinus-uhdei",
+    "common": "Shamel Ash",
+    "scientific": "Fraxinus uhdei",
+    "family": "Oleaceae",
+    "group": "broadleaf",
+    "leafType": "compound",
+    "arrangement": "opposite",
+    "search": "Fraxinus uhdei leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "fraxinus-velutina",
+    "common": "Velvet Ash (Modesto Ash)",
+    "scientific": "Fraxinus velutina",
+    "family": "Oleaceae",
+    "group": "broadleaf",
+    "leafType": "compound",
+    "arrangement": "opposite",
+    "search": "Fraxinus velutina leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "fraxinus-ornus",
+    "common": "Flowering Ash (Manna Ash)",
+    "scientific": "Fraxinus ornus",
+    "family": "Oleaceae",
+    "group": "broadleaf",
+    "leafType": "compound",
+    "arrangement": "opposite",
+    "search": "Fraxinus ornus leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "geijera-parviflora",
+    "common": "Australian Willow",
+    "scientific": "Geijera parviflora",
+    "family": "Rutaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Geijera parviflora leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "ginkgo-biloba",
+    "common": "Ginkgo (Maidenhair Tree)",
+    "scientific": "Ginkgo biloba",
+    "family": "Ginkgoaceae",
+    "group": "broadleaf",
+    "leafType": "simple (fan-shaped)",
+    "arrangement": "alternate (spurred)",
+    "search": "Ginkgo biloba leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "grevillea-robusta",
+    "common": "Silk Oak",
+    "scientific": "Grevillea robusta",
+    "family": "Proteaceae",
+    "group": "broadleaf",
+    "leafType": "compound (fern-like)",
+    "arrangement": "alternate",
+    "search": "Grevillea robusta leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "handroanthus-chrysotrichus",
+    "common": "Golden Trumpet Tree",
+    "scientific": "Handroanthus chrysotrichus",
+    "family": "Bignoniaceae",
+    "group": "broadleaf",
+    "leafType": "compound (palmate)",
+    "arrangement": "opposite",
+    "search": "Handroanthus chrysotrichus leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "harpephyllum-caffrum",
+    "common": "Wild Plum (Kaffir Plum)",
+    "scientific": "Harpephyllum caffrum",
+    "family": "Anacardiaceae",
+    "group": "broadleaf",
+    "leafType": "compound",
+    "arrangement": "alternate",
+    "search": "Harpephyllum caffrum leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "hesperocyparis-macrocarpa",
+    "common": "Monterey Cypress",
+    "scientific": "Hesperocyparis macrocarpa",
+    "family": "Cupressaceae",
+    "group": "conifer",
+    "leafType": "scale-like",
+    "arrangement": "opposite",
+    "search": "Hesperocyparis macrocarpa needles",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "hesperotropsis-leylandii",
+    "common": "Leyland Cypress",
+    "scientific": "×Hesperotropsis leylandii",
+    "family": "Cupressaceae",
+    "group": "conifer",
+    "leafType": "scale-like",
+    "arrangement": "opposite",
+    "search": "×Hesperotropsis leylandii needles",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "heteromeles-arbutifolia",
+    "common": "Toyon (California Holly)",
+    "scientific": "Heteromeles arbutifolia",
+    "family": "Rosaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Heteromeles arbutifolia leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "hymenosporum-flavum",
+    "common": "Sweetshade",
+    "scientific": "Hymenosporum flavum",
+    "family": "Pittosporaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Hymenosporum flavum leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "jacaranda-mimosifolia",
+    "common": "Jacaranda",
+    "scientific": "Jacaranda mimosifolia",
+    "family": "Bignoniaceae",
+    "group": "broadleaf",
+    "leafType": "compound (bipinnate)",
+    "arrangement": "opposite",
+    "search": "Jacaranda mimosifolia leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "koelreuteria-bipinnata",
+    "common": "Chinese Flame Tree",
+    "scientific": "Koelreuteria bipinnata",
+    "family": "Sapindaceae",
+    "group": "broadleaf",
+    "leafType": "compound (bipinnate)",
+    "arrangement": "alternate",
+    "search": "Koelreuteria bipinnata leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "koelreuteria-elegans",
+    "common": "Flamegold Tree",
+    "scientific": "Koelreuteria elegans",
+    "family": "Sapindaceae",
+    "group": "broadleaf",
+    "leafType": "compound",
+    "arrangement": "alternate",
+    "search": "Koelreuteria elegans leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "koelreuteria-paniculata",
+    "common": "Goldenrain Tree",
+    "scientific": "Koelreuteria paniculata",
+    "family": "Sapindaceae",
+    "group": "broadleaf",
+    "leafType": "compound",
+    "arrangement": "alternate",
+    "search": "Koelreuteria paniculata leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "lagerstroemia-fauriei",
+    "common": "Japanese Crape Myrtle",
+    "scientific": "Lagerstroemia fauriei",
+    "family": "Lythraceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "opposite",
+    "search": "Lagerstroemia fauriei leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "lagerstroemia-indica",
+    "common": "Crape Myrtle",
+    "scientific": "Lagerstroemia indica",
+    "family": "Lythraceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "opposite",
+    "search": "Lagerstroemia indica leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "lagunaria-patersonia",
+    "common": "Norfolk Island Hibiscus",
+    "scientific": "Lagunaria patersonia",
+    "family": "Malvaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Lagunaria patersonia leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "laurus-nobilis",
+    "common": "Bay Laurel (Grecian Laurel)",
+    "scientific": "Laurus nobilis",
+    "family": "Lauraceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Laurus nobilis leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "leptospermum-laevigatum",
+    "common": "Australian Tea Tree",
+    "scientific": "Leptospermum laevigatum",
+    "family": "Myrtaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Leptospermum laevigatum leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "ligustrum-japonicum",
+    "common": "Japanese Privet",
+    "scientific": "Ligustrum japonicum",
+    "family": "Oleaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "opposite",
+    "search": "Ligustrum japonicum leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "lophostemon-confertus",
+    "common": "Brisbane Box",
+    "scientific": "Lophostemon confertus",
+    "family": "Myrtaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Lophostemon confertus leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "lyonothamnus-floribundus",
+    "common": "Catalina Ironwood",
+    "scientific": "Lyonothamnus floribundus",
+    "family": "Rosaceae",
+    "group": "broadleaf",
+    "leafType": "compound",
+    "arrangement": "opposite",
+    "search": "Lyonothamnus floribundus leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "macadamia-integrifolia",
+    "common": "Macadamia",
+    "scientific": "Macadamia integrifolia",
+    "family": "Proteaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "whorled",
+    "search": "Macadamia integrifolia leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "magnolia-denudata",
+    "common": "Lily Magnolia (Yulan)",
+    "scientific": "Magnolia denudata",
+    "family": "Magnoliaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Magnolia denudata leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "magnolia-grandiflora",
+    "common": "Southern Magnolia",
+    "scientific": "Magnolia grandiflora",
+    "family": "Magnoliaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Magnolia grandiflora leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "magnolia-soulangeana",
+    "common": "Saucer Magnolia",
+    "scientific": "Magnolia × soulangeana",
+    "family": "Magnoliaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Magnolia × soulangeana leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "magnolia-liliiflora",
+    "common": "Mulan Magnolia",
+    "scientific": "Magnolia liliiflora",
+    "family": "Magnoliaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Magnolia liliiflora leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "malus-floribunda",
+    "common": "Japanese Flowering Crabapple",
+    "scientific": "Malus floribunda",
+    "family": "Rosaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Malus floribunda leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "mangifera-indica",
+    "common": "Mango",
+    "scientific": "Mangifera indica",
+    "family": "Anacardiaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Mangifera indica leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "markhamia-lutea",
+    "common": "Nile Tulip Tree",
+    "scientific": "Markhamia lutea",
+    "family": "Bignoniaceae",
+    "group": "broadleaf",
+    "leafType": "compound",
+    "arrangement": "opposite",
+    "search": "Markhamia lutea leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "maytenus-boaria",
+    "common": "Mayten Tree",
+    "scientific": "Maytenus boaria",
+    "family": "Celastraceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Maytenus boaria leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "melaleuca-armillaris",
+    "common": "Bracelet Honey Myrtle",
+    "scientific": "Melaleuca armillaris",
+    "family": "Myrtaceae",
+    "group": "broadleaf",
+    "leafType": "simple (needle-like)",
+    "arrangement": "alternate",
+    "search": "Melaleuca armillaris leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "melaleuca-ericifolia",
+    "common": "Heath Melaleuca",
+    "scientific": "Melaleuca ericifolia",
+    "family": "Myrtaceae",
+    "group": "broadleaf",
+    "leafType": "simple (needle-like)",
+    "arrangement": "alternate",
+    "search": "Melaleuca ericifolia leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "melaleuca-linariifolia",
+    "common": "Flaxleaf Paperbark",
+    "scientific": "Melaleuca linariifolia",
+    "family": "Myrtaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Melaleuca linariifolia leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "melaleuca-nesophila",
+    "common": "Pink Melaleuca",
+    "scientific": "Melaleuca nesophila",
+    "family": "Myrtaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Melaleuca nesophila leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "melaleuca-quinquenervia",
+    "common": "Cajeput Tree (Punk Tree)",
+    "scientific": "Melaleuca quinquenervia",
+    "family": "Myrtaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Melaleuca quinquenervia leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "melaleuca-styphelioides",
+    "common": "Prickly-leaved Paperbark",
+    "scientific": "Melaleuca styphelioides",
+    "family": "Myrtaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Melaleuca styphelioides leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "melia-azedarach",
+    "common": "Chinaberry (Bead Tree)",
+    "scientific": "Melia azedarach",
+    "family": "Meliaceae",
+    "group": "broadleaf",
+    "leafType": "compound",
+    "arrangement": "alternate",
+    "search": "Melia azedarach leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "metasequoia-glyptostroboides",
+    "common": "Dawn Redwood",
+    "scientific": "Metasequoia glyptostroboides",
+    "family": "Cupressaceae",
+    "group": "conifer",
+    "leafType": "needle (deciduous)",
+    "arrangement": "opposite",
+    "search": "Metasequoia glyptostroboides needles",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "metrosideros-excelsa",
+    "common": "New Zealand Christmas Tree",
+    "scientific": "Metrosideros excelsa",
+    "family": "Myrtaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "opposite",
+    "search": "Metrosideros excelsa leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "michelia-doltsopa",
+    "common": "Sweet Michelia",
+    "scientific": "Michelia doltsopa",
+    "family": "Magnoliaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Michelia doltsopa leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "morus-alba",
+    "common": "White Mulberry",
+    "scientific": "Morus alba",
+    "family": "Moraceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Morus alba leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "morus-nigra",
+    "common": "Black Mulberry",
+    "scientific": "Morus nigra",
+    "family": "Moraceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Morus nigra leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "myoporum-laetum",
+    "common": "Myoporum (Ngaio Tree)",
+    "scientific": "Myoporum laetum",
+    "family": "Scrophulariaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Myoporum laetum leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "nerium-oleander",
+    "common": "Oleander",
+    "scientific": "Nerium oleander",
+    "family": "Apocynaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "whorled",
+    "search": "Nerium oleander leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "nolina-recurvata",
+    "common": "Ponytail Palm",
+    "scientific": "Nolina recurvata",
+    "family": "Asparagaceae",
+    "group": "palm",
+    "leafType": "sword-shaped leaves",
+    "arrangement": "spiral",
+    "search": "Nolina recurvata leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "olea-europaea",
+    "common": "Olive",
+    "scientific": "Olea europaea",
+    "family": "Oleaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "opposite",
+    "search": "Olea europaea leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "parkinsonia-aculeata",
+    "common": "Mexican Palo Verde",
+    "scientific": "Parkinsonia aculeata",
+    "family": "Fabaceae",
+    "group": "broadleaf",
+    "leafType": "compound",
+    "arrangement": "alternate",
+    "search": "Parkinsonia aculeata leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "parkinsonia-florida",
+    "common": "Blue Palo Verde",
+    "scientific": "Parkinsonia florida",
+    "family": "Fabaceae",
+    "group": "broadleaf",
+    "leafType": "compound",
+    "arrangement": "alternate",
+    "search": "Parkinsonia florida leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "parkinsonia-microphylla",
+    "common": "Foothill Palo Verde",
+    "scientific": "Parkinsonia microphylla",
+    "family": "Fabaceae",
+    "group": "broadleaf",
+    "leafType": "compound",
+    "arrangement": "alternate",
+    "search": "Parkinsonia microphylla leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "parrotia-persica",
+    "common": "Persian Ironwood",
+    "scientific": "Parrotia persica",
+    "family": "Hamamelidaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Parrotia persica leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "paulownia-tomentosa",
+    "common": "Empress Tree (Princess Tree)",
+    "scientific": "Paulownia tomentosa",
+    "family": "Paulowniaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "opposite",
+    "search": "Paulownia tomentosa leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "persea-americana",
+    "common": "Avocado",
+    "scientific": "Persea americana",
+    "family": "Lauraceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Persea americana leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "phoenix-canariensis",
+    "common": "Canary Island Date Palm",
+    "scientific": "Phoenix canariensis",
+    "family": "Arecaceae",
+    "group": "palm",
+    "leafType": "frond (pinnate)",
+    "arrangement": "spiral",
+    "search": "Phoenix canariensis leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "phoenix-dactylifera",
+    "common": "Date Palm",
+    "scientific": "Phoenix dactylifera",
+    "family": "Arecaceae",
+    "group": "palm",
+    "leafType": "frond (pinnate)",
+    "arrangement": "spiral",
+    "search": "Phoenix dactylifera leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "phoenix-reclinata",
+    "common": "Senegal Date Palm",
+    "scientific": "Phoenix reclinata",
+    "family": "Arecaceae",
+    "group": "palm",
+    "leafType": "frond (pinnate)",
+    "arrangement": "spiral",
+    "search": "Phoenix reclinata leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "phoenix-roebelenii",
+    "common": "Pygmy Date Palm",
+    "scientific": "Phoenix roebelenii",
+    "family": "Arecaceae",
+    "group": "palm",
+    "leafType": "frond (pinnate)",
+    "arrangement": "spiral",
+    "search": "Phoenix roebelenii leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "photinia-serrulata",
+    "common": "Chinese Photinia",
+    "scientific": "Photinia serrulata",
+    "family": "Rosaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Photinia serrulata leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "pinus-canariensis",
+    "common": "Canary Island Pine",
+    "scientific": "Pinus canariensis",
+    "family": "Pinaceae",
+    "group": "conifer",
+    "leafType": "needle (3 per bundle)",
+    "arrangement": "spiral",
+    "search": "Pinus canariensis needles",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "pinus-eldarica",
+    "common": "Afghan Pine (Mondell)",
+    "scientific": "Pinus eldarica",
+    "family": "Pinaceae",
+    "group": "conifer",
+    "leafType": "needle (3 per bundle)",
+    "arrangement": "spiral",
+    "search": "Pinus eldarica needles",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "pinus-halepensis",
+    "common": "Aleppo Pine",
+    "scientific": "Pinus halepensis",
+    "family": "Pinaceae",
+    "group": "conifer",
+    "leafType": "needle (2 per bundle)",
+    "arrangement": "spiral",
+    "search": "Pinus halepensis needles",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "pinus-mugo",
+    "common": "Mugo Pine",
+    "scientific": "Pinus mugo",
+    "family": "Pinaceae",
+    "group": "conifer",
+    "leafType": "needle (2 per bundle)",
+    "arrangement": "spiral",
+    "search": "Pinus mugo needles",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "pinus-nigra",
+    "common": "Austrian Pine",
+    "scientific": "Pinus nigra",
+    "family": "Pinaceae",
+    "group": "conifer",
+    "leafType": "needle (2 per bundle)",
+    "arrangement": "spiral",
+    "search": "Pinus nigra needles",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "pinus-patula",
+    "common": "Jelecote Pine",
+    "scientific": "Pinus patula",
+    "family": "Pinaceae",
+    "group": "conifer",
+    "leafType": "needle (3-4 per bundle)",
+    "arrangement": "spiral",
+    "search": "Pinus patula needles",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "pinus-pinea",
+    "common": "Italian Stone Pine",
+    "scientific": "Pinus pinea",
+    "family": "Pinaceae",
+    "group": "conifer",
+    "leafType": "needle (2 per bundle)",
+    "arrangement": "spiral",
+    "search": "Pinus pinea needles",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "pinus-ponderosa",
+    "common": "Ponderosa Pine",
+    "scientific": "Pinus ponderosa",
+    "family": "Pinaceae",
+    "group": "conifer",
+    "leafType": "needle (3 per bundle)",
+    "arrangement": "spiral",
+    "search": "Pinus ponderosa needles",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "pinus-radiata",
+    "common": "Monterey Pine",
+    "scientific": "Pinus radiata",
+    "family": "Pinaceae",
+    "group": "conifer",
+    "leafType": "needle (3 per bundle)",
+    "arrangement": "spiral",
+    "search": "Pinus radiata needles",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "pinus-thunbergii",
+    "common": "Japanese Black Pine",
+    "scientific": "Pinus thunbergii",
+    "family": "Pinaceae",
+    "group": "conifer",
+    "leafType": "needle (2 per bundle)",
+    "arrangement": "spiral",
+    "search": "Pinus thunbergii needles",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "pinus-torreyana",
+    "common": "Torrey Pine",
+    "scientific": "Pinus torreyana",
+    "family": "Pinaceae",
+    "group": "conifer",
+    "leafType": "needle (5 per bundle)",
+    "arrangement": "spiral",
+    "search": "Pinus torreyana needles",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "pistacia-chinensis",
+    "common": "Chinese Pistache",
+    "scientific": "Pistacia chinensis",
+    "family": "Anacardiaceae",
+    "group": "broadleaf",
+    "leafType": "compound",
+    "arrangement": "alternate",
+    "search": "Pistacia chinensis leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "pistacia-vera",
+    "common": "Pistachio",
+    "scientific": "Pistacia vera",
+    "family": "Anacardiaceae",
+    "group": "broadleaf",
+    "leafType": "compound",
+    "arrangement": "alternate",
+    "search": "Pistacia vera leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "pittosporum-angustifolium",
+    "common": "Weeping Pittosporum",
+    "scientific": "Pittosporum angustifolium",
+    "family": "Pittosporaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Pittosporum angustifolium leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "pittosporum-crassifolium",
+    "common": "Karo",
+    "scientific": "Pittosporum crassifolium",
+    "family": "Pittosporaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Pittosporum crassifolium leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "pittosporum-eugenioides",
+    "common": "Tarata (Lemonwood)",
+    "scientific": "Pittosporum eugenioides",
+    "family": "Pittosporaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Pittosporum eugenioides leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "pittosporum-rhombifolium",
+    "common": "Diamond-leaf Pittosporum",
+    "scientific": "Pittosporum rhombifolium",
+    "family": "Pittosporaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Pittosporum rhombifolium leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "pittosporum-tenuifolium",
+    "common": "Kohuhu",
+    "scientific": "Pittosporum tenuifolium",
+    "family": "Pittosporaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Pittosporum tenuifolium leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "pittosporum-tobira",
+    "common": "Japanese Mock Orange",
+    "scientific": "Pittosporum tobira",
+    "family": "Pittosporaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "whorled",
+    "search": "Pittosporum tobira leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "platanus-acerifolia",
+    "common": "London Plane",
+    "scientific": "Platanus × acerifolia",
+    "family": "Platanaceae",
+    "group": "broadleaf",
+    "leafType": "simple (lobed)",
+    "arrangement": "alternate",
+    "search": "Platanus × acerifolia leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "platanus-mexicana",
+    "common": "Mexican Sycamore",
+    "scientific": "Platanus mexicana",
+    "family": "Platanaceae",
+    "group": "broadleaf",
+    "leafType": "simple (lobed)",
+    "arrangement": "alternate",
+    "search": "Platanus mexicana leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "platanus-racemosa",
+    "common": "California Sycamore",
+    "scientific": "Platanus racemosa",
+    "family": "Platanaceae",
+    "group": "broadleaf",
+    "leafType": "simple (lobed)",
+    "arrangement": "alternate",
+    "search": "Platanus racemosa leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "podocarpus-macrophyllus",
+    "common": "Yew Pine (Buddhist Pine)",
+    "scientific": "Podocarpus macrophyllus",
+    "family": "Podocarpaceae",
+    "group": "conifer",
+    "leafType": "needle (flat)",
+    "arrangement": "alternate",
+    "search": "Podocarpus macrophyllus needles",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "populus-nigra-italica",
+    "common": "Lombardy Poplar",
+    "scientific": "Populus nigra",
+    "family": "Salicaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Populus nigra leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "prunus-campanulata",
+    "common": "Taiwan Flowering Cherry",
+    "scientific": "Prunus campanulata",
+    "family": "Rosaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Prunus campanulata leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "prunus-caroliniana",
+    "common": "Carolina Laurel Cherry",
+    "scientific": "Prunus caroliniana",
+    "family": "Rosaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Prunus caroliniana leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "prunus-cerasifera",
+    "common": "Purple-leaf Plum",
+    "scientific": "Prunus cerasifera",
+    "family": "Rosaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Prunus cerasifera leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "prunus-ilicifolia",
+    "common": "Hollyleaf Cherry",
+    "scientific": "Prunus ilicifolia",
+    "family": "Rosaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Prunus ilicifolia leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "prunus-laurocerasus",
+    "common": "English Laurel",
+    "scientific": "Prunus laurocerasus",
+    "family": "Rosaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Prunus laurocerasus leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "prunus-lusitanica",
+    "common": "Portugal Laurel",
+    "scientific": "Prunus lusitanica",
+    "family": "Rosaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Prunus lusitanica leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "prunus-serrulata",
+    "common": "Japanese Flowering Cherry",
+    "scientific": "Prunus serrulata",
+    "family": "Rosaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Prunus serrulata leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "pyrus-calleryana",
+    "common": "Callery Pear (Bradford Pear)",
+    "scientific": "Pyrus calleryana",
+    "family": "Rosaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Pyrus calleryana leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "quercus-agrifolia",
+    "common": "Coast Live Oak",
+    "scientific": "Quercus agrifolia",
+    "family": "Fagaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Quercus agrifolia leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "quercus-chrysolepis",
+    "common": "Canyon Live Oak",
+    "scientific": "Quercus chrysolepis",
+    "family": "Fagaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Quercus chrysolepis leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "quercus-douglasii",
+    "common": "Blue Oak",
+    "scientific": "Quercus douglasii",
+    "family": "Fagaceae",
+    "group": "broadleaf",
+    "leafType": "simple (lobed)",
+    "arrangement": "alternate",
+    "search": "Quercus douglasii leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "quercus-engelmannii",
+    "common": "Engelmann Oak",
+    "scientific": "Quercus engelmannii",
+    "family": "Fagaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Quercus engelmannii leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "quercus-garryana",
+    "common": "Oregon White Oak",
+    "scientific": "Quercus garryana",
+    "family": "Fagaceae",
+    "group": "broadleaf",
+    "leafType": "simple (lobed)",
+    "arrangement": "alternate",
+    "search": "Quercus garryana leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "quercus-hypoleucoides",
+    "common": "Silverleaf Oak",
+    "scientific": "Quercus hypoleucoides",
+    "family": "Fagaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Quercus hypoleucoides leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "quercus-ilex",
+    "common": "Holm Oak",
+    "scientific": "Quercus ilex",
+    "family": "Fagaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Quercus ilex leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "quercus-kelloggii",
+    "common": "California Black Oak",
+    "scientific": "Quercus kelloggii",
+    "family": "Fagaceae",
+    "group": "broadleaf",
+    "leafType": "simple (lobed)",
+    "arrangement": "alternate",
+    "search": "Quercus kelloggii leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "quercus-lobata",
+    "common": "Valley Oak",
+    "scientific": "Quercus lobata",
+    "family": "Fagaceae",
+    "group": "broadleaf",
+    "leafType": "simple (lobed)",
+    "arrangement": "alternate",
+    "search": "Quercus lobata leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "quercus-parvula-shrevei",
+    "common": "Shreve Oak",
+    "scientific": "Quercus parvula var. shrevei",
+    "family": "Fagaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Quercus parvula var. shrevei leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "quercus-robur",
+    "common": "English Oak",
+    "scientific": "Quercus robur",
+    "family": "Fagaceae",
+    "group": "broadleaf",
+    "leafType": "simple (lobed)",
+    "arrangement": "alternate",
+    "search": "Quercus robur leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "quercus-suber",
+    "common": "Cork Oak",
+    "scientific": "Quercus suber",
+    "family": "Fagaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Quercus suber leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "quercus-tomentella",
+    "common": "Island Oak",
+    "scientific": "Quercus tomentella",
+    "family": "Fagaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Quercus tomentella leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "quercus-virginiana",
+    "common": "Southern Live Oak",
+    "scientific": "Quercus virginiana",
+    "family": "Fagaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Quercus virginiana leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "quercus-wislizeni",
+    "common": "Interior Live Oak",
+    "scientific": "Quercus wislizeni",
+    "family": "Fagaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Quercus wislizeni leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "robinia-ambigua",
+    "common": "Idaho Locust",
+    "scientific": "Robinia × ambigua",
+    "family": "Fabaceae",
+    "group": "broadleaf",
+    "leafType": "compound",
+    "arrangement": "alternate",
+    "search": "Robinia × ambigua leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "schefflera-actinophylla",
+    "common": "Umbrella Tree (Octopus Tree)",
+    "scientific": "Schefflera actinophylla",
+    "family": "Araliaceae",
+    "group": "broadleaf",
+    "leafType": "compound (palmate)",
+    "arrangement": "alternate",
+    "search": "Schefflera actinophylla leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "schinus-molle",
+    "common": "California Pepper Tree",
+    "scientific": "Schinus molle",
+    "family": "Anacardiaceae",
+    "group": "broadleaf",
+    "leafType": "compound",
+    "arrangement": "alternate",
+    "search": "Schinus molle leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "schinus-terebinthifolius",
+    "common": "Brazilian Pepper Tree",
+    "scientific": "Schinus terebinthifolius",
+    "family": "Anacardiaceae",
+    "group": "broadleaf",
+    "leafType": "compound",
+    "arrangement": "alternate",
+    "search": "Schinus terebinthifolius leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "schinus-polygamus",
+    "common": "Huingan (Southern Peppertree)",
+    "scientific": "Schinus polygamus",
+    "family": "Anacardiaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Schinus polygamus leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "sclerocarya-birrea",
+    "common": "Marula",
+    "scientific": "Sclerocarya birrea",
+    "family": "Anacardiaceae",
+    "group": "broadleaf",
+    "leafType": "compound",
+    "arrangement": "alternate",
+    "search": "Sclerocarya birrea leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "sequoia-sempervirens",
+    "common": "Coast Redwood",
+    "scientific": "Sequoia sempervirens",
+    "family": "Cupressaceae",
+    "group": "conifer",
+    "leafType": "needle (flat, 2-ranked)",
+    "arrangement": "spiral",
+    "search": "Sequoia sempervirens needles",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "sequoiadendron-giganteum",
+    "common": "Giant Sequoia",
+    "scientific": "Sequoiadendron giganteum",
+    "family": "Cupressaceae",
+    "group": "conifer",
+    "leafType": "needle (awl-like)",
+    "arrangement": "spiral",
+    "search": "Sequoiadendron giganteum needles",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "styphnolobium-japonicum",
+    "common": "Japanese Pagoda Tree",
+    "scientific": "Styphnolobium japonicum",
+    "family": "Fabaceae",
+    "group": "broadleaf",
+    "leafType": "compound",
+    "arrangement": "alternate",
+    "search": "Styphnolobium japonicum leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "spathodea-campanulata",
+    "common": "African Tulip Tree",
+    "scientific": "Spathodea campanulata",
+    "family": "Bignoniaceae",
+    "group": "broadleaf",
+    "leafType": "compound",
+    "arrangement": "opposite",
+    "search": "Spathodea campanulata leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "stenocarpus-sinuatus",
+    "common": "Firewheel Tree",
+    "scientific": "Stenocarpus sinuatus",
+    "family": "Proteaceae",
+    "group": "broadleaf",
+    "leafType": "simple (lobed)",
+    "arrangement": "alternate",
+    "search": "Stenocarpus sinuatus leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "syagrus-romanzoffiana",
+    "common": "Queen Palm",
+    "scientific": "Syagrus romanzoffiana",
+    "family": "Arecaceae",
+    "group": "palm",
+    "leafType": "frond (pinnate)",
+    "arrangement": "spiral",
+    "search": "Syagrus romanzoffiana leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "syzygium-australe",
+    "common": "Brush Cherry",
+    "scientific": "Syzygium australe",
+    "family": "Myrtaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "opposite",
+    "search": "Syzygium australe leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "syzygium-paniculatum",
+    "common": "Australian Brush Cherry",
+    "scientific": "Syzygium paniculatum",
+    "family": "Myrtaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "opposite",
+    "search": "Syzygium paniculatum leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "tamarix-aphylla",
+    "common": "Athel Tree (Tamarisk)",
+    "scientific": "Tamarix aphylla",
+    "family": "Tamaricaceae",
+    "group": "broadleaf",
+    "leafType": "scale-like (needle-like)",
+    "arrangement": "alternate",
+    "search": "Tamarix aphylla leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "thuja-plicata",
+    "common": "Western Red Cedar",
+    "scientific": "Thuja plicata",
+    "family": "Cupressaceae",
+    "group": "conifer",
+    "leafType": "scale-like",
+    "arrangement": "opposite",
+    "search": "Thuja plicata needles",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "tilia-cordata",
+    "common": "Littleleaf Linden",
+    "scientific": "Tilia cordata",
+    "family": "Malvaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Tilia cordata leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "tilia-platyphyllos",
+    "common": "Bigleaf Linden",
+    "scientific": "Tilia platyphyllos",
+    "family": "Malvaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Tilia platyphyllos leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "tilia-tomentosa",
+    "common": "Silver Linden",
+    "scientific": "Tilia tomentosa",
+    "family": "Malvaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Tilia tomentosa leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "toxicodendron-diversilobum",
+    "common": "Pacific Poison Oak",
+    "scientific": "Toxicodendron diversilobum",
+    "family": "Anacardiaceae",
+    "group": "broadleaf",
+    "leafType": "compound (trifoliate)",
+    "arrangement": "alternate",
+    "search": "Toxicodendron diversilobum leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "trachycarpus-fortunei",
+    "common": "Chinese Windmill Palm",
+    "scientific": "Trachycarpus fortunei",
+    "family": "Arecaceae",
+    "group": "palm",
+    "leafType": "frond (palmate)",
+    "arrangement": "spiral",
+    "search": "Trachycarpus fortunei leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "triadica-sebifera",
+    "common": "Chinese Tallow Tree",
+    "scientific": "Triadica sebifera",
+    "family": "Euphorbiaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Triadica sebifera leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "tristaniopsis-laurina",
+    "common": "Water Gum (Swamp Myrtle)",
+    "scientific": "Tristaniopsis laurina",
+    "family": "Myrtaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Tristaniopsis laurina leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "ulmus-glabra",
+    "common": "Scotch Elm (Wych Elm)",
+    "scientific": "Ulmus glabra",
+    "family": "Ulmaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Ulmus glabra leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "ulmus-minor",
+    "common": "Field Elm",
+    "scientific": "Ulmus minor",
+    "family": "Ulmaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Ulmus minor leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "ulmus-hollandica",
+    "common": "Dutch Elm",
+    "scientific": "Ulmus × hollandica",
+    "family": "Ulmaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Ulmus × hollandica leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "ulmus-parvifolia",
+    "common": "Chinese Elm (Lacebark Elm)",
+    "scientific": "Ulmus parvifolia",
+    "family": "Ulmaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Ulmus parvifolia leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "ulmus-procera",
+    "common": "English Elm",
+    "scientific": "Ulmus procera",
+    "family": "Ulmaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Ulmus procera leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "ulmus-pumila",
+    "common": "Siberian Elm",
+    "scientific": "Ulmus pumila",
+    "family": "Ulmaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Ulmus pumila leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "umbellularia-californica",
+    "common": "California Bay Laurel",
+    "scientific": "Umbellularia californica",
+    "family": "Lauraceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Umbellularia californica leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "vitex-lucens",
+    "common": "New Zealand Chaste Tree (Puriri)",
+    "scientific": "Vitex lucens",
+    "family": "Lamiaceae",
+    "group": "broadleaf",
+    "leafType": "compound (palmate)",
+    "arrangement": "opposite",
+    "search": "Vitex lucens leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "washingtonia-filifera",
+    "common": "California Fan Palm",
+    "scientific": "Washingtonia filifera",
+    "family": "Arecaceae",
+    "group": "palm",
+    "leafType": "frond (palmate)",
+    "arrangement": "spiral",
+    "search": "Washingtonia filifera leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "washingtonia-robusta",
+    "common": "Mexican Fan Palm",
+    "scientific": "Washingtonia robusta",
+    "family": "Arecaceae",
+    "group": "palm",
+    "leafType": "frond (palmate)",
+    "arrangement": "spiral",
+    "search": "Washingtonia robusta leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "wollemia-nobilis",
+    "common": "Wollemi Pine",
+    "scientific": "Wollemia nobilis",
+    "family": "Araucariaceae",
+    "group": "conifer",
+    "leafType": "needle (flat, 2-ranked)",
+    "arrangement": "spiral",
+    "search": "Wollemia nobilis needles",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "xylosma-congestum",
+    "common": "Shiny Xylosma",
+    "scientific": "Xylosma congestum",
+    "family": "Salicaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Xylosma congestum leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "yucca-brevifolia",
+    "common": "Joshua Tree",
+    "scientific": "Yucca brevifolia",
+    "family": "Asparagaceae",
+    "group": "palm",
+    "leafType": "sword-shaped leaves",
+    "arrangement": "spiral",
+    "search": "Yucca brevifolia leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "yucca-elephantipes",
+    "common": "Giant Yucca",
+    "scientific": "Yucca elephantipes",
+    "family": "Asparagaceae",
+    "group": "palm",
+    "leafType": "sword-shaped leaves",
+    "arrangement": "spiral",
+    "search": "Yucca elephantipes leaf",
+    "region": [
+      "socal"
+    ]
+  },
+  {
+    "id": "zelkova-serrata",
+    "common": "Japanese Zelkova",
+    "scientific": "Zelkova serrata",
+    "family": "Ulmaceae",
+    "group": "broadleaf",
+    "leafType": "simple",
+    "arrangement": "alternate",
+    "search": "Zelkova serrata leaf",
+    "region": [
+      "socal"
+    ]
+  }
 ]

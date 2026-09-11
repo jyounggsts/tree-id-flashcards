@@ -2,6 +2,7 @@
   "use strict";
 
   const els = {
+    regionSelect: document.getElementById("region-select"),
     modeSelect: document.getElementById("mode-select"),
     nameSelect: document.getElementById("name-select"),
     groupSelect: document.getElementById("group-select"),
@@ -21,6 +22,8 @@
     mcOptions: document.getElementById("mc-options"),
     fillForm: document.getElementById("fill-form"),
     fillInput: document.getElementById("fill-input"),
+    flashcardControls: document.getElementById("flashcard-controls"),
+    revealBtn: document.getElementById("reveal-btn"),
     feedback: document.getElementById("feedback"),
     nextBtn: document.getElementById("next-btn"),
     summary: document.getElementById("summary"),
@@ -58,6 +61,7 @@
   function loadSettings() {
     try {
       const saved = JSON.parse(localStorage.getItem(SETTINGS_KEY) || "{}");
+      if (saved.region) els.regionSelect.value = saved.region;
       if (saved.mode) els.modeSelect.value = saved.mode;
       if (saved.name) els.nameSelect.value = saved.name;
       if (saved.group) els.groupSelect.value = saved.group;
@@ -67,6 +71,7 @@
   function saveSettings() {
     try {
       localStorage.setItem(SETTINGS_KEY, JSON.stringify({
+        region: els.regionSelect.value,
         mode: els.modeSelect.value,
         name: els.nameSelect.value,
         group: els.groupSelect.value,
@@ -106,26 +111,45 @@
     return answers;
   }
 
+  function speciesInRegion(species, region) {
+    return region === "all" || (species.region || []).includes(region);
+  }
+
   function buildDeck(sourceList) {
+    const region = els.regionSelect.value;
     const group = els.groupSelect.value;
-    const filtered = group === "all" ? sourceList : sourceList.filter(s => s.group === group);
+    const byRegion = sourceList.filter(s => speciesInRegion(s, region));
+    const filtered = group === "all" ? byRegion : byRegion.filter(s => s.group === group);
     deck = shuffle(filtered);
     currentIndex = 0;
     score = 0;
     answered = 0;
     missed = [];
-    updateGroupLabel();
+    updateGroupLabels();
     els.summary.classList.add("hidden");
     els.quizCard.classList.remove("hidden");
     renderCard();
   }
 
-  function updateGroupLabel() {
-    const opt = els.groupSelect.selectedOptions[0];
-    const totalForGroup = els.groupSelect.value === "all"
-      ? allSpecies.length
-      : allSpecies.filter(s => s.group === els.groupSelect.value).length;
-    opt.textContent = opt.textContent.replace(/\(\d+\)/, `(${totalForGroup})`);
+  function updateGroupLabels() {
+    const region = els.regionSelect.value;
+    const byRegion = allSpecies.filter(s => speciesInRegion(s, region));
+
+    const regionOpt = els.regionSelect.selectedOptions[0];
+    if (els.regionSelect.value !== "all") {
+      const countAll = allSpecies.filter(s => speciesInRegion(s, els.regionSelect.value)).length;
+      const base = regionOpt.textContent.replace(/\s*\([^)]*\)\s*$/, "").trim();
+      regionOpt.dataset.baseLabel = regionOpt.dataset.baseLabel || base;
+      regionOpt.textContent = `${regionOpt.dataset.baseLabel} (${countAll})`;
+    }
+
+    ["all", "broadleaf", "conifer", "palm"].forEach(g => {
+      const opt = Array.from(els.groupSelect.options).find(o => o.value === g);
+      if (!opt) return;
+      const count = g === "all" ? byRegion.length : byRegion.filter(s => s.group === g).length;
+      const base = opt.textContent.replace(/ \(\d+\)$/, "");
+      opt.textContent = `${base} (${count})`;
+    });
   }
 
   function pickDistractors(correct, count) {
@@ -154,7 +178,6 @@
     }
 
     els.progressText.textContent = `Card ${currentIndex + 1} / ${deck.length}`;
-    els.scoreText.textContent = `Score: ${score} / ${answered}`;
     els.progressBarFill.style.width = `${(currentIndex / deck.length) * 100}%`;
 
     renderGallery(species);
@@ -162,20 +185,30 @@
     els.hintBox.classList.add("hidden");
     els.hintBox.textContent = "";
 
-    const nameLabel = currentNameField() === "scientific" ? "scientific name" : "common name";
-    els.promptText.textContent = `What is the ${nameLabel} of this tree/leaf?`;
-
     els.feedback.classList.add("hidden");
     els.feedback.textContent = "";
     els.nextBtn.classList.add("hidden");
 
     const mode = els.modeSelect.value;
-    if (mode === "multiple") {
+    els.mcOptions.classList.add("hidden");
+    els.fillForm.classList.add("hidden");
+    els.flashcardControls.classList.add("hidden");
+
+    if (mode === "flashcard") {
+      els.scoreText.textContent = `Cards reviewed: ${answered} / ${deck.length}`;
+      els.promptText.textContent = "Identify this species, then reveal the answer.";
+      els.flashcardControls.classList.remove("hidden");
+      els.revealBtn.disabled = false;
+    } else if (mode === "multiple") {
+      els.scoreText.textContent = `Score: ${score} / ${answered}`;
+      const nameLabel = currentNameField() === "scientific" ? "scientific name" : "common name";
+      els.promptText.textContent = `What is the ${nameLabel} of this tree/leaf?`;
       els.mcOptions.classList.remove("hidden");
-      els.fillForm.classList.add("hidden");
       renderMultipleChoice(species);
     } else {
-      els.mcOptions.classList.add("hidden");
+      els.scoreText.textContent = `Score: ${score} / ${answered}`;
+      const nameLabel = currentNameField() === "scientific" ? "scientific name" : "common name";
+      els.promptText.textContent = `What is the ${nameLabel} of this tree/leaf?`;
       els.fillForm.classList.remove("hidden");
       els.fillInput.value = "";
       els.fillInput.disabled = false;
@@ -194,6 +227,17 @@
 
     els.galleryScroll.innerHTML = "";
     els.galleryDots.innerHTML = "";
+
+    if (cats.length === 0) {
+      const slide = document.createElement("div");
+      slide.className = "gallery-slide gallery-empty";
+      slide.textContent = "📷 Photos coming soon for this species";
+      els.galleryScroll.appendChild(slide);
+      els.galleryCaption.innerHTML = "";
+      els.galleryPrev.disabled = true;
+      els.galleryNext.disabled = true;
+      return;
+    }
 
     cats.forEach((cat, i) => {
       const slide = document.createElement("div");
@@ -317,6 +361,35 @@
     showFeedback(isCorrect, species);
   }
 
+  function revealAnswer() {
+    if (currentAnswered) return;
+    currentAnswered = true;
+    answered++;
+    els.revealBtn.disabled = true;
+    const species = deck[currentIndex];
+    els.scoreText.textContent = `Cards reviewed: ${answered} / ${deck.length}`;
+
+    els.feedback.classList.remove("hidden", "correct", "incorrect");
+    els.feedback.classList.add("reveal");
+
+    const attr = (attributions[species.id] || {}).leaf;
+    const creditHtml = attr
+      ? `<a class="credit-link" href="${attr.sourcePage}" target="_blank" rel="noopener">Leaf photo: ${escapeHtml(attr.author)} (${escapeHtml(attr.license)}) — Wikimedia Commons</a>`
+      : "";
+
+    els.feedback.innerHTML = `
+      <strong>${escapeHtml(species.common)}</strong>
+      <span class="answer-detail">
+        <em>${escapeHtml(species.scientific)}</em><br>
+        Family: ${escapeHtml(species.family)} · Leaf: ${escapeHtml(species.leafType)}, ${escapeHtml(species.arrangement)}
+      </span>
+      ${creditHtml}
+    `;
+
+    els.nextBtn.classList.remove("hidden");
+    els.nextBtn.focus();
+  }
+
   function showFeedback(isCorrect, species) {
     els.feedback.classList.remove("hidden", "correct", "incorrect");
     els.feedback.classList.add(isCorrect ? "correct" : "incorrect");
@@ -368,14 +441,22 @@
     els.summary.classList.remove("hidden");
     els.progressBarFill.style.width = "100%";
     els.progressText.textContent = `Card ${deck.length} / ${deck.length}`;
-    els.summaryScore.textContent = `You scored ${score} out of ${answered} (${deck.length ? Math.round((score / Math.max(answered,1)) * 100) : 0}%).`;
+
+    const isFlashcard = els.modeSelect.value === "flashcard";
+    els.summaryScore.textContent = isFlashcard
+      ? `You reviewed ${answered} card${answered === 1 ? "" : "s"}.`
+      : `You scored ${score} out of ${answered} (${deck.length ? Math.round((score / Math.max(answered,1)) * 100) : 0}%).`;
 
     els.missedList.innerHTML = "";
-    if (missed.length === 0) {
+    if (isFlashcard) {
+      els.retryMissedBtn.classList.add("hidden");
+    } else if (missed.length === 0) {
+      els.retryMissedBtn.classList.add("hidden");
       const p = document.createElement("p");
       p.textContent = "Perfect run — no missed species!";
       els.missedList.appendChild(p);
     } else {
+      els.retryMissedBtn.classList.remove("hidden");
       const uniqueMissed = Array.from(new Map(missed.map(s => [s.id, s])).values());
       uniqueMissed.forEach(species => {
         const div = document.createElement("div");
@@ -416,6 +497,7 @@
 
   function attachEvents() {
     els.restartBtn.addEventListener("click", () => { saveSettings(); buildDeck(allSpecies); });
+    els.regionSelect.addEventListener("change", () => { saveSettings(); buildDeck(allSpecies); });
     els.modeSelect.addEventListener("change", () => { saveSettings(); buildDeck(allSpecies); });
     els.nameSelect.addEventListener("change", () => { saveSettings(); buildDeck(allSpecies); });
     els.groupSelect.addEventListener("change", () => { saveSettings(); buildDeck(allSpecies); });
@@ -424,6 +506,7 @@
     els.galleryPrev.addEventListener("click", () => galleryStep(-1));
     els.galleryNext.addEventListener("click", () => galleryStep(1));
     els.fillForm.addEventListener("submit", handleFillSubmit);
+    els.revealBtn.addEventListener("click", revealAnswer);
     els.nextBtn.addEventListener("click", nextCard);
     els.retryMissedBtn.addEventListener("click", retryMissed);
     els.restartAllBtn.addEventListener("click", () => buildDeck(allSpecies));
@@ -440,6 +523,12 @@
     document.addEventListener("keydown", (e) => {
       if (e.key === "Enter" && !els.nextBtn.classList.contains("hidden") && document.activeElement !== els.fillInput) {
         nextCard();
+        return;
+      }
+      if ((e.key === "Enter" || e.key === " ") && els.modeSelect.value === "flashcard" && !currentAnswered && document.activeElement !== els.fillInput) {
+        e.preventDefault();
+        revealAnswer();
+        return;
       }
       if (!currentAnswered && els.modeSelect.value === "multiple" && /^[1-4]$/.test(e.key)) {
         const idx = parseInt(e.key, 10) - 1;

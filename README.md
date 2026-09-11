@@ -3,15 +3,30 @@
 **🌳 Live site: [jyounggsts.github.io/tree-id-flashcards](https://jyounggsts.github.io/tree-id-flashcards/)**
 
 A free, browser-based flashcard app for practicing tree and leaf identification —
-built for botany and arborist study. Covers 48 species commonly taught in North
-American dendrology/forestry courses (broadleaf trees and conifers), with
-multiple-choice and fill-in-the-blank modes, quizzing on common or scientific
-names.
+built for botany and arborist study, and mobile-friendly. Organized by **region**:
+
+- **Eastern US** (48 species) — broadleaf trees and conifers commonly taught in
+  North American dendrology/forestry courses.
+- **Southern California** (321 species) — trees, palms, and conifers found in
+  SoCal urban/landscape settings, sourced from the scientific-name index of
+  *A Californian's Guide to the Trees Among Us* by Matt Ritter. Species that
+  appear in both regions (e.g. Red Maple, Sweetgum, Tulip Tree) are shared,
+  not duplicated.
+
+Three quiz modes: **multiple choice**, **fill in the blank**, and **flashcard**
+(a no-pressure learning mode — see the photo, try to identify it yourself, then
+reveal the answer and family/leaf details before moving on), quizzing on
+common or scientific names.
 
 Each card has a scrollable photo gallery — leaf, flower, fruit/cone, bark,
 trunk, and full tree — so you can practice identifying a species the way you'd
 size it up in the field, from multiple angles and features rather than a
 single leaf shot.
+
+**SoCal photos are a work in progress** — species data for all 321 species is
+in place, but photo fetching/verification (the labor-intensive part) is
+ongoing. Until a species has photos, its card shows a "photos coming soon"
+placeholder instead of a broken image.
 
 No build step, no dependencies, no backend — plain HTML/CSS/JS, deployable
 straight to GitHub Pages.
@@ -29,8 +44,12 @@ Then open `http://localhost:8080`.
 ## Data & images
 
 - `data/species.json` — curated species list (common name, scientific name,
-  family, leaf type, arrangement) used to generate questions and multiple-choice
-  distractors.
+  family, leaf type, arrangement, region) used to generate questions and
+  multiple-choice distractors. `region` is an array (`["eastern-us"]`,
+  `["socal"]`, or both) so a species relevant to multiple regions appears in
+  each without duplicating its entry or photos. The SoCal species were added
+  in bulk by `scripts/build_socal.py` from the source list; to add another
+  region, add a similar script.
 - `data/attributions.json` — photo credit metadata (author, license, source
   link) for every image, nested as `{species_id: {category: {...}}}`, generated
   by `scripts/fetch_images.py`.

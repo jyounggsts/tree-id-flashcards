@@ -16,10 +16,19 @@
   <main id="app">
     <section class="controls" id="controls">
       <div class="control-group">
+        <label for="region-select">Region</label>
+        <select id="region-select">
+          <option value="eastern-us" selected>Eastern US</option>
+          <option value="socal">Southern California (photos in progress)</option>
+          <option value="all">All regions</option>
+        </select>
+      </div>
+      <div class="control-group">
         <label for="mode-select">Quiz mode</label>
         <select id="mode-select">
           <option value="multiple">Multiple choice</option>
           <option value="fill">Fill in the blank</option>
+          <option value="flashcard">Flashcard (learning mode)</option>
         </select>
       </div>
       <div class="control-group">
@@ -32,9 +41,10 @@
       <div class="control-group">
         <label for="group-select">Species set</label>
         <select id="group-select">
-          <option value="all">All species (48)</option>
+          <option value="all">All species</option>
           <option value="broadleaf">Broadleaf only</option>
           <option value="conifer">Conifer only</option>
+          <option value="palm">Palm only</option>
         </select>
       </div>
       <button id="restart-btn" class="btn btn-secondary">Restart quiz</button>
@@ -66,6 +76,10 @@
         <input type="text" id="fill-input" placeholder="Type your answer..." autocomplete="off" spellcheck="false">
         <button type="submit" class="btn btn-primary">Submit</button>
       </form>
+
+      <div id="flashcard-controls" class="flashcard-controls hidden">
+        <button id="reveal-btn" class="btn btn-primary">Show answer</button>
+      </div>
 
       <div id="feedback" class="feedback hidden"></div>
 
