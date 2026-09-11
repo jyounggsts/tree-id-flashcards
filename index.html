@@ -47,10 +47,14 @@
     </section>
 
     <section class="card" id="quiz-card">
-      <div class="image-wrap">
-        <img id="species-image" src="" alt="Tree or leaf to identify">
+      <div class="gallery-wrap">
+        <div class="gallery-scroll" id="gallery-scroll"></div>
+        <button id="gallery-prev" class="gallery-nav gallery-nav-prev" title="Previous photo" aria-label="Previous photo">‹</button>
+        <button id="gallery-next" class="gallery-nav gallery-nav-next" title="Next photo" aria-label="Next photo">›</button>
         <button id="hint-btn" class="btn btn-hint" title="Show a hint">💡 Hint</button>
       </div>
+      <div class="gallery-dots" id="gallery-dots"></div>
+      <p class="gallery-caption" id="gallery-caption"></p>
 
       <div id="hint-box" class="hint-box hidden"></div>
 

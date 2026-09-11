@@ -1,21 +1,28 @@
 """
-One-time asset fetcher: pulls openly-licensed tree/leaf photos from Wikimedia
-Commons for every species in data/species.json, saves them to images/, and
-records attribution (author, license, source URL) in data/attributions.json.
+Asset fetcher: pulls openly-licensed field-ID photos from Wikimedia Commons
+for every species in data/species.json, across multiple categories per
+species (leaf, flower, fruit/cone, bark, trunk, full tree), saves them to
+images/<species-id>/<category>.jpg, and records attribution (author, license,
+source URL) in data/attributions.json, nested as {species_id: {category: {...}}}.
 
-Strategy: pull directly from each species' own Commons category (curated by
-that taxon's contributors) rather than free-text search, which is far more
-reliable for species-accuracy. Falls back to search with a strict species-
-epithet match if the category is missing or empty. Filters out non-photo or
-non-ID-useful images (herbarium/microscope prints, galls, disease damage,
-distant landscape shots, illustrations).
+Strategy: pull from each species' own Commons category first (curated by that
+taxon's contributors, more reliable for species-accuracy than free-text
+search), falling back to search with a strict species-epithet match. Filters
+out non-photo or non-ID-useful images (herbarium/microscope prints, galls,
+disease damage, illustrations) via a blacklist, and requires a category-
+appropriate keyword (e.g. "bark" for the bark photo) so a distant tree shot
+doesn't get mistaken for a bark close-up, etc. The "tree" (whole-tree habit)
+category is the exception: it *wants* the wide/landscape shots the other
+categories reject, so it uses a different keyword set.
 
 Only accepts CC0, Public Domain, or CC-BY / CC-BY-SA licensed files.
 Uses only the Python standard library (no pip installs required).
 
-Usage: python scripts/fetch_images.py [species_id ...]
-  With no args, fetches every species missing an image.
-  With args, re-fetches only the given species ids (deletes existing file first).
+Usage:
+  python scripts/fetch_images.py                        fetch every missing (species, category)
+  python scripts/fetch_images.py --category bark         fetch only the "bark" category, all species
+  python scripts/fetch_images.py red-maple sassafras      re-fetch ALL categories for these species ids
+  python scripts/fetch_images.py --category bark red-maple  re-fetch just bark for red-maple
 """
 import json
 import re
@@ -24,6 +31,8 @@ import time
 import urllib.parse
 import urllib.request
 from pathlib import Path
+
+sys.stdout.reconfigure(encoding="utf-8", errors="replace")
 
 ROOT = Path(__file__).resolve().parent.parent
 SPECIES_PATH = ROOT / "data" / "species.json"
@@ -39,15 +48,61 @@ ACCEPTABLE_LICENSES = {
     "cc-by-sa-3.0", "cc-by-sa-4.0",
 }
 
-GOOD_KEYWORDS = ["leaf", "leaves", "foliage", "needles", "frond"]
-BAD_KEYWORDS = [
+BASE_BAD_KEYWORDS = [
     "gall", "epidermis", "print", "microscope", "stoma", "stomata",
     "disease", "scorch", "canker", "rust", "mite", "aphid", "insect damage",
     "map", "distribution", "illustration", "drawing", "engraving", "plate",
-    "diagram", "bark only", "seed ", "seedling", "flower only", "bud ",
-    "buds", "bladknoppen", "suburban", "canopy", "street", "view up",
-    "landscape", "range map", "herbarium",
+    "diagram", "herbarium",
 ]
+
+# Per-category keyword rules. `good` = at least one required in the title.
+# `bad` = extra disqualifying words on top of BASE_BAD_KEYWORDS.
+# `wide_shots_ok` = don't exclude canopy/landscape/street/suburban framing
+# (used only by "tree", which wants exactly that).
+CATEGORY_CONFIG = {
+    "leaf": {
+        "query": {"broadleaf": "leaf", "conifer": "needles"},
+        "good": ["leaf", "leaves", "foliage", "needles", "frond"],
+        "bad": ["flower", "fruit", "seed", "cone", "bark", "trunk"],
+        "wide_shots_ok": False,
+    },
+    "flower": {
+        "query": {"broadleaf": "flower"},
+        "good": ["flower", "flowers", "blossom", "bloom", "inflorescence", "catkin"],
+        "bad": ["leaf", "leaves", "bark", "trunk", "fruit", "seed"],
+        "wide_shots_ok": False,
+        "skip_group": "conifer",
+    },
+    "fruit": {
+        "query": {"broadleaf": "fruit", "conifer": "cone"},
+        "good": {
+            "broadleaf": ["fruit", "seed", "seeds", "samara", "acorn", "nut", "drupe", "pod", "capsule", "achene", "berry"],
+            "conifer": ["cone", "cones"],
+        },
+        "bad": ["leaf", "leaves", "bark", "trunk", "flower"],
+        "wide_shots_ok": False,
+    },
+    "bark": {
+        "query": {"broadleaf": "bark", "conifer": "bark"},
+        "good": ["bark"],
+        "bad": ["leaf", "leaves", "needle", "needles", "foliage", "flower", "fruit"],
+        "wide_shots_ok": False,
+    },
+    "trunk": {
+        "query": {"broadleaf": "trunk", "conifer": "trunk"},
+        "good": ["trunk"],
+        "bad": ["leaf", "leaves", "needle", "needles", "foliage", "flower", "fruit"],
+        "wide_shots_ok": False,
+    },
+    "tree": {
+        "query": {"broadleaf": "habit", "conifer": "habit"},
+        "good": ["habit", "specimen", "whole tree", "mature tree", "tree form", "growth form"],
+        "bad": ["leaf", "leaves", "needle", "needles", "foliage", "bark", "trunk", "flower", "fruit", "cone", "seed"],
+        "wide_shots_ok": True,
+    },
+}
+
+CATEGORY_ORDER = ["leaf", "flower", "fruit", "bark", "trunk", "tree"]
 
 TAG_RE = re.compile(r"<[^>]+>")
 
@@ -91,7 +146,7 @@ def category_candidates(scientific_name, limit=250):
     return list(pages.values())
 
 
-def search_candidates(query, limit=20):
+def search_candidates(query, limit=25):
     data = api_get({
         "action": "query",
         "generator": "search",
@@ -106,25 +161,11 @@ def search_candidates(query, limit=20):
     return list(pages.values())
 
 
-def score_candidate(title, meta, require_good_keyword):
-    t = title.lower()
-    cats = meta.get("Categories", {}).get("value", "").lower()
-    text = t + " " + cats
-    for bad in BAD_KEYWORDS:
-        if bad in text:
-            return None  # disqualified
-    score = 0
-    has_good = False
-    for good in GOOD_KEYWORDS:
-        if good in t:
-            score += 10
-            has_good = True
-    if require_good_keyword and not has_good:
-        return None
-    return score
+def pick_best(pages, good_keywords, bad_keywords, require_good, require_terms=None, wide_shots_ok=False):
+    full_bad = list(BASE_BAD_KEYWORDS) + list(bad_keywords)
+    if not wide_shots_ok:
+        full_bad += ["suburban", "street", "map", "range map"]
 
-
-def pick_best(pages, require_terms=None, require_good_keyword=True):
     candidates = []
     for page in pages:
         infos = page.get("imageinfo")
@@ -143,19 +184,23 @@ def pick_best(pages, require_terms=None, require_good_keyword=True):
         license_key = license_short.replace(" ", "-")
         if license_key not in ACCEPTABLE_LICENSES and license_short not in ACCEPTABLE_LICENSES:
             continue
+
         title = page.get("title", "")
+        title_lower = title.lower()
+        cats_lower = meta.get("Categories", {}).get("value", "").lower()
+        text = title_lower + " " + cats_lower
 
-        if require_terms:
-            title_lower = title.lower()
-            cats_lower = meta.get("Categories", {}).get("value", "").lower()
-            if not any(term in title_lower or term in cats_lower for term in require_terms):
-                continue
-
-        score = score_candidate(title, meta, require_good_keyword)
-        if score is None:
+        if require_terms and not any(t in text for t in require_terms):
             continue
-        # slight bonus for larger images
-        score += min(width, 2000) / 2000
+
+        if any(bad in text for bad in full_bad):
+            continue
+
+        has_good = any(g in title_lower for g in good_keywords)
+        if require_good and not has_good:
+            continue
+
+        score = (10 if has_good else 0) + min(width, 2000) / 2000
         candidates.append((score, page, info, license_short))
 
     if not candidates:
@@ -171,61 +216,83 @@ def download(url, dest_path):
         f.write(resp.read())
 
 
-def fetch_one(sp, attributions):
+def fetch_one(sp, category, attributions):
     sid = sp["id"]
-    dest = IMAGES_DIR / f"{sid}.jpg"
+    cfg = CATEGORY_CONFIG[category]
+
+    if cfg.get("skip_group") == sp["group"]:
+        return "skipped"
+
+    dest_dir = IMAGES_DIR / sid
+    dest_dir.mkdir(parents=True, exist_ok=True)
+    dest = dest_dir / f"{category}.jpg"
 
     scientific = sp["scientific"]
     genus, epithet = scientific.split(" ", 1)
     require_terms = [scientific.lower(), epithet.lower()]
 
-    print(f"[category] {sid}: 'Category:{scientific}'")
+    good = cfg["good"]
+    if isinstance(good, dict):
+        good = good.get(sp["group"], good.get("broadleaf", []))
+    bad = cfg["bad"]
+    wide_ok = cfg.get("wide_shots_ok", False)
+
+    query_word = cfg["query"].get(sp["group"], cfg["query"].get("broadleaf"))
+    query = f"{scientific} {query_word}"
+
+    print(f"[{category}] {sid}: category lookup 'Category:{scientific}'")
     try:
         pages = category_candidates(scientific)
-        # category is already species-scoped; still require a leaf/foliage keyword in the title
-        choice = pick_best(pages, require_good_keyword=True)
+        choice = pick_best(pages, good, bad, require_good=True, wide_shots_ok=wide_ok)
 
         if not choice:
-            print(f"  no leaf-labeled photo in category, trying search (strict)")
-            query = sp.get("search", scientific)
+            print(f"  -> search fallback: '{query}'")
             pages = search_candidates(query)
-            choice = pick_best(pages, require_terms=require_terms, require_good_keyword=True)
+            choice = pick_best(pages, good, bad, require_good=True, require_terms=require_terms, wide_shots_ok=wide_ok)
 
         if not choice:
-            pages = search_candidates(scientific)
-            choice = pick_best(pages, require_terms=require_terms, require_good_keyword=True)
+            pages = search_candidates(scientific + " " + query_word, limit=25)
+            choice = pick_best(pages, good, bad, require_good=False, require_terms=require_terms, wide_shots_ok=wide_ok)
 
         if not choice:
-            print(f"  relaxing keyword requirement (species-verified, but title may not say 'leaf')")
-            pages = category_candidates(scientific)
-            choice = pick_best(pages, require_good_keyword=False)
+            # Broadest fallback: search the bare scientific name (no qualifier
+            # word), which surfaces the same generic whole-tree/street-tree
+            # photos other categories' blacklist rejects but "tree" wants.
+            pages = search_candidates(scientific, limit=30)
+            choice = pick_best(pages, good, bad, require_good=False, require_terms=require_terms, wide_shots_ok=wide_ok)
 
         if not choice:
-            print(f"[FAIL] {sid}: no acceptable image found")
-            return False
+            print(f"[FAIL] {sid}/{category}: no acceptable image found")
+            return "fail"
 
         page, info, license_short = choice
         img_url = info["thumburl"] if "thumburl" in info else info["url"]
         download(img_url, dest)
 
         meta = info.get("extmetadata", {})
-        attributions[sid] = {
+        attributions.setdefault(sid, {})[category] = {
             "title": page.get("title", ""),
             "author": strip_tags(meta.get("Artist", {}).get("value", "Unknown")),
             "license": license_short,
             "licenseUrl": meta.get("LicenseUrl", {}).get("value", ""),
             "sourcePage": f"https://commons.wikimedia.org/wiki/{urllib.parse.quote(page.get('title', ''))}",
         }
-        print(f"[ok] {sid}: {license_short} — {page.get('title','')[:70]}")
-        return True
+        print(f"[ok] {sid}/{category}: {license_short} — {page.get('title','')[:70]}")
+        return "ok"
 
     except Exception as exc:
-        print(f"[ERROR] {sid}: {exc}")
-        return False
+        print(f"[ERROR] {sid}/{category}: {exc}")
+        return "fail"
 
 
 def main():
-    only_ids = set(sys.argv[1:]) or None
+    args = sys.argv[1:]
+    only_category = None
+    if "--category" in args:
+        idx = args.index("--category")
+        only_category = args[idx + 1]
+        args = args[:idx] + args[idx + 2:]
+    only_ids = set(args) or None
 
     species_list = json.loads(SPECIES_PATH.read_text(encoding="utf-8"))
     IMAGES_DIR.mkdir(exist_ok=True)
@@ -234,32 +301,24 @@ def main():
     if ATTRIBUTIONS_PATH.exists():
         attributions = json.loads(ATTRIBUTIONS_PATH.read_text(encoding="utf-8"))
 
-    failures = []
-    processed = 0
+    categories = [only_category] if only_category else CATEGORY_ORDER
+    results = {"ok": 0, "fail": 0, "skipped": 0}
 
     for sp in species_list:
         sid = sp["id"]
         if only_ids and sid not in only_ids:
             continue
+        for category in categories:
+            dest = IMAGES_DIR / sid / f"{category}.jpg"
+            force = bool(only_ids)  # explicit species ids means "re-fetch these"
+            if dest.exists() and not force:
+                continue
+            outcome = fetch_one(sp, category, attributions)
+            results[outcome] = results.get(outcome, 0) + 1
+            ATTRIBUTIONS_PATH.write_text(json.dumps(attributions, indent=2, ensure_ascii=False), encoding="utf-8")
+            time.sleep(1.5)
 
-        dest = IMAGES_DIR / f"{sid}.jpg"
-        if only_ids and sid in only_ids and dest.exists():
-            dest.unlink()
-
-        if dest.exists():
-            print(f"[skip] {sid} already downloaded")
-            continue
-
-        processed += 1
-        ok = fetch_one(sp, attributions)
-        if not ok:
-            failures.append(sid)
-        time.sleep(2)
-
-    ATTRIBUTIONS_PATH.write_text(json.dumps(attributions, indent=2, ensure_ascii=False), encoding="utf-8")
-    print(f"\nDone. Processed {processed}, {len(failures)} failures.")
-    if failures:
-        print("Failed species:", ", ".join(failures))
+    print(f"\nDone. ok={results['ok']} fail={results['fail']} skipped={results['skipped']}")
 
 
 if __name__ == "__main__":

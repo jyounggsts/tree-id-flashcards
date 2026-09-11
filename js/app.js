@@ -10,7 +10,11 @@
     scoreText: document.getElementById("score-text"),
     progressBarFill: document.getElementById("progress-bar-fill"),
     quizCard: document.getElementById("quiz-card"),
-    speciesImage: document.getElementById("species-image"),
+    galleryScroll: document.getElementById("gallery-scroll"),
+    galleryDots: document.getElementById("gallery-dots"),
+    galleryCaption: document.getElementById("gallery-caption"),
+    galleryPrev: document.getElementById("gallery-prev"),
+    galleryNext: document.getElementById("gallery-next"),
     hintBtn: document.getElementById("hint-btn"),
     hintBox: document.getElementById("hint-box"),
     promptText: document.getElementById("prompt-text"),
@@ -40,6 +44,16 @@
   let currentAnswered = false;
 
   const SETTINGS_KEY = "treeid-settings-v1";
+
+  const CATEGORY_LABELS = {
+    leaf: "Leaf",
+    flower: "Flower",
+    fruit: "Fruit / Cone",
+    bark: "Bark",
+    trunk: "Trunk",
+    tree: "Full Tree",
+  };
+  const CATEGORY_ORDER = ["leaf", "flower", "fruit", "bark", "trunk", "tree"];
 
   function loadSettings() {
     try {
@@ -143,8 +157,7 @@
     els.scoreText.textContent = `Score: ${score} / ${answered}`;
     els.progressBarFill.style.width = `${(currentIndex / deck.length) * 100}%`;
 
-    els.speciesImage.src = `images/${species.id}.jpg`;
-    els.speciesImage.alt = `Photo to identify (species ${currentIndex + 1})`;
+    renderGallery(species);
 
     els.hintBox.classList.add("hidden");
     els.hintBox.textContent = "";
@@ -168,6 +181,86 @@
       els.fillInput.disabled = false;
       els.fillInput.focus();
     }
+  }
+
+  function availableCategories(species) {
+    const attrs = attributions[species.id] || {};
+    return CATEGORY_ORDER.filter(cat => attrs[cat]);
+  }
+
+  function renderGallery(species) {
+    const cats = availableCategories(species);
+    const attrs = attributions[species.id] || {};
+
+    els.galleryScroll.innerHTML = "";
+    els.galleryDots.innerHTML = "";
+
+    cats.forEach((cat, i) => {
+      const slide = document.createElement("div");
+      slide.className = "gallery-slide";
+      slide.dataset.category = cat;
+
+      const img = document.createElement("img");
+      img.src = `images/${species.id}/${cat}.jpg`;
+      img.alt = `${CATEGORY_LABELS[cat]} of ${species.common}`;
+      img.loading = i === 0 ? "eager" : "lazy";
+      slide.appendChild(img);
+
+      const label = document.createElement("span");
+      label.className = "gallery-slide-label";
+      label.textContent = CATEGORY_LABELS[cat];
+      slide.appendChild(label);
+
+      els.galleryScroll.appendChild(slide);
+
+      const dot = document.createElement("button");
+      dot.className = "gallery-dot" + (i === 0 ? " active" : "");
+      dot.setAttribute("aria-label", `Show ${CATEGORY_LABELS[cat]} photo`);
+      dot.addEventListener("click", () => scrollToSlide(i));
+      els.galleryDots.appendChild(dot);
+    });
+
+    updateGalleryCaption(species, cats, 0);
+    updateGalleryNav(0, cats.length);
+    els.galleryScroll.scrollLeft = 0;
+
+    els.galleryScroll.onscroll = () => {
+      const width = els.galleryScroll.clientWidth || 1;
+      const idx = Math.round(els.galleryScroll.scrollLeft / width);
+      Array.from(els.galleryDots.children).forEach((d, i) => d.classList.toggle("active", i === idx));
+      updateGalleryCaption(species, cats, idx);
+      updateGalleryNav(idx, cats.length);
+    };
+  }
+
+  function scrollToSlide(index) {
+    const width = els.galleryScroll.clientWidth;
+    els.galleryScroll.scrollTo({ left: width * index, behavior: "smooth" });
+  }
+
+  function updateGalleryNav(idx, total) {
+    els.galleryPrev.disabled = idx <= 0;
+    els.galleryNext.disabled = idx >= total - 1;
+  }
+
+  function galleryStep(delta) {
+    const width = els.galleryScroll.clientWidth || 1;
+    const idx = Math.round(els.galleryScroll.scrollLeft / width);
+    const total = els.galleryDots.children.length;
+    const next = Math.min(Math.max(idx + delta, 0), total - 1);
+    scrollToSlide(next);
+  }
+
+  function updateGalleryCaption(species, cats, idx) {
+    const cat = cats[idx];
+    const attr = (attributions[species.id] || {})[cat];
+    if (!attr) {
+      els.galleryCaption.innerHTML = "";
+      return;
+    }
+    els.galleryCaption.innerHTML =
+      `${CATEGORY_LABELS[cat]} photo: ${escapeHtml(attr.author)} (${escapeHtml(attr.license)}) — ` +
+      `<a href="${attr.sourcePage}" target="_blank" rel="noopener">Wikimedia Commons</a>`;
   }
 
   function renderMultipleChoice(species) {
@@ -228,9 +321,9 @@
     els.feedback.classList.remove("hidden", "correct", "incorrect");
     els.feedback.classList.add(isCorrect ? "correct" : "incorrect");
 
-    const attr = attributions[species.id];
+    const attr = (attributions[species.id] || {}).leaf;
     const creditHtml = attr
-      ? `<a class="credit-link" href="${attr.sourcePage}" target="_blank" rel="noopener">Photo: ${escapeHtml(attr.author)} (${escapeHtml(attr.license)}) — Wikimedia Commons</a>`
+      ? `<a class="credit-link" href="${attr.sourcePage}" target="_blank" rel="noopener">Leaf photo: ${escapeHtml(attr.author)} (${escapeHtml(attr.license)}) — Wikimedia Commons</a>`
       : "";
 
     els.feedback.innerHTML = `
@@ -288,7 +381,7 @@
         const div = document.createElement("div");
         div.className = "missed-item";
         div.innerHTML = `
-          <img src="images/${species.id}.jpg" alt="${escapeHtml(species.common)}">
+          <img src="images/${species.id}/leaf.jpg" alt="${escapeHtml(species.common)}">
           <div class="missed-name">${escapeHtml(species.common)}</div>
           <div class="missed-sci">${escapeHtml(species.scientific)}</div>
         `;
@@ -306,15 +399,18 @@
   function renderCredits() {
     els.creditsList.innerHTML = "";
     allSpecies.forEach(species => {
-      const attr = attributions[species.id];
-      if (!attr) return;
-      const row = document.createElement("div");
-      row.className = "credit-row";
-      row.innerHTML = `
-        <span>${escapeHtml(species.common)}</span>
-        <a href="${attr.sourcePage}" target="_blank" rel="noopener">${escapeHtml(attr.author)} — ${escapeHtml(attr.license)}</a>
-      `;
-      els.creditsList.appendChild(row);
+      const attrs = attributions[species.id];
+      if (!attrs) return;
+      CATEGORY_ORDER.filter(cat => attrs[cat]).forEach(cat => {
+        const attr = attrs[cat];
+        const row = document.createElement("div");
+        row.className = "credit-row";
+        row.innerHTML = `
+          <span>${escapeHtml(species.common)} — ${CATEGORY_LABELS[cat]}</span>
+          <a href="${attr.sourcePage}" target="_blank" rel="noopener">${escapeHtml(attr.author)} — ${escapeHtml(attr.license)}</a>
+        `;
+        els.creditsList.appendChild(row);
+      });
     });
   }
 
@@ -325,6 +421,8 @@
     els.groupSelect.addEventListener("change", () => { saveSettings(); buildDeck(allSpecies); });
 
     els.hintBtn.addEventListener("click", showHint);
+    els.galleryPrev.addEventListener("click", () => galleryStep(-1));
+    els.galleryNext.addEventListener("click", () => galleryStep(1));
     els.fillForm.addEventListener("submit", handleFillSubmit);
     els.nextBtn.addEventListener("click", nextCard);
     els.retryMissedBtn.addEventListener("click", retryMissed);
@@ -347,6 +445,10 @@
         const idx = parseInt(e.key, 10) - 1;
         const btn = els.mcOptions.children[idx];
         if (btn) btn.click();
+      }
+      if (document.activeElement !== els.fillInput) {
+        if (e.key === "ArrowLeft") galleryStep(-1);
+        if (e.key === "ArrowRight") galleryStep(1);
       }
     });
   }

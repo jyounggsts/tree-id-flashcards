@@ -1,338 +1,2030 @@
 {
   "sugar-maple": {
-    "title": "File:Acer saccharum (213110565).jpg",
-    "author": "Anna",
-    "license": "cc by 3.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
-    "sourcePage": "https://commons.wikimedia.org/wiki/File%3AAcer%20saccharum%20%28213110565%29.jpg"
+    "leaf": {
+      "title": "File:Acer saccharum (213110565).jpg",
+      "author": "Anna",
+      "license": "cc by 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AAcer%20saccharum%20%28213110565%29.jpg"
+    },
+    "bark": {
+      "title": "File:Acer saccharum (22837899238).jpg",
+      "author": "Katja Schulz from Washington, D. C., USA",
+      "license": "cc by 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AAcer%20saccharum%20%2822837899238%29.jpg"
+    },
+    "trunk": {
+      "title": "File:Acer saccharum trunk.jpg",
+      "author": "Copyright holder release per ticket",
+      "license": "cc by-sa 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AAcer%20saccharum%20trunk.jpg"
+    },
+    "fruit": {
+      "title": "File:Acer saccharum seeds.jpg",
+      "author": "Steve Hurst @ USDA-NRCS PLANTS Database",
+      "license": "public domain",
+      "licenseUrl": "",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AAcer%20saccharum%20seeds.jpg"
+    },
+    "flower": {
+      "title": "File:Acer saccharum (21756565623).jpg",
+      "author": "James St. John",
+      "license": "cc by 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AAcer%20saccharum%20%2821756565623%29.jpg"
+    },
+    "tree": {
+      "title": "File:Acer saccharum UL 01.jpg",
+      "author": "Cephas",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AAcer%20saccharum%20UL%2001.jpg"
+    }
   },
   "red-maple": {
-    "title": "File:Acer rubrum leaf on brown (Unsplash).jpg",
-    "author": "Jeremy Cooper jcooper",
-    "license": "cc0",
-    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-    "sourcePage": "https://commons.wikimedia.org/wiki/File%3AAcer%20rubrum%20leaf%20on%20brown%20%28Unsplash%29.jpg"
+    "leaf": {
+      "title": "File:Acer rubrum leaf on brown (Unsplash).jpg",
+      "author": "Jeremy Cooper jcooper",
+      "license": "cc0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AAcer%20rubrum%20leaf%20on%20brown%20%28Unsplash%29.jpg"
+    },
+    "bark": {
+      "title": "File:Acer rubrum' \"October Glory\" bark Beale Arboretum - West Lodge Park - Hadley Wood - Enfield London.jpg",
+      "author": "Acabashi",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AAcer%20rubrum%27%20%22October%20Glory%22%20bark%20Beale%20Arboretum%20-%20West%20Lodge%20Park%20-%20Hadley%20Wood%20-%20Enfield%20London.jpg"
+    },
+    "trunk": {
+      "title": "File:Acer rubrum' \"October Glory\" bark Beale Arboretum - West Lodge Park - Hadley Wood - Enfield London.jpg",
+      "author": "Acabashi",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AAcer%20rubrum%27%20%22October%20Glory%22%20bark%20Beale%20Arboretum%20-%20West%20Lodge%20Park%20-%20Hadley%20Wood%20-%20Enfield%20London.jpg"
+    },
+    "fruit": {
+      "title": "File:2013-05-05 15 03 27 Closer view of an Acer rubrum full of new seeds along the Forest View Trail in Palisades Interstate Park.jpg",
+      "author": "Famartin",
+      "license": "cc by-sa 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2013-05-05%2015%2003%2027%20Closer%20view%20of%20an%20Acer%20rubrum%20full%20of%20new%20seeds%20along%20the%20Forest%20View%20Trail%20in%20Palisades%20Interstate%20Park.jpg"
+    },
+    "flower": {
+      "title": "File:Acer rubrum inflorescence 01.JPG",
+      "author": "Syp",
+      "license": "public domain",
+      "licenseUrl": "",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AAcer%20rubrum%20inflorescence%2001.JPG"
+    },
+    "tree": {
+      "title": "File:2019-05-11 13 23 39 A Red Maple in a lawn with a mound of exposed roots at the base along Cobra Lane in the Chantilly Highlands section of Oak Hill, Fairfax County, Virginia.jpg",
+      "author": "Famartin",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2019-05-11%2013%2023%2039%20A%20Red%20Maple%20in%20a%20lawn%20with%20a%20mound%20of%20exposed%20roots%20at%20the%20base%20along%20Cobra%20Lane%20in%20the%20Chantilly%20Highlands%20section%20of%20Oak%20Hill%2C%20Fairfax%20County%2C%20Virginia.jpg"
+    }
   },
   "silver-maple": {
-    "title": "File:2020-10-24 14 04 01 Silver Maple leaf in autumn along Apple Barrel Court in the Franklin Farm section of Oak Hill, Fairfax County, Virginia.jpg",
-    "author": "Famartin",
-    "license": "cc by-sa 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2020-10-24%2014%2004%2001%20Silver%20Maple%20leaf%20in%20autumn%20along%20Apple%20Barrel%20Court%20in%20the%20Franklin%20Farm%20section%20of%20Oak%20Hill%2C%20Fairfax%20County%2C%20Virginia.jpg"
+    "leaf": {
+      "title": "File:2020-10-24 14 04 01 Silver Maple leaf in autumn along Apple Barrel Court in the Franklin Farm section of Oak Hill, Fairfax County, Virginia.jpg",
+      "author": "Famartin",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2020-10-24%2014%2004%2001%20Silver%20Maple%20leaf%20in%20autumn%20along%20Apple%20Barrel%20Court%20in%20the%20Franklin%20Farm%20section%20of%20Oak%20Hill%2C%20Fairfax%20County%2C%20Virginia.jpg"
+    },
+    "bark": {
+      "title": "File:Acer saccharinum - bark - Arboretum Kalmthout (2026-06-05).jpg",
+      "author": "Cyreen Knockaert",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AAcer%20saccharinum%20-%20bark%20-%20Arboretum%20Kalmthout%20%282026-06-05%29.jpg"
+    },
+    "trunk": {
+      "title": "File:Acer saccharinum trunk Marki.jpg",
+      "author": "Crusier",
+      "license": "cc by-sa 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AAcer%20saccharinum%20trunk%20Marki.jpg"
+    },
+    "fruit": {
+      "title": "File:Acer saccharinum seeds.jpg",
+      "author": "Steve Hurst @ USDA-NRCS PLANTS Database",
+      "license": "public domain",
+      "licenseUrl": "",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AAcer%20saccharinum%20seeds.jpg"
+    },
+    "flower": {
+      "title": "File:Acer saccharinum female flowers.jpg",
+      "author": "Daniel Cahen",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AAcer%20saccharinum%20female%20flowers.jpg"
+    },
+    "tree": {
+      "title": "File:2016-02-08 12 57 56 A silver maple along the Gerry Connolly Cross County Trail between Miller Heights Road and Vale Road in Oakton, Fairfax County, Virginia.jpg",
+      "author": "Famartin",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2016-02-08%2012%2057%2056%20A%20silver%20maple%20along%20the%20Gerry%20Connolly%20Cross%20County%20Trail%20between%20Miller%20Heights%20Road%20and%20Vale%20Road%20in%20Oakton%2C%20Fairfax%20County%2C%20Virginia.jpg"
+    }
   },
   "boxelder": {
-    "title": "File:2020 year. Herbarium. Acer negundo. img-001.jpg",
-    "author": "Dmitry Makeev",
-    "license": "cc by-sa 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2020%20year.%20Herbarium.%20Acer%20negundo.%20img-001.jpg"
+    "leaf": {
+      "title": "File:2020 year. Herbarium. Acer negundo. img-001.jpg",
+      "author": "Dmitry Makeev",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2020%20year.%20Herbarium.%20Acer%20negundo.%20img-001.jpg"
+    },
+    "bark": {
+      "title": "File:2021-03-03 10 37 16 Box Elder bark along Terrace Boulevard in the Parkway Village section of Ewing Township, Mercer County, New Jersey.jpg",
+      "author": "Famartin",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2021-03-03%2010%2037%2016%20Box%20Elder%20bark%20along%20Terrace%20Boulevard%20in%20the%20Parkway%20Village%20section%20of%20Ewing%20Township%2C%20Mercer%20County%2C%20New%20Jersey.jpg"
+    },
+    "trunk": {
+      "title": "File:Acer negundo trunk 2011.JPG",
+      "author": "Jovo26",
+      "license": "cc by-sa 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AAcer%20negundo%20trunk%202011.JPG"
+    },
+    "fruit": {
+      "title": "File:Boxelder (Acer negudo) with young fruit - Flickr - Jay Sturner.jpg",
+      "author": "Jay Sturner from USA",
+      "license": "cc by 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ABoxelder%20%28Acer%20negudo%29%20with%20young%20fruit%20-%20Flickr%20-%20Jay%20Sturner.jpg"
+    },
+    "flower": {
+      "title": "File:(MHNT) Acer negundo - Male inflorescence.jpg",
+      "author": "Didier Descouens",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A%28MHNT%29%20Acer%20negundo%20-%20Male%20inflorescence.jpg"
+    },
+    "tree": {
+      "title": "File:Acer-negundo-total.JPG",
+      "author": "Sten Porse",
+      "license": "cc by-sa 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AAcer-negundo-total.JPG"
+    }
   },
   "white-oak": {
-    "title": "File:2013-05-10 13 08 39 Quercus alba with starting to leaf out along the Mount Misery Trail in Brendan T. Byrne State Forest.jpg",
-    "author": "Famartin",
-    "license": "cc by-sa 3.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-    "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2013-05-10%2013%2008%2039%20Quercus%20alba%20with%20starting%20to%20leaf%20out%20along%20the%20Mount%20Misery%20Trail%20in%20Brendan%20T.%20Byrne%20State%20Forest.jpg"
+    "leaf": {
+      "title": "File:2013-05-10 13 08 39 Quercus alba with starting to leaf out along the Mount Misery Trail in Brendan T. Byrne State Forest.jpg",
+      "author": "Famartin",
+      "license": "cc by-sa 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2013-05-10%2013%2008%2039%20Quercus%20alba%20with%20starting%20to%20leaf%20out%20along%20the%20Mount%20Misery%20Trail%20in%20Brendan%20T.%20Byrne%20State%20Forest.jpg"
+    },
+    "bark": {
+      "title": "File:2021-03-01 16 34 38 White Oak bark along Stone Heather Drive in the Franklin Farm section of Oak Hill, Fairfax County, Virginia.jpg",
+      "author": "Famartin",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2021-03-01%2016%2034%2038%20White%20Oak%20bark%20along%20Stone%20Heather%20Drive%20in%20the%20Franklin%20Farm%20section%20of%20Oak%20Hill%2C%20Fairfax%20County%2C%20Virginia.jpg"
+    },
+    "trunk": {
+      "title": "File:2023-08-27 08 05 45 The lower trunk of a White Oak along Forest Lane in the Mountainview section of Ewing Township, Mercer County, New Jersey.jpg",
+      "author": "Famartin",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2023-08-27%2008%2005%2045%20The%20lower%20trunk%20of%20a%20White%20Oak%20along%20Forest%20Lane%20in%20the%20Mountainview%20section%20of%20Ewing%20Township%2C%20Mercer%20County%2C%20New%20Jersey.jpg"
+    },
+    "fruit": {
+      "title": "File:Oak Acorn P8190044.jpg",
+      "author": "Chris Light",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AOak%20Acorn%20P8190044.jpg"
+    },
+    "flower": {
+      "title": "File:2021-04-22 18 54 32 Male flowers (catkins) on a White Oak within a wooded area in the Franklin Farm section of Oak Hill, Fairfax County, Virginia.jpg",
+      "author": "Famartin",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2021-04-22%2018%2054%2032%20Male%20flowers%20%28catkins%29%20on%20a%20White%20Oak%20within%20a%20wooded%20area%20in%20the%20Franklin%20Farm%20section%20of%20Oak%20Hill%2C%20Fairfax%20County%2C%20Virginia.jpg"
+    },
+    "tree": {
+      "title": "File:Ancient White Oak in Bronte, Oakville, Ontario.jpg",
+      "author": "Bay &amp; Gables",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AAncient%20White%20Oak%20in%20Bronte%2C%20Oakville%2C%20Ontario.jpg"
+    }
   },
   "northern-red-oak": {
-    "title": "File:Northern Red Oak Quercus rubra leaf.jpg",
-    "author": "Cossey25",
-    "license": "cc by-sa 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "sourcePage": "https://commons.wikimedia.org/wiki/File%3ANorthern%20Red%20Oak%20Quercus%20rubra%20leaf.jpg"
+    "leaf": {
+      "title": "File:Northern Red Oak Quercus rubra leaf.jpg",
+      "author": "Cossey25",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ANorthern%20Red%20Oak%20Quercus%20rubra%20leaf.jpg"
+    },
+    "bark": {
+      "title": "File:Northern Red Oak (Quercus rubra) bark detail.jpg",
+      "author": "MONGO",
+      "license": "public domain",
+      "licenseUrl": "",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ANorthern%20Red%20Oak%20%28Quercus%20rubra%29%20bark%20detail.jpg"
+    },
+    "trunk": {
+      "title": "File:Old, multiple-trunked northern red oak (Quercus rubra), Tiadaghton State Forest, Clinton County.jpg",
+      "author": "Nicholas A. Tonelli from Northeast Pennsylvania, USA",
+      "license": "cc by 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AOld%2C%20multiple-trunked%20northern%20red%20oak%20%28Quercus%20rubra%29%2C%20Tiadaghton%20State%20Forest%2C%20Clinton%20County.jpg"
+    },
+    "fruit": {
+      "title": "File:Quercus rubra (23541656013).jpg",
+      "author": "Bruce Kirchoff from Greensboro, NC, USA",
+      "license": "cc by 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AQuercus%20rubra%20%2823541656013%29.jpg"
+    },
+    "flower": {
+      "title": "File:Blooming of Red oak (Quercus rubra).jpg",
+      "author": "Ввласенко",
+      "license": "cc by-sa 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ABlooming%20of%20Red%20oak%20%28Quercus%20rubra%29.jpg"
+    },
+    "tree": {
+      "title": "File:Northern Red Oak Quercus rubra winter habit.jpg",
+      "author": "Cossey25",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ANorthern%20Red%20Oak%20Quercus%20rubra%20winter%20habit.jpg"
+    }
   },
   "black-oak": {
-    "title": "File:2023-11-08 10 49 39 Black Oak leaf in autumn within the forest of Ann M. Banchoff Park in the Mountainview section of Ewing Township, Mercer County, New Jersey.jpg",
-    "author": "Famartin",
-    "license": "cc by-sa 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2023-11-08%2010%2049%2039%20Black%20Oak%20leaf%20in%20autumn%20within%20the%20forest%20of%20Ann%20M.%20Banchoff%20Park%20in%20the%20Mountainview%20section%20of%20Ewing%20Township%2C%20Mercer%20County%2C%20New%20Jersey.jpg"
+    "leaf": {
+      "title": "File:2023-11-08 10 49 39 Black Oak leaf in autumn within the forest of Ann M. Banchoff Park in the Mountainview section of Ewing Township, Mercer County, New Jersey.jpg",
+      "author": "Famartin",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2023-11-08%2010%2049%2039%20Black%20Oak%20leaf%20in%20autumn%20within%20the%20forest%20of%20Ann%20M.%20Banchoff%20Park%20in%20the%20Mountainview%20section%20of%20Ewing%20Township%2C%20Mercer%20County%2C%20New%20Jersey.jpg"
+    },
+    "bark": {
+      "title": "File:2024-03-03 12 18 33 Bark on a juvenile Black Oak within the forest of Ann M. Banchoff Park in the Mountainview section of Ewing Township, Mercer County, New Jersey.jpg",
+      "author": "Famartin",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2024-03-03%2012%2018%2033%20Bark%20on%20a%20juvenile%20Black%20Oak%20within%20the%20forest%20of%20Ann%20M.%20Banchoff%20Park%20in%20the%20Mountainview%20section%20of%20Ewing%20Township%2C%20Mercer%20County%2C%20New%20Jersey.jpg"
+    },
+    "trunk": {
+      "title": "File:Quercus velutina (24199929415).jpg",
+      "author": "Bruce Kirchoff from Greensboro, NC, USA",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AQuercus%20velutina%20%2824199929415%29.jpg"
+    },
+    "fruit": {
+      "title": "File:Quercus velutina acorns.jpg",
+      "author": "Steve Hurst",
+      "license": "public domain",
+      "licenseUrl": "",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AQuercus%20velutina%20acorns.jpg"
+    },
+    "flower": {
+      "title": "File:The tree book - A popular guide to a knowledge of the trees of North America and to their uses and cultivation (1920) (14596318398).jpg",
+      "author": "Rogers, Julia Ellen, b. 1866",
+      "license": "No restrictions",
+      "licenseUrl": "https://www.flickr.com/commons/usage/",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AThe%20tree%20book%20-%20A%20popular%20guide%20to%20a%20knowledge%20of%20the%20trees%20of%20North%20America%20and%20to%20their%20uses%20and%20cultivation%20%281920%29%20%2814596318398%29.jpg"
+    },
+    "tree": {
+      "title": "File:Tree Identification - Oak- Black - DPLA - 0c7bb7e4ad2b241f15bfdf92a20863ce.jpg",
+      "author": "Department of Agriculture. Forest Service. 7/1/1905",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ATree%20Identification%20-%20Oak-%20Black%20-%20DPLA%20-%200c7bb7e4ad2b241f15bfdf92a20863ce.jpg"
+    }
   },
   "pin-oak": {
-    "title": "File:2013-05-03 18 34 31 Quercus palustris (Pin Oak) with bacterial leaf scorch during spring leaf out in Ewing, New Jersey.JPG",
-    "author": "Famartin",
-    "license": "cc by-sa 3.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-    "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2013-05-03%2018%2034%2031%20Quercus%20palustris%20%28Pin%20Oak%29%20with%20bacterial%20leaf%20scorch%20during%20spring%20leaf%20out%20in%20Ewing%2C%20New%20Jersey.JPG"
+    "leaf": {
+      "title": "File:2013-05-03 18 34 31 Quercus palustris (Pin Oak) with bacterial leaf scorch during spring leaf out in Ewing, New Jersey.JPG",
+      "author": "Famartin",
+      "license": "cc by-sa 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2013-05-03%2018%2034%2031%20Quercus%20palustris%20%28Pin%20Oak%29%20with%20bacterial%20leaf%20scorch%20during%20spring%20leaf%20out%20in%20Ewing%2C%20New%20Jersey.JPG"
+    },
+    "bark": {
+      "title": "File:2020-05-13 16 46 20 Pin Oak in late spring along Birch Bark Court in the Franklin Glen section of Chantilly, Fairfax County, Virginia.jpg",
+      "author": "Famartin",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2020-05-13%2016%2046%2020%20Pin%20Oak%20in%20late%20spring%20along%20Birch%20Bark%20Court%20in%20the%20Franklin%20Glen%20section%20of%20Chantilly%2C%20Fairfax%20County%2C%20Virginia.jpg"
+    },
+    "trunk": {
+      "title": "File:2020-10-14 10 07 25 The base of a large Pin Oak's trunk along Somerset County Route 525 (Thompson Avenue) at Lexington Avenue in Bridgewater Township, Somerset County, New Jersey.jpg",
+      "author": "Famartin",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2020-10-14%2010%2007%2025%20The%20base%20of%20a%20large%20Pin%20Oak%27s%20trunk%20along%20Somerset%20County%20Route%20525%20%28Thompson%20Avenue%29%20at%20Lexington%20Avenue%20in%20Bridgewater%20Township%2C%20Somerset%20County%2C%20New%20Jersey.jpg"
+    },
+    "fruit": {
+      "title": "File:2015-07-05 13 42 26 Immature acorns on a Pin Oak along Terrace Boulevard in Ewing, New Jersey.jpg",
+      "author": "Famartin",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2015-07-05%2013%2042%2026%20Immature%20acorns%20on%20a%20Pin%20Oak%20along%20Terrace%20Boulevard%20in%20Ewing%2C%20New%20Jersey.jpg"
+    },
+    "flower": {
+      "title": "File:2016-04-15 15 31 29 Pin Oak catkins at Franklin Farm Park in the Franklin Farm section of Oak Hill, Fairfax County, Virginia.jpg",
+      "author": "Famartin",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2016-04-15%2015%2031%2029%20Pin%20Oak%20catkins%20at%20Franklin%20Farm%20Park%20in%20the%20Franklin%20Farm%20section%20of%20Oak%20Hill%2C%20Fairfax%20County%2C%20Virginia.jpg"
+    },
+    "tree": {
+      "title": "File:2014-08-24 17 43 06 Large Pin Oak along Terrace Boulevard in Ewing, New Jersey.JPG",
+      "author": "Famartin",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2014-08-24%2017%2043%2006%20Large%20Pin%20Oak%20along%20Terrace%20Boulevard%20in%20Ewing%2C%20New%20Jersey.JPG"
+    }
   },
   "bur-oak": {
-    "title": "File:Quercus macrocarpa foliage, The National Circuit, Barton, ACT IMGP9728.jpg",
-    "author": "John Robert McPherson",
-    "license": "cc by-sa 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "sourcePage": "https://commons.wikimedia.org/wiki/File%3AQuercus%20macrocarpa%20foliage%2C%20The%20National%20Circuit%2C%20Barton%2C%20ACT%20IMGP9728.jpg"
+    "leaf": {
+      "title": "File:Quercus macrocarpa foliage, The National Circuit, Barton, ACT IMGP9728.jpg",
+      "author": "John Robert McPherson",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AQuercus%20macrocarpa%20foliage%2C%20The%20National%20Circuit%2C%20Barton%2C%20ACT%20IMGP9728.jpg"
+    },
+    "bark": {
+      "title": "File:2021-05-24 15 48 06 Bur Oak bark on the grounds of College Hall on the Douglass College campus of Rutgers University in New Brunswick, Middlesex County, New Jersey.jpg",
+      "author": "Famartin",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2021-05-24%2015%2048%2006%20Bur%20Oak%20bark%20on%20the%20grounds%20of%20College%20Hall%20on%20the%20Douglass%20College%20campus%20of%20Rutgers%20University%20in%20New%20Brunswick%2C%20Middlesex%20County%2C%20New%20Jersey.jpg"
+    },
+    "trunk": {
+      "title": "File:Lizard MF October 2015-1.jpg",
+      "author": "Jordan Anderson",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ALizard%20MF%20October%202015-1.jpg"
+    },
+    "fruit": {
+      "title": "File:Bur Oak in Spruce Woods Provincial Park, Carberry, Manitoba (28814703785).jpg",
+      "author": "Murray Foubister",
+      "license": "cc by-sa 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ABur%20Oak%20in%20Spruce%20Woods%20Provincial%20Park%2C%20Carberry%2C%20Manitoba%20%2828814703785%29.jpg"
+    },
+    "flower": {
+      "title": "File:Quercus macrocarpa 15-p.bot-quercus.macro-008.jpg",
+      "author": "Ayotte, Gilles, 1948-",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AQuercus%20macrocarpa%2015-p.bot-quercus.macro-008.jpg"
+    },
+    "tree": {
+      "title": "File:Bur Oak Quercus macrocarpa habit fall.jpg",
+      "author": "Cossey25",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ABur%20Oak%20Quercus%20macrocarpa%20habit%20fall.jpg"
+    }
   },
   "chestnut-oak": {
-    "title": "File:2024-09-29 10 25 25 Chestnut Oak leaf changing color in early autumn along Aquetong Lane in the Mountainview section of Ewing Township, Mercer County, New Jersey.jpg",
-    "author": "Famartin",
-    "license": "cc by-sa 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2024-09-29%2010%2025%2025%20Chestnut%20Oak%20leaf%20changing%20color%20in%20early%20autumn%20along%20Aquetong%20Lane%20in%20the%20Mountainview%20section%20of%20Ewing%20Township%2C%20Mercer%20County%2C%20New%20Jersey.jpg"
+    "leaf": {
+      "title": "File:2024-09-29 10 25 25 Chestnut Oak leaf changing color in early autumn along Aquetong Lane in the Mountainview section of Ewing Township, Mercer County, New Jersey.jpg",
+      "author": "Famartin",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2024-09-29%2010%2025%2025%20Chestnut%20Oak%20leaf%20changing%20color%20in%20early%20autumn%20along%20Aquetong%20Lane%20in%20the%20Mountainview%20section%20of%20Ewing%20Township%2C%20Mercer%20County%2C%20New%20Jersey.jpg"
+    },
+    "bark": {
+      "title": "File:Chestnut Oak Quercus Montana bark.jpg",
+      "author": "Cossey25",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AChestnut%20Oak%20Quercus%20Montana%20bark.jpg"
+    },
+    "trunk": {
+      "title": "File:Cherry Valley National Wildlife Refuge (Revisit) (12) (15026764972).jpg",
+      "author": "Nicholas A. Tonelli from Northeast Pennsylvania, USA",
+      "license": "cc by 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ACherry%20Valley%20National%20Wildlife%20Refuge%20%28Revisit%29%20%2812%29%20%2815026764972%29.jpg"
+    },
+    "fruit": {
+      "title": "File:2023-11-14 12 53 42 A Chestnut Oak in late autumn along Aquetong Lane in the Mountainview section of Ewing Township, Mercer County, New Jersey.jpg",
+      "author": "Famartin",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2023-11-14%2012%2053%2042%20A%20Chestnut%20Oak%20in%20late%20autumn%20along%20Aquetong%20Lane%20in%20the%20Mountainview%20section%20of%20Ewing%20Township%2C%20Mercer%20County%2C%20New%20Jersey.jpg"
+    },
+    "tree": {
+      "title": "File:Chestnut Oak Quercus Montana habit fall 01.jpg",
+      "author": "Cossey25",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AChestnut%20Oak%20Quercus%20Montana%20habit%20fall%2001.jpg"
+    }
   },
   "eastern-redbud": {
-    "title": "File:Eastern Redbud Cercis canadensis leaf summer.jpg",
-    "author": "Cossey25",
-    "license": "CC BY-SA 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "sourcePage": "https://commons.wikimedia.org/wiki/File%3AEastern%20Redbud%20Cercis%20canadensis%20leaf%20summer.jpg"
+    "leaf": {
+      "title": "File:Eastern Redbud Cercis canadensis leaf summer.jpg",
+      "author": "Cossey25",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AEastern%20Redbud%20Cercis%20canadensis%20leaf%20summer.jpg"
+    },
+    "bark": {
+      "title": "File:2021-02-23 16 39 02 Eastern Redbud bark along Franklin Farm Road in the Franklin Farm section of Oak Hill, Fairfax County, Virginia.jpg",
+      "author": "Famartin",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2021-02-23%2016%2039%2002%20Eastern%20Redbud%20bark%20along%20Franklin%20Farm%20Road%20in%20the%20Franklin%20Farm%20section%20of%20Oak%20Hill%2C%20Fairfax%20County%2C%20Virginia.jpg"
+    },
+    "trunk": {
+      "title": "File:Cercis canadensis tree trunk with flowers.jpg",
+      "author": "Joselodos",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ACercis%20canadensis%20tree%20trunk%20with%20flowers.jpg"
+    },
+    "fruit": {
+      "title": "File:Eastern Redbud in the Forest Newberry County, SC.jpg",
+      "author": "Thomas Kirchel",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AEastern%20Redbud%20in%20the%20Forest%20Newberry%20County%2C%20SC.jpg"
+    },
+    "flower": {
+      "title": "File:Flowers of Four Mile Run April 2021x.jpg",
+      "author": "Antony-22",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AFlowers%20of%20Four%20Mile%20Run%20April%202021x.jpg"
+    },
+    "tree": {
+      "title": "File:Eastern Redbud Cercis canadensis habit fall 02.jpg",
+      "author": "Cossey25",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AEastern%20Redbud%20Cercis%20canadensis%20habit%20fall%2002.jpg"
+    }
   },
   "sourwood": {
-    "title": "File:Sourwood Oxydendrum arboreum leaf fall.jpg",
-    "author": "Cossey25",
-    "license": "cc by-sa 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "sourcePage": "https://commons.wikimedia.org/wiki/File%3ASourwood%20Oxydendrum%20arboreum%20leaf%20fall.jpg"
+    "leaf": {
+      "title": "File:Sourwood Oxydendrum arboreum leaf fall.jpg",
+      "author": "Cossey25",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ASourwood%20Oxydendrum%20arboreum%20leaf%20fall.jpg"
+    },
+    "bark": {
+      "title": "File:2024-10-29 15 44 56 Sourwood bark within Washington Crossing State Park in Hopewell Township, Mercer County, New Jersey.jpg",
+      "author": "Famartin",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2024-10-29%2015%2044%2056%20Sourwood%20bark%20within%20Washington%20Crossing%20State%20Park%20in%20Hopewell%20Township%2C%20Mercer%20County%2C%20New%20Jersey.jpg"
+    },
+    "trunk": {
+      "title": "File:Sourwood Oxydendrum arboreum Trunk Bark 2000px.jpg",
+      "author": "Photo (c)2007 Derek Ramsey (Ram-Man)",
+      "license": "cc by-sa 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ASourwood%20Oxydendrum%20arboreum%20Trunk%20Bark%202000px.jpg"
+    },
+    "fruit": {
+      "title": "File:Oxydendrum arboreum kz04.jpg",
+      "author": "Krzysztof Ziarnek, Kenraiz",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AOxydendrum%20arboreum%20kz04.jpg"
+    },
+    "flower": {
+      "title": "File:2023-07-19 14 24 43 Sourwood flowers along Seven Oaks Lane in the Mountainview section of Ewing Township, Mercer County, New Jersey.jpg",
+      "author": "Famartin",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2023-07-19%2014%2024%2043%20Sourwood%20flowers%20along%20Seven%20Oaks%20Lane%20in%20the%20Mountainview%20section%20of%20Ewing%20Township%2C%20Mercer%20County%2C%20New%20Jersey.jpg"
+    },
+    "tree": {
+      "title": "File:Sourwood Oxydendrum arboreum habit fall.jpg",
+      "author": "Cossey25",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ASourwood%20Oxydendrum%20arboreum%20habit%20fall.jpg"
+    }
   },
   "eastern-white-pine": {
-    "title": "File:Pinus strobus 'Pendula'—candle and cones.jpg",
-    "author": "KATHERINE WAGNER-REISS",
-    "license": "cc by-sa 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "sourcePage": "https://commons.wikimedia.org/wiki/File%3APinus%20strobus%20%27Pendula%27%E2%80%94candle%20and%20cones.jpg"
+    "leaf": {
+      "title": "File:Pinus strobus 'Pendula'—candle and cones.jpg",
+      "author": "KATHERINE WAGNER-REISS",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3APinus%20strobus%20%27Pendula%27%E2%80%94candle%20and%20cones.jpg"
+    },
+    "bark": {
+      "title": "File:Eastern White Pine Pinus strobus Bark Horizontal.JPG",
+      "author": "Photo by and (c)2016 Derek Ramsey (Ram-Man)",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AEastern%20White%20Pine%20Pinus%20strobus%20Bark%20Horizontal.JPG"
+    },
+    "trunk": {
+      "title": "File:2019-04-03 16 36 53 A partially uprooted Eastern White Pine with a cracked trunk along a walking path in the Franklin Farm section of Oak Hill, Fairfax County, Virginia.jpg",
+      "author": "Famartin",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2019-04-03%2016%2036%2053%20A%20partially%20uprooted%20Eastern%20White%20Pine%20with%20a%20cracked%20trunk%20along%20a%20walking%20path%20in%20the%20Franklin%20Farm%20section%20of%20Oak%20Hill%2C%20Fairfax%20County%2C%20Virginia.jpg"
+    },
+    "fruit": {
+      "title": "File:Pinus strobus 'Pendula'—candle and cones.jpg",
+      "author": "KATHERINE WAGNER-REISS",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3APinus%20strobus%20%27Pendula%27%E2%80%94candle%20and%20cones.jpg"
+    },
+    "tree": {
+      "title": "File:Big white pine (Pinus strobus) in the Estivant Pines Sanctuary.jpg",
+      "author": "OlyScientist",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ABig%20white%20pine%20%28Pinus%20strobus%29%20in%20the%20Estivant%20Pines%20Sanctuary.jpg"
+    }
   },
   "red-pine": {
-    "title": "File:Pinus resinosa 2-eheep (5098077528).jpg",
-    "author": "Superior National Forest",
-    "license": "CC BY 2.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-    "sourcePage": "https://commons.wikimedia.org/wiki/File%3APinus%20resinosa%202-eheep%20%285098077528%29.jpg"
+    "leaf": {
+      "title": "File:Pinus resinosa 2-eheep (5098077528).jpg",
+      "author": "Superior National Forest",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3APinus%20resinosa%202-eheep%20%285098077528%29.jpg"
+    },
+    "bark": {
+      "title": "File:2024-09-17 13 27 09 Bark of a large Red Pine along Rensselaer County Route 41 (Dutch Church Road) in Berlin, Rensselaer County, New York.jpg",
+      "author": "Famartin",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2024-09-17%2013%2027%2009%20Bark%20of%20a%20large%20Red%20Pine%20along%20Rensselaer%20County%20Route%2041%20%28Dutch%20Church%20Road%29%20in%20Berlin%2C%20Rensselaer%20County%2C%20New%20York.jpg"
+    },
+    "trunk": {
+      "title": "File:Pine Trunk (6963190365).jpg",
+      "author": "Martin Cathrae from Charlottetown, PE, Canada",
+      "license": "cc by-sa 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3APine%20Trunk%20%286963190365%29.jpg"
+    },
+    "fruit": {
+      "title": "File:Pine Cone (16421292001).jpg",
+      "author": "Anne Marie Peterson from Madison, WI, US",
+      "license": "cc by-sa 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3APine%20Cone%20%2816421292001%29.jpg"
+    },
+    "tree": {
+      "title": "File:2015-08-20 18 27 06 A Red Pine along Dutch Church Road (Rensselaer County Route 41) in Berlin, New York.jpg",
+      "author": "Famartin",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2015-08-20%2018%2027%2006%20A%20Red%20Pine%20along%20Dutch%20Church%20Road%20%28Rensselaer%20County%20Route%2041%29%20in%20Berlin%2C%20New%20York.jpg"
+    }
   },
   "loblolly-pine": {
-    "title": "File:Loblolly Pine Needles (10562308304).jpg",
-    "author": "Congaree National Park from Hopkins, SC, USA",
-    "license": "public domain",
-    "licenseUrl": "",
-    "sourcePage": "https://commons.wikimedia.org/wiki/File%3ALoblolly%20Pine%20Needles%20%2810562308304%29.jpg"
+    "leaf": {
+      "title": "File:Loblolly Pine Needles (10562308304).jpg",
+      "author": "Congaree National Park from Hopkins, SC, USA",
+      "license": "public domain",
+      "licenseUrl": "",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ALoblolly%20Pine%20Needles%20%2810562308304%29.jpg"
+    },
+    "bark": {
+      "title": "File:2021-02-24 17 31 00 Loblolly Pine bark along a walking trail in the Franklin Farm section of Oak Hill, Fairfax County, Virginia.jpg",
+      "author": "Famartin",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2021-02-24%2017%2031%2000%20Loblolly%20Pine%20bark%20along%20a%20walking%20trail%20in%20the%20Franklin%20Farm%20section%20of%20Oak%20Hill%2C%20Fairfax%20County%2C%20Virginia.jpg"
+    },
+    "trunk": {
+      "title": "File:Loblolly Pine (10562667883).jpg",
+      "author": "Congaree National Park from Hopkins, SC, USA",
+      "license": "public domain",
+      "licenseUrl": "",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ALoblolly%20Pine%20%2810562667883%29.jpg"
+    },
+    "fruit": {
+      "title": "File:2021-04-18 11 01 55 Pollen cones on a Loblolly Pine along a walking path in the Franklin Farm section of Oak Hill, Fairfax County, Virginia.jpg",
+      "author": "Famartin",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2021-04-18%2011%2001%2055%20Pollen%20cones%20on%20a%20Loblolly%20Pine%20along%20a%20walking%20path%20in%20the%20Franklin%20Farm%20section%20of%20Oak%20Hill%2C%20Fairfax%20County%2C%20Virginia.jpg"
+    },
+    "tree": {
+      "title": "File:Loblolly Pine Pinus taeda grove 110 b.jpg",
+      "author": "Cossey25",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ALoblolly%20Pine%20Pinus%20taeda%20grove%20110%20b.jpg"
+    }
   },
   "shortleaf-pine": {
-    "title": "File:Pinus echinata conelet and leaves.jpg",
-    "author": "John B. from Highland Park, NJ, United States",
-    "license": "CC BY 2.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-    "sourcePage": "https://commons.wikimedia.org/wiki/File%3APinus%20echinata%20conelet%20and%20leaves.jpg"
+    "leaf": {
+      "title": "File:Pinus echinata conelet and leaves.jpg",
+      "author": "John B. from Highland Park, NJ, United States",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3APinus%20echinata%20conelet%20and%20leaves.jpg"
+    },
+    "bark": {
+      "title": "File:Pinus echinata bark.jpg",
+      "author": "John B. from Highland Park, NJ, United States",
+      "license": "cc by 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3APinus%20echinata%20bark.jpg"
+    },
+    "trunk": {
+      "title": "File:2024-09-22 16 49 23 Shortleaf Pine bark within Wharton State Forest in Washington Township, Burlington County, New Jersey.jpg",
+      "author": "Famartin",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2024-09-22%2016%2049%2023%20Shortleaf%20Pine%20bark%20within%20Wharton%20State%20Forest%20in%20Washington%20Township%2C%20Burlington%20County%2C%20New%20Jersey.jpg"
+    },
+    "fruit": {
+      "title": "File:Pinus echinata male cones.jpg",
+      "author": "Fredlyfish4",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3APinus%20echinata%20male%20cones.jpg"
+    },
+    "tree": {
+      "title": "File:Pinus echinata - Quercus marilandica forest, Ouachita National Forest, Arkansas 1.jpg",
+      "author": "Original: Fredlyfish4; this edit: MPF",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3APinus%20echinata%20-%20Quercus%20marilandica%20forest%2C%20Ouachita%20National%20Forest%2C%20Arkansas%201.jpg"
+    }
   },
   "eastern-hemlock": {
-    "title": "File:(ms) Tsuga canadensis 1.jpg",
-    "author": "Hladac",
-    "license": "cc by-sa 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "sourcePage": "https://commons.wikimedia.org/wiki/File%3A%28ms%29%20Tsuga%20canadensis%201.jpg"
+    "leaf": {
+      "title": "File:(ms) Tsuga canadensis 1.jpg",
+      "author": "Hladac",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A%28ms%29%20Tsuga%20canadensis%201.jpg"
+    },
+    "bark": {
+      "title": "File:2021-03-05 11 44 51 Eastern Hemlock bark along Briargate Court in the Franklin Farm section of Oak Hill, Fairfax County, Virginia.jpg",
+      "author": "Famartin",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2021-03-05%2011%2044%2051%20Eastern%20Hemlock%20bark%20along%20Briargate%20Court%20in%20the%20Franklin%20Farm%20section%20of%20Oak%20Hill%2C%20Fairfax%20County%2C%20Virginia.jpg"
+    },
+    "trunk": {
+      "title": "File:Canada Hemlock Tsuga canadensis Trunk 3008px.JPG",
+      "author": "Photo (c)2007 Derek Ramsey (Ram-Man)",
+      "license": "cc by-sa 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ACanada%20Hemlock%20Tsuga%20canadensis%20Trunk%203008px.JPG"
+    },
+    "fruit": {
+      "title": "File:Sargent's Weeping Hemlock Tsuga canadensis 'Pendula' Cone.jpg",
+      "author": "Photo by and (c)2016 Derek Ramsey (Ram-Man)",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ASargent%27s%20Weeping%20Hemlock%20Tsuga%20canadensis%20%27Pendula%27%20Cone.jpg"
+    },
+    "tree": {
+      "title": "File:Gmina Zabierzów Balice pomnik przyrody Choina kanadyjska Tsuga canadensis.jpg",
+      "author": "Janusz Krzyżek",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AGmina%20Zabierz%C3%B3w%20Balice%20pomnik%20przyrody%20Choina%20kanadyjska%20Tsuga%20canadensis.jpg"
+    }
   },
   "white-spruce": {
-    "title": "File:2019-04-25 10 45 53 New needles in spring on an Alberta Spruce along Tranquility Court in the Franklin Farm section of Oak Hill, Fairfax County, Virginia.jpg",
-    "author": "Famartin",
-    "license": "cc by-sa 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2019-04-25%2010%2045%2053%20New%20needles%20in%20spring%20on%20an%20Alberta%20Spruce%20along%20Tranquility%20Court%20in%20the%20Franklin%20Farm%20section%20of%20Oak%20Hill%2C%20Fairfax%20County%2C%20Virginia.jpg"
+    "leaf": {
+      "title": "File:2019-04-25 10 45 53 New needles in spring on an Alberta Spruce along Tranquility Court in the Franklin Farm section of Oak Hill, Fairfax County, Virginia.jpg",
+      "author": "Famartin",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2019-04-25%2010%2045%2053%20New%20needles%20in%20spring%20on%20an%20Alberta%20Spruce%20along%20Tranquility%20Court%20in%20the%20Franklin%20Farm%20section%20of%20Oak%20Hill%2C%20Fairfax%20County%2C%20Virginia.jpg"
+    },
+    "bark": {
+      "title": "File:2021-03-08 13 23 49 White Spruce bark along Old Dairy Road in the Franklin Farm section of Oak Hill, Fairfax County, Virginia.jpg",
+      "author": "Famartin",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2021-03-08%2013%2023%2049%20White%20Spruce%20bark%20along%20Old%20Dairy%20Road%20in%20the%20Franklin%20Farm%20section%20of%20Oak%20Hill%2C%20Fairfax%20County%2C%20Virginia.jpg"
+    },
+    "trunk": {
+      "title": "File:2015-03-27 16 21 24 Spruce with trunk sprouts at Elko High School in Elko, Nevada.JPG",
+      "author": "Famartin",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2015-03-27%2016%2021%2024%20Spruce%20with%20trunk%20sprouts%20at%20Elko%20High%20School%20in%20Elko%2C%20Nevada.JPG"
+    },
+    "fruit": {
+      "title": "File:Interior Spruce cones.jpg",
+      "author": "Shane Johnson",
+      "license": "cc0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AInterior%20Spruce%20cones.jpg"
+    },
+    "tree": {
+      "title": "File:Dwarf Alberta Spruce Picea glauca ‘Daisy White’ habit.jpg",
+      "author": "Cossey25",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ADwarf%20Alberta%20Spruce%20Picea%20glauca%20%E2%80%98Daisy%20White%E2%80%99%20habit.jpg"
+    }
   },
   "balsam-fir": {
-    "title": "File:Balsam Fir Needles (f5c87f56-3217-4584-affa-59c7df829c46).JPG",
-    "author": "NPS",
-    "license": "public domain",
-    "licenseUrl": "",
-    "sourcePage": "https://commons.wikimedia.org/wiki/File%3ABalsam%20Fir%20Needles%20%28f5c87f56-3217-4584-affa-59c7df829c46%29.JPG"
+    "leaf": {
+      "title": "File:Balsam Fir Needles (f5c87f56-3217-4584-affa-59c7df829c46).JPG",
+      "author": "NPS",
+      "license": "public domain",
+      "licenseUrl": "",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ABalsam%20Fir%20Needles%20%28f5c87f56-3217-4584-affa-59c7df829c46%29.JPG"
+    },
+    "bark": {
+      "title": "File:2024-09-17 13 51 21 Bark of a Balsam Fir along Rensselaer County Route 42 (Taborton Road) in Berlin, Rensselaer County, New York.jpg",
+      "author": "Famartin",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2024-09-17%2013%2051%2021%20Bark%20of%20a%20Balsam%20Fir%20along%20Rensselaer%20County%20Route%2042%20%28Taborton%20Road%29%20in%20Berlin%2C%20Rensselaer%20County%2C%20New%20York.jpg"
+    },
+    "trunk": {
+      "title": "File:Balsam Fir trunk, 200 years old, photographed in the timberland on Vancouver Island, British Columbia. Near Port... - NARA - 557616.jpg",
+      "author": "Unknown authorUnknown author or not provided",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ABalsam%20Fir%20trunk%2C%20200%20years%20old%2C%20photographed%20in%20the%20timberland%20on%20Vancouver%20Island%2C%20British%20Columbia.%20Near%20Port...%20-%20NARA%20-%20557616.jpg"
+    },
+    "fruit": {
+      "title": "File:Abies balsamea cones Niapiskau 02.jpg",
+      "author": "Cephas",
+      "license": "cc by-sa 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AAbies%20balsamea%20cones%20Niapiskau%2002.jpg"
+    },
+    "tree": {
+      "title": "File:2018-04-28 13 57 51 Balsam Fir trees growing along the Lower Hawksbill Trail in Madison County, within Shenandoah National Park, Virginia.jpg",
+      "author": "Famartin",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2018-04-28%2013%2057%2051%20Balsam%20Fir%20trees%20growing%20along%20the%20Lower%20Hawksbill%20Trail%20in%20Madison%20County%2C%20within%20Shenandoah%20National%20Park%2C%20Virginia.jpg"
+    }
   },
   "scarlet-oak": {
-    "title": "File:Quercus coccinea-Leaf R 148 f2 (24125469981).jpg",
-    "author": "Bruce Kirchoff from Greensboro, NC, USA",
-    "license": "cc by 2.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-    "sourcePage": "https://commons.wikimedia.org/wiki/File%3AQuercus%20coccinea-Leaf%20R%20148%20f2%20%2824125469981%29.jpg"
+    "leaf": {
+      "title": "File:Quercus coccinea-Leaf R 148 f2 (24125469981).jpg",
+      "author": "Bruce Kirchoff from Greensboro, NC, USA",
+      "license": "cc by 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AQuercus%20coccinea-Leaf%20R%20148%20f2%20%2824125469981%29.jpg"
+    },
+    "bark": {
+      "title": "File:2023-11-07 12 00 41 Scarlet Oak bark along Lochatong Road in the Mountainview section of Ewing Township, Mercer County, New Jersey.jpg",
+      "author": "Famartin",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2023-11-07%2012%2000%2041%20Scarlet%20Oak%20bark%20along%20Lochatong%20Road%20in%20the%20Mountainview%20section%20of%20Ewing%20Township%2C%20Mercer%20County%2C%20New%20Jersey.jpg"
+    },
+    "trunk": {
+      "title": "File:Rim Rock Trail - Scarlet Oak (Quercus coccinea) base of trunk - Flickr - Jay Sturner.jpg",
+      "author": "Jay Sturner from USA",
+      "license": "cc by 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ARim%20Rock%20Trail%20-%20Scarlet%20Oak%20%28Quercus%20coccinea%29%20base%20of%20trunk%20-%20Flickr%20-%20Jay%20Sturner.jpg"
+    },
+    "fruit": {
+      "title": "File:2025-11-21 09 40 08 Acorns under a Scarlet Oak within the Ewing Presbyterian Church Cemetery in Ewing Township, Mercer County, New Jersey.jpg",
+      "author": "Famartin",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2025-11-21%2009%2040%2008%20Acorns%20under%20a%20Scarlet%20Oak%20within%20the%20Ewing%20Presbyterian%20Church%20Cemetery%20in%20Ewing%20Township%2C%20Mercer%20County%2C%20New%20Jersey.jpg"
+    },
+    "flower": {
+      "title": "File:Tree Identification - Oak- Scarlet - DPLA - 9f9dbae5e680aa72105289b734f7c394.jpg",
+      "author": "Department of Agriculture. Forest Service. 7/1/1905",
+      "license": "public domain",
+      "licenseUrl": "",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ATree%20Identification%20-%20Oak-%20Scarlet%20-%20DPLA%20-%209f9dbae5e680aa72105289b734f7c394.jpg"
+    },
+    "tree": {
+      "title": "File:Scarlet Oak Quercus coccinea fall habit.jpg",
+      "author": "Cossey25",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AScarlet%20Oak%20Quercus%20coccinea%20fall%20habit.jpg"
+    }
   },
   "american-beech": {
-    "title": "File:Beech leaf 7882.jpg",
-    "author": "Chris Light",
-    "license": "cc by-sa 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "sourcePage": "https://commons.wikimedia.org/wiki/File%3ABeech%20leaf%207882.jpg"
+    "leaf": {
+      "title": "File:Beech leaf 7882.jpg",
+      "author": "Chris Light",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ABeech%20leaf%207882.jpg"
+    },
+    "bark": {
+      "title": "File:American Beech (Fagus grandifolia) bark detail.jpg",
+      "author": "MONGO",
+      "license": "public domain",
+      "licenseUrl": "",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AAmerican%20Beech%20%28Fagus%20grandifolia%29%20bark%20detail.jpg"
+    },
+    "trunk": {
+      "title": "File:David R. Johnson Natural Area (6) (10682649163).jpg",
+      "author": "Nicholas A. Tonelli from Northeast Pennsylvania, USA",
+      "license": "cc by 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ADavid%20R.%20Johnson%20Natural%20Area%20%286%29%20%2810682649163%29.jpg"
+    },
+    "fruit": {
+      "title": "File:2023-08-29 09 03 44 American Beech immature fruit along Lochatong Road in the Mountainview section of Ewing Township, Mercer County, New Jersey.jpg",
+      "author": "Famartin",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2023-08-29%2009%2003%2044%20American%20Beech%20immature%20fruit%20along%20Lochatong%20Road%20in%20the%20Mountainview%20section%20of%20Ewing%20Township%2C%20Mercer%20County%2C%20New%20Jersey.jpg"
+    },
+    "flower": {
+      "title": "File:2023-04-12 11 55 42 An American Beech tree starting to bloom in spring along Delaware Avenue in the Mountainview section of Ewing Township, Mercer County, New Jersey.jpg",
+      "author": "Famartin",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2023-04-12%2011%2055%2042%20An%20American%20Beech%20tree%20starting%20to%20bloom%20in%20spring%20along%20Delaware%20Avenue%20in%20the%20Mountainview%20section%20of%20Ewing%20Township%2C%20Mercer%20County%2C%20New%20Jersey.jpg"
+    },
+    "tree": {
+      "title": "File:2014-12-30 13 39 50 American Beech on Maple Avenue in Ewing, New Jersey.JPG",
+      "author": "Famartin",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2014-12-30%2013%2039%2050%20American%20Beech%20on%20Maple%20Avenue%20in%20Ewing%2C%20New%20Jersey.JPG"
+    }
   },
   "shagbark-hickory": {
-    "title": "File:CaryaOvataLeaf.jpg",
-    "author": "Chhe at English Wikipedia",
-    "license": "public domain",
-    "licenseUrl": "",
-    "sourcePage": "https://commons.wikimedia.org/wiki/File%3ACaryaOvataLeaf.jpg"
+    "leaf": {
+      "title": "File:CaryaOvataLeaf.jpg",
+      "author": "Chhe at English Wikipedia",
+      "license": "public domain",
+      "licenseUrl": "",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ACaryaOvataLeaf.jpg"
+    },
+    "bark": {
+      "title": "File:2014-12-30 12 16 41 Shagbark Hickory near Metzger Drive at the College of New Jersey in Ewing, New Jersey.JPG",
+      "author": "Famartin",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2014-12-30%2012%2016%2041%20Shagbark%20Hickory%20near%20Metzger%20Drive%20at%20the%20College%20of%20New%20Jersey%20in%20Ewing%2C%20New%20Jersey.JPG"
+    },
+    "trunk": {
+      "title": "File:2021-03-03 10 34 58 Shagbark Hickory trunk within the woodlands along the West Branch Shabakunk Creek in Ewing Township, Mercer County, New Jersey.jpg",
+      "author": "Famartin",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2021-03-03%2010%2034%2058%20Shagbark%20Hickory%20trunk%20within%20the%20woodlands%20along%20the%20West%20Branch%20Shabakunk%20Creek%20in%20Ewing%20Township%2C%20Mercer%20County%2C%20New%20Jersey.jpg"
+    },
+    "fruit": {
+      "title": "File:Carya ovalis nuts (with Carya ovata nuts).jpg",
+      "author": "Jaknouse",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ACarya%20ovalis%20nuts%20%28with%20Carya%20ovata%20nuts%29.jpg"
+    },
+    "flower": {
+      "title": "File:Carya ovata male flowers.jpg",
+      "author": "William (Ned) Friedman",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ACarya%20ovata%20male%20flowers.jpg"
+    },
+    "tree": {
+      "title": "File:2024-02-07 11 41 22 Several Shagbark Hickory trees along Lochatong Road in the Mountainview section of Ewing Township, Mercer County, New Jersey.jpg",
+      "author": "Famartin",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2024-02-07%2011%2041%2022%20Several%20Shagbark%20Hickory%20trees%20along%20Lochatong%20Road%20in%20the%20Mountainview%20section%20of%20Ewing%20Township%2C%20Mercer%20County%2C%20New%20Jersey.jpg"
+    }
   },
   "pignut-hickory": {
-    "title": "File:Carya glabra USDA.jpg",
-    "author": "Robert H. Mohlenbrock. USDA SCS. Southern wetland flora: Field office guide to plant species.",
-    "license": "public domain",
-    "licenseUrl": "",
-    "sourcePage": "https://commons.wikimedia.org/wiki/File%3ACarya%20glabra%20USDA.jpg"
+    "leaf": {
+      "title": "File:Carya glabra USDA.jpg",
+      "author": "Robert H. Mohlenbrock. USDA SCS. Southern wetland flora: Field office guide to plant species.",
+      "license": "public domain",
+      "licenseUrl": "",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ACarya%20glabra%20USDA.jpg"
+    },
+    "bark": {
+      "title": "File:Pignut Hickory Carya glabra Bark.JPG",
+      "author": "Photo by and (c)2016 Avery Ramsey",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3APignut%20Hickory%20Carya%20glabra%20Bark.JPG"
+    },
+    "trunk": {
+      "title": "File:Carya glabra 4772.jpg",
+      "author": "Francis Groeters",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ACarya%20glabra%204772.jpg"
+    },
+    "fruit": {
+      "title": "File:Hickory - Pignut 19-10-04 163.jpg",
+      "author": "Chris Light",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AHickory%20-%20Pignut%2019-10-04%20163.jpg"
+    },
+    "flower": {
+      "title": "File:The tree book - A popular guide to a knowledge of the trees of North America and to their uses and cultivation (1920) (14782544382).jpg",
+      "author": "Rogers, Julia Ellen, b. 1866",
+      "license": "No restrictions",
+      "licenseUrl": "https://www.flickr.com/commons/usage/",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AThe%20tree%20book%20-%20A%20popular%20guide%20to%20a%20knowledge%20of%20the%20trees%20of%20North%20America%20and%20to%20their%20uses%20and%20cultivation%20%281920%29%20%2814782544382%29.jpg"
+    },
+    "tree": {
+      "title": "File:Carya glabra AA.jpg",
+      "author": "William (Ned) Friedman",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ACarya%20glabra%20AA.jpg"
+    }
   },
   "black-walnut": {
-    "title": "File:Juglans nigra 01.jpg",
-    "author": "DouglasGoldman",
-    "license": "cc by-sa 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "sourcePage": "https://commons.wikimedia.org/wiki/File%3AJuglans%20nigra%2001.jpg"
+    "leaf": {
+      "title": "File:Juglans nigra 01.jpg",
+      "author": "DouglasGoldman",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AJuglans%20nigra%2001.jpg"
+    },
+    "bark": {
+      "title": "File:2021-03-04 11 07 05 Black Walnut bark along a walking path in the Franklin Glen section of Chantilly, Fairfax County, Virginia.jpg",
+      "author": "Famartin",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2021-03-04%2011%2007%2005%20Black%20Walnut%20bark%20along%20a%20walking%20path%20in%20the%20Franklin%20Glen%20section%20of%20Chantilly%2C%20Fairfax%20County%2C%20Virginia.jpg"
+    },
+    "trunk": {
+      "title": "File:Juglans nigra 02114.jpg",
+      "author": "R. A. Nonenmacher",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AJuglans%20nigra%2002114.jpg"
+    },
+    "fruit": {
+      "title": "File:Black Walnut (Juglans nigra) - Guelph, Ontario 2020-07-29.jpg",
+      "author": "Ryan Hodnett",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ABlack%20Walnut%20%28Juglans%20nigra%29%20-%20Guelph%2C%20Ontario%202020-07-29.jpg"
+    },
+    "flower": {
+      "title": "File:2021-04-18 11 18 20 Male flowers (catkins) developing on a Walnut tree along a walking path in the Franklin Farm section of Oak Hill, Fairfax County, Virginia.jpg",
+      "author": "Famartin",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2021-04-18%2011%2018%2020%20Male%20flowers%20%28catkins%29%20developing%20on%20a%20Walnut%20tree%20along%20a%20walking%20path%20in%20the%20Franklin%20Farm%20section%20of%20Oak%20Hill%2C%20Fairfax%20County%2C%20Virginia.jpg"
+    },
+    "tree": {
+      "title": "File:Cylburn Arboretum Black Walnut June 2024.jpg",
+      "author": "Marty Aligata",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ACylburn%20Arboretum%20Black%20Walnut%20June%202024.jpg"
+    }
   },
   "american-elm": {
-    "title": "File:U. americana 'Aurea' leaf.png",
-    "author": "Ptelea",
-    "license": "cc by-sa 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "sourcePage": "https://commons.wikimedia.org/wiki/File%3AU.%20americana%20%27Aurea%27%20leaf.png"
+    "leaf": {
+      "title": "File:U. americana 'Aurea' leaf.png",
+      "author": "Ptelea",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AU.%20americana%20%27Aurea%27%20leaf.png"
+    },
+    "bark": {
+      "title": "File:Bark of Ulmus americana.jpg",
+      "author": "Downtowngal",
+      "license": "cc by-sa 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ABark%20of%20Ulmus%20americana.jpg"
+    },
+    "trunk": {
+      "title": "File:American Elm Tree (Closer), Hatfield, MA - June 2020.jpg",
+      "author": "Marty Aligata",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AAmerican%20Elm%20Tree%20%28Closer%29%2C%20Hatfield%2C%20MA%20-%20June%202020.jpg"
+    },
+    "fruit": {
+      "title": "File:Ulmus americana - Flickr - treegrow.jpg",
+      "author": "Katja Schulz from Washington, D. C., USA",
+      "license": "cc by 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AUlmus%20americana%20-%20Flickr%20-%20treegrow.jpg"
+    },
+    "flower": {
+      "title": "File:American Elm - Ulmus americana, Occoquan Regional Park, Lorton, Virginia.jpg",
+      "author": "Judy Gallagher",
+      "license": "cc by 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AAmerican%20Elm%20-%20Ulmus%20americana%2C%20Occoquan%20Regional%20Park%2C%20Lorton%2C%20Virginia.jpg"
+    },
+    "tree": {
+      "title": "File:Jardin jeanne arc.jpg",
+      "author": "Cephas",
+      "license": "cc by-sa 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AJardin%20jeanne%20arc.jpg"
+    }
   },
   "slippery-elm": {
-    "title": "File:2023-09-29 15 45 43 Elm leaf changing color in autumn on the edge of the forest within Ann M. Banchoff Park in the Mountainview section of Ewing Township, Mercer County, New Jersey.jpg",
-    "author": "Famartin",
-    "license": "cc by-sa 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2023-09-29%2015%2045%2043%20Elm%20leaf%20changing%20color%20in%20autumn%20on%20the%20edge%20of%20the%20forest%20within%20Ann%20M.%20Banchoff%20Park%20in%20the%20Mountainview%20section%20of%20Ewing%20Township%2C%20Mercer%20County%2C%20New%20Jersey.jpg"
+    "leaf": {
+      "title": "File:2023-09-29 15 45 43 Elm leaf changing color in autumn on the edge of the forest within Ann M. Banchoff Park in the Mountainview section of Ewing Township, Mercer County, New Jersey.jpg",
+      "author": "Famartin",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2023-09-29%2015%2045%2043%20Elm%20leaf%20changing%20color%20in%20autumn%20on%20the%20edge%20of%20the%20forest%20within%20Ann%20M.%20Banchoff%20Park%20in%20the%20Mountainview%20section%20of%20Ewing%20Township%2C%20Mercer%20County%2C%20New%20Jersey.jpg"
+    },
+    "bark": {
+      "title": "File:Slippery Elm Ulmus rubra Bark Vertical.JPG",
+      "author": "Photo by and (c)2016 Derek Ramsey (Ram-Man)",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ASlippery%20Elm%20Ulmus%20rubra%20Bark%20Vertical.JPG"
+    },
+    "trunk": {
+      "title": "File:Slippery Elm Ulmus rubra Bark Horizontal.JPG",
+      "author": "Photo by and (c)2016 Derek Ramsey (Ram-Man)",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ASlippery%20Elm%20Ulmus%20rubra%20Bark%20Horizontal.JPG"
+    },
+    "fruit": {
+      "title": "File:Ulmus sp. 15-p.bot-ulmu.rubra-01.jpg",
+      "author": "Ayotte, Gilles, 1948-",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AUlmus%20sp.%2015-p.bot-ulmu.rubra-01.jpg"
+    },
+    "flower": {
+      "title": "File:2021-03-24 13 14 11 Elm flowers along a walking path within Franklin Glen Park in the Franklin Glen section of Chantilly, Fairfax County, Virginia.jpg",
+      "author": "Famartin",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2021-03-24%2013%2014%2011%20Elm%20flowers%20along%20a%20walking%20path%20within%20Franklin%20Glen%20Park%20in%20the%20Franklin%20Glen%20section%20of%20Chantilly%2C%20Fairfax%20County%2C%20Virginia.jpg"
+    },
+    "tree": {
+      "title": "File:2023-06-21 09 46 51 Slippery Elm along Mountain View Road in the Mountainview section of Ewing Township, Mercer County, New Jersey.jpg",
+      "author": "Famartin",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2023-06-21%2009%2046%2051%20Slippery%20Elm%20along%20Mountain%20View%20Road%20in%20the%20Mountainview%20section%20of%20Ewing%20Township%2C%20Mercer%20County%2C%20New%20Jersey.jpg"
+    }
   },
   "green-ash": {
-    "title": "File:2014-10-29 12 51 30 Green Ash foliage during autumn leaf coloration and other small tree foliage in Ewing, New Jersey.JPG",
-    "author": "Famartin",
-    "license": "cc by-sa 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2014-10-29%2012%2051%2030%20Green%20Ash%20foliage%20during%20autumn%20leaf%20coloration%20and%20other%20small%20tree%20foliage%20in%20Ewing%2C%20New%20Jersey.JPG"
+    "leaf": {
+      "title": "File:2014-10-29 12 51 30 Green Ash foliage during autumn leaf coloration and other small tree foliage in Ewing, New Jersey.JPG",
+      "author": "Famartin",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2014-10-29%2012%2051%2030%20Green%20Ash%20foliage%20during%20autumn%20leaf%20coloration%20and%20other%20small%20tree%20foliage%20in%20Ewing%2C%20New%20Jersey.JPG"
+    },
+    "bark": {
+      "title": "File:2021-03-03 09 16 07 Green Ash bark along Terrace Boulevard in the Parkway Village section of Ewing Township, Mercer County, New Jersey.jpg",
+      "author": "Famartin",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2021-03-03%2009%2016%2007%20Green%20Ash%20bark%20along%20Terrace%20Boulevard%20in%20the%20Parkway%20Village%20section%20of%20Ewing%20Township%2C%20Mercer%20County%2C%20New%20Jersey.jpg"
+    },
+    "trunk": {
+      "title": "File:Fraxinus pennsylvanica (5107490717).jpg",
+      "author": "Matt Lavin from Bozeman, Montana, USA",
+      "license": "cc by-sa 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AFraxinus%20pennsylvanica%20%285107490717%29.jpg"
+    },
+    "fruit": {
+      "title": "File:Korina 2011-07-05 Fraxinus pennsylvanica.jpg",
+      "author": "Annabell Hormann / korina.info",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AKorina%202011-07-05%20Fraxinus%20pennsylvanica.jpg"
+    },
+    "flower": {
+      "title": "File:Fraxinus pennsylvanica - green ash - 4634153875.jpg",
+      "author": "Matt Lavin",
+      "license": "cc by-sa 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AFraxinus%20pennsylvanica%20-%20green%20ash%20-%204634153875.jpg"
+    },
+    "tree": {
+      "title": "File:Fraxinus Fraxinus pennsylvanica - green ash.jpg",
+      "author": "Matt Lavin",
+      "license": "cc by-sa 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AFraxinus%20Fraxinus%20pennsylvanica%20-%20green%20ash.jpg"
+    }
   },
   "white-ash": {
-    "title": "File:2023-09-08 11 16 17 White Ash leaf starting to change color along Aquetong Lane in the Mountainview section of Ewing Township, Mercer County, New Jersey.jpg",
-    "author": "Famartin",
-    "license": "cc by-sa 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2023-09-08%2011%2016%2017%20White%20Ash%20leaf%20starting%20to%20change%20color%20along%20Aquetong%20Lane%20in%20the%20Mountainview%20section%20of%20Ewing%20Township%2C%20Mercer%20County%2C%20New%20Jersey.jpg"
+    "leaf": {
+      "title": "File:2023-09-08 11 16 17 White Ash leaf starting to change color along Aquetong Lane in the Mountainview section of Ewing Township, Mercer County, New Jersey.jpg",
+      "author": "Famartin",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2023-09-08%2011%2016%2017%20White%20Ash%20leaf%20starting%20to%20change%20color%20along%20Aquetong%20Lane%20in%20the%20Mountainview%20section%20of%20Ewing%20Township%2C%20Mercer%20County%2C%20New%20Jersey.jpg"
+    },
+    "bark": {
+      "title": "File:2021-03-02 17 14 33 White Ash bark along Apple Barrel Court in the Franklin Farm section of Oak Hill, Fairfax County, Virginia.jpg",
+      "author": "Famartin",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2021-03-02%2017%2014%2033%20White%20Ash%20bark%20along%20Apple%20Barrel%20Court%20in%20the%20Franklin%20Farm%20section%20of%20Oak%20Hill%2C%20Fairfax%20County%2C%20Virginia.jpg"
+    },
+    "trunk": {
+      "title": "File:2026-06-30 06 20 09 Recently-cut White Ash trunk along Seven Oaks Lane in the Mountainview section of Ewing Township, Mercer County, New Jersey.jpg",
+      "author": "Famartin",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2026-06-30%2006%2020%2009%20Recently-cut%20White%20Ash%20trunk%20along%20Seven%20Oaks%20Lane%20in%20the%20Mountainview%20section%20of%20Ewing%20Township%2C%20Mercer%20County%2C%20New%20Jersey.jpg"
+    },
+    "fruit": {
+      "title": "File:2023-11-08 11 46 09 White Ash trees laden with seeds in late autumn along Lochatong Road in the Mountainview section of Ewing Township, Mercer County, New Jersey.jpg",
+      "author": "Famartin",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2023-11-08%2011%2046%2009%20White%20Ash%20trees%20laden%20with%20seeds%20in%20late%20autumn%20along%20Lochatong%20Road%20in%20the%20Mountainview%20section%20of%20Ewing%20Township%2C%20Mercer%20County%2C%20New%20Jersey.jpg"
+    },
+    "flower": {
+      "title": "File:2020-04-19 11 28 19 Flowers developing on a White Ash tree along Dunmore Avenue in the Parkway Village section of Ewing Township, Mercer County, New Jersey.jpg",
+      "author": "Famartin",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2020-04-19%2011%2028%2019%20Flowers%20developing%20on%20a%20White%20Ash%20tree%20along%20Dunmore%20Avenue%20in%20the%20Parkway%20Village%20section%20of%20Ewing%20Township%2C%20Mercer%20County%2C%20New%20Jersey.jpg"
+    },
+    "tree": {
+      "title": "File:2023-11-08 11 46 09 White Ash trees laden with seeds in late autumn along Lochatong Road in the Mountainview section of Ewing Township, Mercer County, New Jersey.jpg",
+      "author": "Famartin",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2023-11-08%2011%2046%2009%20White%20Ash%20trees%20laden%20with%20seeds%20in%20late%20autumn%20along%20Lochatong%20Road%20in%20the%20Mountainview%20section%20of%20Ewing%20Township%2C%20Mercer%20County%2C%20New%20Jersey.jpg"
+    }
   },
   "tulip-tree": {
-    "title": "File:(ms) Liriodendron tulipifera 5.jpg",
-    "author": "Hladac",
-    "license": "cc by-sa 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "sourcePage": "https://commons.wikimedia.org/wiki/File%3A%28ms%29%20Liriodendron%20tulipifera%205.jpg"
+    "leaf": {
+      "title": "File:(ms) Liriodendron tulipifera 5.jpg",
+      "author": "Hladac",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A%28ms%29%20Liriodendron%20tulipifera%205.jpg"
+    },
+    "bark": {
+      "title": "File:Bark of Liriodendron tulipifera.jpg",
+      "author": "Krzysztof Golik",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ABark%20of%20Liriodendron%20tulipifera.jpg"
+    },
+    "trunk": {
+      "title": "File:2014-12-28 11 41 17 Twin-trunked Tulip Tree in winter along Terrace Boulevard in the Parkway Village section of Ewing Township, Mercer County, New Jersey.jpg",
+      "author": "Famartin",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2014-12-28%2011%2041%2017%20Twin-trunked%20Tulip%20Tree%20in%20winter%20along%20Terrace%20Boulevard%20in%20the%20Parkway%20Village%20section%20of%20Ewing%20Township%2C%20Mercer%20County%2C%20New%20Jersey.jpg"
+    },
+    "fruit": {
+      "title": "File:Liriodendron tulipifera (frosted fruit).jpg",
+      "author": "Jörg Peter",
+      "license": "cc0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ALiriodendron%20tulipifera%20%28frosted%20fruit%29.jpg"
+    },
+    "flower": {
+      "title": "File:Groundhog holding a flower (57074).jpg",
+      "author": "Rhododendrites",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AGroundhog%20holding%20a%20flower%20%2857074%29.jpg"
+    },
+    "tree": {
+      "title": "File:Liriodendron tulipifera at Vancouver BC 10th Ave at Dunbar in spring.jpg",
+      "author": "Dllu",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ALiriodendron%20tulipifera%20at%20Vancouver%20BC%2010th%20Ave%20at%20Dunbar%20in%20spring.jpg"
+    }
   },
   "eastern-cottonwood": {
-    "title": "File:Cottonwood (Populus deltoides) 2016-07-12 1269.jpg",
-    "author": "Chris Light",
-    "license": "cc by-sa 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "sourcePage": "https://commons.wikimedia.org/wiki/File%3ACottonwood%20%28Populus%20deltoides%29%202016-07-12%201269.jpg"
+    "leaf": {
+      "title": "File:Cottonwood (Populus deltoides) 2016-07-12 1269.jpg",
+      "author": "Chris Light",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ACottonwood%20%28Populus%20deltoides%29%202016-07-12%201269.jpg"
+    },
+    "bark": {
+      "title": "File:2023-05-25 19 02 04 Cottonwood bark along Willis Drive in the Mountainview section of Ewing Township, Mercer County, New Jersey.jpg",
+      "author": "Famartin",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2023-05-25%2019%2002%2004%20Cottonwood%20bark%20along%20Willis%20Drive%20in%20the%20Mountainview%20section%20of%20Ewing%20Township%2C%20Mercer%20County%2C%20New%20Jersey.jpg"
+    },
+    "trunk": {
+      "title": "File:Eastern Cottonwood (Populus deltoides) trunk - Flickr - Jay Sturner.jpg",
+      "author": "Jay Sturner from USA",
+      "license": "cc by 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AEastern%20Cottonwood%20%28Populus%20deltoides%29%20trunk%20-%20Flickr%20-%20Jay%20Sturner.jpg"
+    },
+    "fruit": {
+      "title": "File:Eastern Cottonwood (Populus deltoides) seed - Flickr - Jay Sturner.jpg",
+      "author": "Jay Sturner from USA",
+      "license": "cc by 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AEastern%20Cottonwood%20%28Populus%20deltoides%29%20seed%20-%20Flickr%20-%20Jay%20Sturner.jpg"
+    },
+    "flower": {
+      "title": "File:Populus deltoides - eastern cottonwood - Flickr - Matt Lavin (2).jpg",
+      "author": "Matt Lavin from Bozeman, Montana, USA",
+      "license": "cc by-sa 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3APopulus%20deltoides%20-%20eastern%20cottonwood%20-%20Flickr%20-%20Matt%20Lavin%20%282%29.jpg"
+    },
+    "tree": {
+      "title": "File:Populus deltoides - eastern cottonwood - Flickr - Matt Lavin.jpg",
+      "author": "Matt Lavin from Bozeman, Montana, USA",
+      "license": "cc by-sa 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3APopulus%20deltoides%20-%20eastern%20cottonwood%20-%20Flickr%20-%20Matt%20Lavin.jpg"
+    }
   },
   "quaking-aspen": {
-    "title": "File:E20160713-0003—Populus tremuloides (27675899794).jpg",
-    "author": "John Rusk from Berkeley, CA, United States of America",
-    "license": "cc by 2.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
-    "sourcePage": "https://commons.wikimedia.org/wiki/File%3AE20160713-0003%E2%80%94Populus%20tremuloides%20%2827675899794%29.jpg"
+    "leaf": {
+      "title": "File:E20160713-0003—Populus tremuloides (27675899794).jpg",
+      "author": "John Rusk from Berkeley, CA, United States of America",
+      "license": "cc by 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AE20160713-0003%E2%80%94Populus%20tremuloides%20%2827675899794%29.jpg"
+    },
+    "bark": {
+      "title": "File:Bark close-up - American Aspen - Populus tremuloides.jpg",
+      "author": "E bailey",
+      "license": "cc0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ABark%20close-up%20-%20American%20Aspen%20-%20Populus%20tremuloides.jpg"
+    },
+    "trunk": {
+      "title": "File:Lichens Making a Living (8478522672).jpg",
+      "author": "Western Arctic National Parklands",
+      "license": "cc by 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ALichens%20Making%20a%20Living%20%288478522672%29.jpg"
+    },
+    "fruit": {
+      "title": "File:Populus tremuloides 15-p.bot-popu.tremul-25.jpg",
+      "author": "Ayotte, Gilles, 1948-",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3APopulus%20tremuloides%2015-p.bot-popu.tremul-25.jpg"
+    },
+    "flower": {
+      "title": "File:2014-06-24 12 21 55 Field of wildflowers amidst Aspen groves just east of Elko County Route 748 (Charleston-Jarbidge Road) on the east side of Copper Basin, Nevada.jpg",
+      "author": "Famartin",
+      "license": "cc by-sa 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2014-06-24%2012%2021%2055%20Field%20of%20wildflowers%20amidst%20Aspen%20groves%20just%20east%20of%20Elko%20County%20Route%20748%20%28Charleston-Jarbidge%20Road%29%20on%20the%20east%20side%20of%20Copper%20Basin%2C%20Nevada.jpg"
+    },
+    "tree": {
+      "title": "File:Populus tremuloides - quaking aspen.jpg",
+      "author": "Matt Lavin",
+      "license": "cc by-sa 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3APopulus%20tremuloides%20-%20quaking%20aspen.jpg"
+    }
   },
   "black-cherry": {
-    "title": "File:2021-12-07 13 30 10 Black Cherry leaf in late autumn along Terrace Boulevard in the Parkway Village section of Ewing Township, Mercer County, New Jersey.jpg",
-    "author": "Famartin",
-    "license": "cc by-sa 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2021-12-07%2013%2030%2010%20Black%20Cherry%20leaf%20in%20late%20autumn%20along%20Terrace%20Boulevard%20in%20the%20Parkway%20Village%20section%20of%20Ewing%20Township%2C%20Mercer%20County%2C%20New%20Jersey.jpg"
+    "leaf": {
+      "title": "File:2021-12-07 13 30 10 Black Cherry leaf in late autumn along Terrace Boulevard in the Parkway Village section of Ewing Township, Mercer County, New Jersey.jpg",
+      "author": "Famartin",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2021-12-07%2013%2030%2010%20Black%20Cherry%20leaf%20in%20late%20autumn%20along%20Terrace%20Boulevard%20in%20the%20Parkway%20Village%20section%20of%20Ewing%20Township%2C%20Mercer%20County%2C%20New%20Jersey.jpg"
+    },
+    "bark": {
+      "title": "File:2021-03-02 17 13 34 Black Cherry bark along Apple Barrel Court in the Franklin Farm section of Oak Hill, Fairfax County, Virginia.jpg",
+      "author": "Famartin",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2021-03-02%2017%2013%2034%20Black%20Cherry%20bark%20along%20Apple%20Barrel%20Court%20in%20the%20Franklin%20Farm%20section%20of%20Oak%20Hill%2C%20Fairfax%20County%2C%20Virginia.jpg"
+    },
+    "trunk": {
+      "title": "File:Double trunked Cherry Tree.jpg",
+      "author": "Edfrank01",
+      "license": "cc by-sa 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ADouble%20trunked%20Cherry%20Tree.jpg"
+    },
+    "fruit": {
+      "title": "File:Prunus serotina drupes, Amerikaanse vogelkers pitten.jpg",
+      "author": "Rasbak",
+      "license": "cc by-sa 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3APrunus%20serotina%20drupes%2C%20Amerikaanse%20vogelkers%20pitten.jpg"
+    },
+    "flower": {
+      "title": "File:2019-05-03 16 24 28 Black Locusts and Black Cherries blooming in a wooded area in the Franklin Farm section of Oak Hill, Fairfax County, Virginia.jpg",
+      "author": "Famartin",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2019-05-03%2016%2024%2028%20Black%20Locusts%20and%20Black%20Cherries%20blooming%20in%20a%20wooded%20area%20in%20the%20Franklin%20Farm%20section%20of%20Oak%20Hill%2C%20Fairfax%20County%2C%20Virginia.jpg"
+    },
+    "tree": {
+      "title": "File:2023-05-31 18 04 32 An old Black Cherry along Lochatong Road in the Mountainview section of Ewing Township, Mercer County, New Jersey.jpg",
+      "author": "Famartin",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2023-05-31%2018%2004%2032%20An%20old%20Black%20Cherry%20along%20Lochatong%20Road%20in%20the%20Mountainview%20section%20of%20Ewing%20Township%2C%20Mercer%20County%2C%20New%20Jersey.jpg"
+    }
   },
   "flowering-dogwood": {
-    "title": "File:2017-10-24 16 25 47 Flowering Dogwood with autumn leaf coloration along Stone Heather Drive near Ladybank Lane in the Chantilly Highlands section of Oak Hill, Fairfax County, Virginia.jpg",
-    "author": "Famartin",
-    "license": "cc by-sa 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2017-10-24%2016%2025%2047%20Flowering%20Dogwood%20with%20autumn%20leaf%20coloration%20along%20Stone%20Heather%20Drive%20near%20Ladybank%20Lane%20in%20the%20Chantilly%20Highlands%20section%20of%20Oak%20Hill%2C%20Fairfax%20County%2C%20Virginia.jpg"
+    "leaf": {
+      "title": "File:2017-10-24 16 25 47 Flowering Dogwood with autumn leaf coloration along Stone Heather Drive near Ladybank Lane in the Chantilly Highlands section of Oak Hill, Fairfax County, Virginia.jpg",
+      "author": "Famartin",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2017-10-24%2016%2025%2047%20Flowering%20Dogwood%20with%20autumn%20leaf%20coloration%20along%20Stone%20Heather%20Drive%20near%20Ladybank%20Lane%20in%20the%20Chantilly%20Highlands%20section%20of%20Oak%20Hill%2C%20Fairfax%20County%2C%20Virginia.jpg"
+    },
+    "bark": {
+      "title": "File:Cornus florida-bark.jpg",
+      "author": "Rob Duval",
+      "license": "cc by-sa 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ACornus%20florida-bark.jpg"
+    },
+    "trunk": {
+      "title": "File:Flowering Dogwood Cornus florida Trunk Bark 3100px.jpg",
+      "author": "Photo by and (c)2006 Derek Ramsey (Ram-Man)",
+      "license": "CC BY-SA 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AFlowering%20Dogwood%20Cornus%20florida%20Trunk%20Bark%203100px.jpg"
+    },
+    "fruit": {
+      "title": "File:Benthamidia florida (syn- Cornus florida) - fruit (drupe).jpg",
+      "author": "sonnia hill",
+      "license": "cc by 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ABenthamidia%20florida%20%28syn-%20Cornus%20florida%29%20-%20fruit%20%28drupe%29.jpg"
+    },
+    "flower": {
+      "title": "File:Close up of Dogwood flower (5618696549).jpg",
+      "author": "Jefferson National Expansion Memorial, NPS from St. Louis, MO, USA",
+      "license": "cc by 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AClose%20up%20of%20Dogwood%20flower%20%285618696549%29.jpg"
+    },
+    "tree": {
+      "title": "File:2013-05-04 17 16 26 Dogwood in the woods along the West Branch Shabakunk Creek near Farrell Avenue.jpg",
+      "author": "Famartin",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2013-05-04%2017%2016%2026%20Dogwood%20in%20the%20woods%20along%20the%20West%20Branch%20Shabakunk%20Creek%20near%20Farrell%20Avenue.jpg"
+    }
   },
   "american-sycamore": {
-    "title": "File:Autumn Elements in the Life Cycle of the American Sycamore (Platanus occidentalis) (1).jpg",
-    "author": "EphemeralFocus",
-    "license": "cc by-sa 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "sourcePage": "https://commons.wikimedia.org/wiki/File%3AAutumn%20Elements%20in%20the%20Life%20Cycle%20of%20the%20American%20Sycamore%20%28Platanus%20occidentalis%29%20%281%29.jpg"
+    "leaf": {
+      "title": "File:Autumn Elements in the Life Cycle of the American Sycamore (Platanus occidentalis) (1).jpg",
+      "author": "EphemeralFocus",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AAutumn%20Elements%20in%20the%20Life%20Cycle%20of%20the%20American%20Sycamore%20%28Platanus%20occidentalis%29%20%281%29.jpg"
+    },
+    "bark": {
+      "title": "File:American-Sycamore-Bark-Winter.png",
+      "author": "Mundhenk",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AAmerican-Sycamore-Bark-Winter.png"
+    },
+    "trunk": {
+      "title": "File:American Sycamore (Platanus occidentalis) Trunk and Bark - Knoxville, Tennessee - October 24, 2015.jpg",
+      "author": "Lee Ann Ratledge",
+      "license": "cc by 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AAmerican%20Sycamore%20%28Platanus%20occidentalis%29%20Trunk%20and%20Bark%20-%20Knoxville%2C%20Tennessee%20-%20October%2024%2C%202015.jpg"
+    },
+    "fruit": {
+      "title": "File:2014-12-24 15 12 41 American Sycamore along Bayberry Road in Ewing, New Jersey.JPG",
+      "author": "Famartin",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2014-12-24%2015%2012%2041%20American%20Sycamore%20along%20Bayberry%20Road%20in%20Ewing%2C%20New%20Jersey.JPG"
+    },
+    "flower": {
+      "title": "File:2026-04-16 10 04 32 American Sycamore flower along Lochatong Road in the Mountainview section of Ewing Township, Mercer County, New Jersey.jpg",
+      "author": "Famartin",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2026-04-16%2010%2004%2032%20American%20Sycamore%20flower%20along%20Lochatong%20Road%20in%20the%20Mountainview%20section%20of%20Ewing%20Township%2C%20Mercer%20County%2C%20New%20Jersey.jpg"
+    },
+    "tree": {
+      "title": "File:America sycamore (Platanus occidentalis) Broad View.jpg",
+      "author": "Lambique",
+      "license": "cc by-sa 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AAmerica%20sycamore%20%28Platanus%20occidentalis%29%20Broad%20View.jpg"
+    }
   },
   "black-locust": {
-    "title": "File:Robinia pseudoacacia leaf.JPG",
-    "author": "Ninjatacoshell",
-    "license": "cc by-sa 3.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
-    "sourcePage": "https://commons.wikimedia.org/wiki/File%3ARobinia%20pseudoacacia%20leaf.JPG"
+    "leaf": {
+      "title": "File:Robinia pseudoacacia leaf.JPG",
+      "author": "Ninjatacoshell",
+      "license": "cc by-sa 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ARobinia%20pseudoacacia%20leaf.JPG"
+    },
+    "bark": {
+      "title": "File:2021-02-24 17 34 39 Black Locust bark along a walking trail in the Franklin Farm section of Oak Hill, Fairfax County, Virginia.jpg",
+      "author": "Famartin",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2021-02-24%2017%2034%2039%20Black%20Locust%20bark%20along%20a%20walking%20trail%20in%20the%20Franklin%20Farm%20section%20of%20Oak%20Hill%2C%20Fairfax%20County%2C%20Virginia.jpg"
+    },
+    "trunk": {
+      "title": "File:Gunnersbury Park False Acacia sprouting 15 metres from cut trunk.jpg",
+      "author": "Chiswick Chap",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AGunnersbury%20Park%20False%20Acacia%20sprouting%2015%20metres%20from%20cut%20trunk.jpg"
+    },
+    "fruit": {
+      "title": "File:Robinia pseudoacacia fruits.jpg",
+      "author": "Andrey Butko",
+      "license": "cc by-sa 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ARobinia%20pseudoacacia%20fruits.jpg"
+    },
+    "flower": {
+      "title": "File:Flower Blk Locust 2016-05-28 007.jpg",
+      "author": "Chris Light",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AFlower%20Blk%20Locust%202016-05-28%20007.jpg"
+    },
+    "tree": {
+      "title": "File:False Acacia trees, Parsonage Lane, Brighouse - geograph.org.uk - 6518983.jpg",
+      "author": "Humphrey Bolton",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AFalse%20Acacia%20trees%2C%20Parsonage%20Lane%2C%20Brighouse%20-%20geograph.org.uk%20-%206518983.jpg"
+    }
   },
   "honey-locust": {
-    "title": "File:(MHNT) Gleditsia triacanthos -Immature leaf and inflorescence - Boileau, Bouloc, France.jpg",
-    "author": "Didier Descouens",
-    "license": "cc by-sa 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "sourcePage": "https://commons.wikimedia.org/wiki/File%3A%28MHNT%29%20Gleditsia%20triacanthos%20-Immature%20leaf%20and%20inflorescence%20-%20Boileau%2C%20Bouloc%2C%20France.jpg"
+    "leaf": {
+      "title": "File:(MHNT) Gleditsia triacanthos -Immature leaf and inflorescence - Boileau, Bouloc, France.jpg",
+      "author": "Didier Descouens",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A%28MHNT%29%20Gleditsia%20triacanthos%20-Immature%20leaf%20and%20inflorescence%20-%20Boileau%2C%20Bouloc%2C%20France.jpg"
+    },
+    "bark": {
+      "title": "File:2021-03-03 09 45 09 Honey Locust bark along Scarsdale Avenue in the Parkway Village section of Ewing Township, Mercer County, New Jersey.jpg",
+      "author": "Famartin",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2021-03-03%2009%2045%2009%20Honey%20Locust%20bark%20along%20Scarsdale%20Avenue%20in%20the%20Parkway%20Village%20section%20of%20Ewing%20Township%2C%20Mercer%20County%2C%20New%20Jersey.jpg"
+    },
+    "trunk": {
+      "title": "File:Gleditsia triacanthos trunk.jpg",
+      "author": "Bostonian13",
+      "license": "cc by-sa 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AGleditsia%20triacanthos%20trunk.jpg"
+    },
+    "fruit": {
+      "title": "File:G.triacanthos-pods-1.jpg",
+      "author": "Philmarin",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AG.triacanthos-pods-1.jpg"
+    },
+    "flower": {
+      "title": "File:Gleditsia triacanthos Flower HW1.jpg",
+      "author": "Hannes wilms",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AGleditsia%20triacanthos%20Flower%20HW1.jpg"
+    },
+    "tree": {
+      "title": "File:Gleditsia triacanthos1.jpg",
+      "author": "Prazak",
+      "license": "cc by-sa 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AGleditsia%20triacanthos1.jpg"
+    }
   },
   "sweetgum": {
-    "title": "File:2022-01-03 08 18 34 A Sweet Gum with a few leaves still attached during a snowstorm along Stone Heather Court in the Franklin Farm section of Oak Hill, Fairfax County, Virginia.jpg",
-    "author": "Famartin",
-    "license": "cc by-sa 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2022-01-03%2008%2018%2034%20A%20Sweet%20Gum%20with%20a%20few%20leaves%20still%20attached%20during%20a%20snowstorm%20along%20Stone%20Heather%20Court%20in%20the%20Franklin%20Farm%20section%20of%20Oak%20Hill%2C%20Fairfax%20County%2C%20Virginia.jpg"
+    "leaf": {
+      "title": "File:2022-01-03 08 18 34 A Sweet Gum with a few leaves still attached during a snowstorm along Stone Heather Court in the Franklin Farm section of Oak Hill, Fairfax County, Virginia.jpg",
+      "author": "Famartin",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2022-01-03%2008%2018%2034%20A%20Sweet%20Gum%20with%20a%20few%20leaves%20still%20attached%20during%20a%20snowstorm%20along%20Stone%20Heather%20Court%20in%20the%20Franklin%20Farm%20section%20of%20Oak%20Hill%2C%20Fairfax%20County%2C%20Virginia.jpg"
+    },
+    "bark": {
+      "title": "File:American Sweetgum Liquidambar styraciflua Bark Closeup.JPG",
+      "author": "Photo by and (c)2016 Derek Ramsey (Ram-Man)",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AAmerican%20Sweetgum%20Liquidambar%20styraciflua%20Bark%20Closeup.JPG"
+    },
+    "trunk": {
+      "title": "File:American Sweetgum Liquidambar styraciflua 'Worplesdon' Trunk 2000px.jpg",
+      "author": "Photo (c)2007 Derek Ramsey (Ram-Man)",
+      "license": "cc by-sa 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AAmerican%20Sweetgum%20Liquidambar%20styraciflua%20%27Worplesdon%27%20Trunk%202000px.jpg"
+    },
+    "fruit": {
+      "title": "File:2024-01-12 09 29 04 A Sweet Gum seedling in an icy puddle along Terrace Boulevard in the Parkway Village section of Ewing Township, Mercer County, New Jersey.jpg",
+      "author": "Famartin",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2024-01-12%2009%2029%2004%20A%20Sweet%20Gum%20seedling%20in%20an%20icy%20puddle%20along%20Terrace%20Boulevard%20in%20the%20Parkway%20Village%20section%20of%20Ewing%20Township%2C%20Mercer%20County%2C%20New%20Jersey.jpg"
+    },
+    "flower": {
+      "title": "File:Flowers of Liquidambar styraciflua.jpg",
+      "author": "Richard Avery",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AFlowers%20of%20Liquidambar%20styraciflua.jpg"
+    },
+    "tree": {
+      "title": "File:Liquidambar styraciflua Habitus 2010-10-26 ArboretoParqueElPilarCiudadReal.jpg",
+      "author": "Javier martin",
+      "license": "public domain",
+      "licenseUrl": "",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ALiquidambar%20styraciflua%20Habitus%202010-10-26%20ArboretoParqueElPilarCiudadReal.jpg"
+    }
   },
   "yellow-birch": {
-    "title": "File:2021-09-28 12 38 35 Yellow Birch leaf turning yellow in autumn along the Cove Trail around Spring Lake in Berlin, Rensselaer County, New York.jpg",
-    "author": "Famartin",
-    "license": "cc by-sa 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2021-09-28%2012%2038%2035%20Yellow%20Birch%20leaf%20turning%20yellow%20in%20autumn%20along%20the%20Cove%20Trail%20around%20Spring%20Lake%20in%20Berlin%2C%20Rensselaer%20County%2C%20New%20York.jpg"
+    "leaf": {
+      "title": "File:2021-09-28 12 38 35 Yellow Birch leaf turning yellow in autumn along the Cove Trail around Spring Lake in Berlin, Rensselaer County, New York.jpg",
+      "author": "Famartin",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2021-09-28%2012%2038%2035%20Yellow%20Birch%20leaf%20turning%20yellow%20in%20autumn%20along%20the%20Cove%20Trail%20around%20Spring%20Lake%20in%20Berlin%2C%20Rensselaer%20County%2C%20New%20York.jpg"
+    },
+    "bark": {
+      "title": "File:Betula alleghaniensis bark in Shenandoah National Park.png",
+      "author": "Alexander Abair",
+      "license": "cc by 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ABetula%20alleghaniensis%20bark%20in%20Shenandoah%20National%20Park.png"
+    },
+    "trunk": {
+      "title": "File:ANF Old-Growth Forest (1).jpg",
+      "author": "Nicholas",
+      "license": "cc by 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AANF%20Old-Growth%20Forest%20%281%29.jpg"
+    },
+    "fruit": {
+      "title": "File:Betula alleghaniensis Keltakoivu Gulbjörk C IMG 6142.JPG",
+      "author": "Anneli Salo",
+      "license": "cc by-sa 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ABetula%20alleghaniensis%20Keltakoivu%20Gulbj%C3%B6rk%20C%20IMG%206142.JPG"
+    },
+    "flower": {
+      "title": "File:Betula alleghaniensis (Yellow Birch) (26505120302).jpg",
+      "author": "Plant Image Library",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ABetula%20alleghaniensis%20%28Yellow%20Birch%29%20%2826505120302%29.jpg"
+    },
+    "tree": {
+      "title": "File:Betula alleghaniensis 000 2333 3466.jpg",
+      "author": "Nichole Ouellette/ouellette001.com",
+      "license": "cc by 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ABetula%20alleghaniensis%20000%202333%203466.jpg"
+    }
   },
   "paper-birch": {
-    "title": "File:A Paper bark birch (Betula papyrifera) - geograph.org.uk - 6059346.jpg",
-    "author": "Evelyn Simak",
-    "license": "cc by-sa 2.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
-    "sourcePage": "https://commons.wikimedia.org/wiki/File%3AA%20Paper%20bark%20birch%20%28Betula%20papyrifera%29%20-%20geograph.org.uk%20-%206059346.jpg"
+    "leaf": {
+      "title": "File:A Paper bark birch (Betula papyrifera) - geograph.org.uk - 6059346.jpg",
+      "author": "Evelyn Simak",
+      "license": "cc by-sa 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AA%20Paper%20bark%20birch%20%28Betula%20papyrifera%29%20-%20geograph.org.uk%20-%206059346.jpg"
+    },
+    "bark": {
+      "title": "File:Bark Cabin Natural Area (16) (14422752802).jpg",
+      "author": "Nicholas A. Tonelli from Northeast Pennsylvania, USA",
+      "license": "cc by 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ABark%20Cabin%20Natural%20Area%20%2816%29%20%2814422752802%29.jpg"
+    },
+    "trunk": {
+      "title": "File:2025-09-09 13 44 56 Paper Birch trunk along Hill (Ridge) Road in Berlin, Rensselaer County, New York.jpg",
+      "author": "Famartin",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2025-09-09%2013%2044%2056%20Paper%20Birch%20trunk%20along%20Hill%20%28Ridge%29%20Road%20in%20Berlin%2C%20Rensselaer%20County%2C%20New%20York.jpg"
+    },
+    "fruit": {
+      "title": "File:Betula papyrifera 15-p.bot-bet.papyr-015.jpg",
+      "author": "Ayotte, Gilles, 1948-",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ABetula%20papyrifera%2015-p.bot-bet.papyr-015.jpg"
+    },
+    "flower": {
+      "title": "File:Budai Arborétum. Alsó kert. Papírnyír (Betula papyrifera). - Budapest.JPG",
+      "author": "Globetrotter19",
+      "license": "cc by-sa 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ABudai%20Arbor%C3%A9tum.%20Als%C3%B3%20kert.%20Pap%C3%ADrny%C3%ADr%20%28Betula%20papyrifera%29.%20-%20Budapest.JPG"
+    },
+    "tree": {
+      "title": "File:2021-09-28 12 45 42 Paper Birch along Ridge Road near Spring Lake in Berlin, Rensselaer County, New York.jpg",
+      "author": "Famartin",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2021-09-28%2012%2045%2042%20Paper%20Birch%20along%20Ridge%20Road%20near%20Spring%20Lake%20in%20Berlin%2C%20Rensselaer%20County%2C%20New%20York.jpg"
+    }
   },
   "river-birch": {
-    "title": "File:Betula nigra 'Dura Heat' Single Stem leaf.jpg",
-    "author": "Cossey25",
-    "license": "cc by-sa 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "sourcePage": "https://commons.wikimedia.org/wiki/File%3ABetula%20nigra%20%27Dura%20Heat%27%20Single%20Stem%20leaf.jpg"
+    "leaf": {
+      "title": "File:Betula nigra 'Dura Heat' Single Stem leaf.jpg",
+      "author": "Cossey25",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ABetula%20nigra%20%27Dura%20Heat%27%20Single%20Stem%20leaf.jpg"
+    },
+    "bark": {
+      "title": "File:- Betula nigra – Bark -.jpg",
+      "author": "User:Nino Barbieri",
+      "license": "cc by-sa 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A-%20Betula%20nigra%20%E2%80%93%20Bark%20-.jpg"
+    },
+    "trunk": {
+      "title": "File:River Birch Betula nigra Trunk 2000px.JPG",
+      "author": "Photo (c)2007 Derek Ramsey (Ram-Man)",
+      "license": "cc by-sa 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ARiver%20Birch%20Betula%20nigra%20Trunk%202000px.JPG"
+    },
+    "fruit": {
+      "title": "File:River Birch Seeds.JPG",
+      "author": "Googoo85",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ARiver%20Birch%20Seeds.JPG"
+    },
+    "flower": {
+      "title": "File:2021-04-08 17 46 49 River Birch catkin along a walking path in the Franklin Farm section of Oak Hill, Fairfax County, Virginia.jpg",
+      "author": "Famartin",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2021-04-08%2017%2046%2049%20River%20Birch%20catkin%20along%20a%20walking%20path%20in%20the%20Franklin%20Farm%20section%20of%20Oak%20Hill%2C%20Fairfax%20County%2C%20Virginia.jpg"
+    },
+    "tree": {
+      "title": "File:2022-01-03 09 16 35 A River Birch during a snowstorm in the Franklin Farm section of Oak Hill, Fairfax County, Virginia.jpg",
+      "author": "Famartin",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2022-01-03%2009%2016%2035%20A%20River%20Birch%20during%20a%20snowstorm%20in%20the%20Franklin%20Farm%20section%20of%20Oak%20Hill%2C%20Fairfax%20County%2C%20Virginia.jpg"
+    }
   },
   "american-basswood": {
-    "title": "File:Leaf Tilia americana 01.jpg",
-    "author": "Rohit Naniwadekar",
-    "license": "cc by-sa 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "sourcePage": "https://commons.wikimedia.org/wiki/File%3ALeaf%20Tilia%20americana%2001.jpg"
+    "leaf": {
+      "title": "File:Leaf Tilia americana 01.jpg",
+      "author": "Rohit Naniwadekar",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ALeaf%20Tilia%20americana%2001.jpg"
+    },
+    "bark": {
+      "title": "File:Bark 2936.jpg",
+      "author": "Chris Light",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ABark%202936.jpg"
+    },
+    "trunk": {
+      "title": "File:Limbs (9674358917).jpg",
+      "author": "Nicholas A. Tonelli from Northeast Pennsylvania, USA",
+      "license": "cc by 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ALimbs%20%289674358917%29.jpg"
+    },
+    "fruit": {
+      "title": "File:Tilia americana fruit.jpg",
+      "author": "USDA Forest Service",
+      "license": "public domain",
+      "licenseUrl": "",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ATilia%20americana%20fruit.jpg"
+    },
+    "flower": {
+      "title": "File:Flower 2932.jpg",
+      "author": "Chris Light",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AFlower%202932.jpg"
+    },
+    "tree": {
+      "title": "File:Basswood (Tilia americana) - Flickr - wackybadger.jpg",
+      "author": "Joshua Mayer from Madison, WI, USA",
+      "license": "cc by-sa 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ABasswood%20%28Tilia%20americana%29%20-%20Flickr%20-%20wackybadger.jpg"
+    }
   },
   "sassafras": {
-    "title": "File:Sassafras Leaf.jpg",
-    "author": "John Stockla",
-    "license": "cc by-sa 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "sourcePage": "https://commons.wikimedia.org/wiki/File%3ASassafras%20Leaf.jpg"
+    "leaf": {
+      "title": "File:Sassafras Leaf.jpg",
+      "author": "John Stockla",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ASassafras%20Leaf.jpg"
+    },
+    "bark": {
+      "title": "File:2021-03-04 11 28 10 Sassafras bark along a walking path in the Franklin Glen section of Chantilly, Fairfax County, Virginia.jpg",
+      "author": "Famartin",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2021-03-04%2011%2028%2010%20Sassafras%20bark%20along%20a%20walking%20path%20in%20the%20Franklin%20Glen%20section%20of%20Chantilly%2C%20Fairfax%20County%2C%20Virginia.jpg"
+    },
+    "trunk": {
+      "title": "File:Sassafras albidum Trunk Bark 3264px.jpg",
+      "author": "Photo by and (c)2006 Derek Ramsey (Ram-Man)",
+      "license": "cc by-sa 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ASassafras%20albidum%20Trunk%20Bark%203264px.jpg"
+    },
+    "fruit": {
+      "title": "File:Sassafras albidum 561207354.jpg",
+      "author": "Alex Abair",
+      "license": "cc by 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ASassafras%20albidum%20561207354.jpg"
+    },
+    "flower": {
+      "title": "File:2019-04-14 18 35 17 Sassafras flowers along a walking path in the Franklin Glen section of Chantilly, Fairfax County, Virginia.jpg",
+      "author": "Famartin",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2019-04-14%2018%2035%2017%20Sassafras%20flowers%20along%20a%20walking%20path%20in%20the%20Franklin%20Glen%20section%20of%20Chantilly%2C%20Fairfax%20County%2C%20Virginia.jpg"
+    },
+    "tree": {
+      "title": "File:Coastal Georgia Botanical Gardens, Sassafras albidum.jpg",
+      "author": "Michael Rivera",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ACoastal%20Georgia%20Botanical%20Gardens%2C%20Sassafras%20albidum.jpg"
+    }
   },
   "black-tupelo": {
-    "title": "File:2023-09-18 11 43 45 Black Tupelo leaf changing color in early autumn along Forest Lane in the Mountainview section of Ewing Township, Mercer County, New Jersey.jpg",
-    "author": "Famartin",
-    "license": "cc by-sa 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2023-09-18%2011%2043%2045%20Black%20Tupelo%20leaf%20changing%20color%20in%20early%20autumn%20along%20Forest%20Lane%20in%20the%20Mountainview%20section%20of%20Ewing%20Township%2C%20Mercer%20County%2C%20New%20Jersey.jpg"
+    "leaf": {
+      "title": "File:2023-09-18 11 43 45 Black Tupelo leaf changing color in early autumn along Forest Lane in the Mountainview section of Ewing Township, Mercer County, New Jersey.jpg",
+      "author": "Famartin",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2023-09-18%2011%2043%2045%20Black%20Tupelo%20leaf%20changing%20color%20in%20early%20autumn%20along%20Forest%20Lane%20in%20the%20Mountainview%20section%20of%20Ewing%20Township%2C%20Mercer%20County%2C%20New%20Jersey.jpg"
+    },
+    "bark": {
+      "title": "File:Nyssa sylvatica Bark.jpg",
+      "author": "Bostonian13",
+      "license": "cc by-sa 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ANyssa%20sylvatica%20Bark.jpg"
+    },
+    "trunk": {
+      "title": "File:Nyssa sylvatica trunk.JPG",
+      "author": "Crusier",
+      "license": "cc by-sa 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ANyssa%20sylvatica%20trunk.JPG"
+    },
+    "fruit": {
+      "title": "File:Nyssa sylvatica with mature fruit.jpg",
+      "author": "Matthew C Perry",
+      "license": "public domain",
+      "licenseUrl": "",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ANyssa%20sylvatica%20with%20mature%20fruit.jpg"
+    },
+    "flower": {
+      "title": "File:2023-05-10 19 46 35 Flowers on a Black Tupelo along Willis Drive in the Mountainview section of Ewing Township, Mercer County, New Jersey.jpg",
+      "author": "Famartin",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2023-05-10%2019%2046%2035%20Flowers%20on%20a%20Black%20Tupelo%20along%20Willis%20Drive%20in%20the%20Mountainview%20section%20of%20Ewing%20Township%2C%20Mercer%20County%2C%20New%20Jersey.jpg"
+    },
+    "tree": {
+      "title": "File:Black Gum (Black Tupelo) Nyssa sylvatica habit fall 01.jpg",
+      "author": "Cossey25",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ABlack%20Gum%20%28Black%20Tupelo%29%20Nyssa%20sylvatica%20habit%20fall%2001.jpg"
+    }
   },
   "hackberry": {
-    "title": "File:Celtis occidentalis leaf 20090606.jpg",
-    "author": "Chhe (talk)",
-    "license": "Public domain",
-    "licenseUrl": "",
-    "sourcePage": "https://commons.wikimedia.org/wiki/File%3ACeltis%20occidentalis%20leaf%2020090606.jpg"
+    "leaf": {
+      "title": "File:Celtis occidentalis leaf 20090606.jpg",
+      "author": "Chhe (talk)",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ACeltis%20occidentalis%20leaf%2020090606.jpg"
+    },
+    "bark": {
+      "title": "File:2023-04-12 12 37 53 Hackberry bark along Windybush Way in the Mountainview section of Ewing Township, Mercer County, New Jersey.jpg",
+      "author": "Famartin",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2023-04-12%2012%2037%2053%20Hackberry%20bark%20along%20Windybush%20Way%20in%20the%20Mountainview%20section%20of%20Ewing%20Township%2C%20Mercer%20County%2C%20New%20Jersey.jpg"
+    },
+    "trunk": {
+      "title": "File:Celtis occidentalis Wiązowiec zachodni 2021-10-02 09.jpg",
+      "author": "Agnieszka Kwiecień, Nova",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ACeltis%20occidentalis%20Wi%C4%85zowiec%20zachodni%202021-10-02%2009.jpg"
+    },
+    "fruit": {
+      "title": "File:Hackberry (42920571525).jpg",
+      "author": "Dan Keck from Ohio",
+      "license": "cc0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AHackberry%20%2842920571525%29.jpg"
+    },
+    "flower": {
+      "title": "File:Celtis-occidentalis-flower.jpg",
+      "author": "Sten Porse",
+      "license": "cc by-sa 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ACeltis-occidentalis-flower.jpg"
+    },
+    "tree": {
+      "title": "File:Celtis occidentalis 00359.jpg",
+      "author": "R. A. Nonenmacher",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ACeltis%20occidentalis%2000359.jpg"
+    }
   },
   "douglas-fir": {
-    "title": "File:Douglas fir needles 6135M.jpg",
-    "author": "Gilles San Martin",
-    "license": "cc by-sa 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "sourcePage": "https://commons.wikimedia.org/wiki/File%3ADouglas%20fir%20needles%206135M.jpg"
+    "leaf": {
+      "title": "File:Douglas fir needles 6135M.jpg",
+      "author": "Gilles San Martin",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ADouglas%20fir%20needles%206135M.jpg"
+    },
+    "bark": {
+      "title": "File:Bark 3670.jpg",
+      "author": "Chris Light",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ABark%203670.jpg"
+    },
+    "trunk": {
+      "title": "File:Douglas fir trunk cross-section at Lakeway Learning Center in Gillette, Wyoming.jpg",
+      "author": "Mr. Satterly",
+      "license": "cc0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ADouglas%20fir%20trunk%20cross-section%20at%20Lakeway%20Learning%20Center%20in%20Gillette%2C%20Wyoming.jpg"
+    },
+    "fruit": {
+      "title": "File:Pseudotsuga menziesii cone Deception Pass WA.jpg",
+      "author": "Peter Stevens from Seattle",
+      "license": "cc by 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3APseudotsuga%20menziesii%20cone%20Deception%20Pass%20WA.jpg"
+    },
+    "tree": {
+      "title": "File:A Douglas fir (pseudotsuga menziesii) in Churchill Gardens, Salisbury, UK adjacent to Churchill Way west.jpg",
+      "author": "Richard Avery",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AA%20Douglas%20fir%20%28pseudotsuga%20menziesii%29%20in%20Churchill%20Gardens%2C%20Salisbury%2C%20UK%20adjacent%20to%20Churchill%20Way%20west.jpg"
+    }
   },
   "eastern-redcedar": {
-    "title": "File:2024-10-30 14 15 06 Eastern Red Cedar foliage near Wells Mills Lake within Wells Mills Park in Ocean Township, Ocean County, New Jersey.jpg",
-    "author": "Famartin",
-    "license": "cc by-sa 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2024-10-30%2014%2015%2006%20Eastern%20Red%20Cedar%20foliage%20near%20Wells%20Mills%20Lake%20within%20Wells%20Mills%20Park%20in%20Ocean%20Township%2C%20Ocean%20County%2C%20New%20Jersey.jpg"
+    "leaf": {
+      "title": "File:2024-10-30 14 15 06 Eastern Red Cedar foliage near Wells Mills Lake within Wells Mills Park in Ocean Township, Ocean County, New Jersey.jpg",
+      "author": "Famartin",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2024-10-30%2014%2015%2006%20Eastern%20Red%20Cedar%20foliage%20near%20Wells%20Mills%20Lake%20within%20Wells%20Mills%20Park%20in%20Ocean%20Township%2C%20Ocean%20County%2C%20New%20Jersey.jpg"
+    },
+    "bark": {
+      "title": "File:2021-03-01 16 36 06 Eastern Red Cedar bark along Stone Heather Drive in the Franklin Farm section of Oak Hill, Fairfax County, Virginia.jpg",
+      "author": "Famartin",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2021-03-01%2016%2036%2006%20Eastern%20Red%20Cedar%20bark%20along%20Stone%20Heather%20Drive%20in%20the%20Franklin%20Farm%20section%20of%20Oak%20Hill%2C%20Fairfax%20County%2C%20Virginia.jpg"
+    },
+    "trunk": {
+      "title": "File:Juniperus virginiana—bark.jpg",
+      "author": "KATHERINE WAGNER-REISS",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AJuniperus%20virginiana%E2%80%94bark.jpg"
+    },
+    "fruit": {
+      "title": "File:2021-11-05 12 15 59 An Eastern Red Cedar with mature cones and a White Oak sapling changing color in autumn along Stone Heather Drive in the Franklin Farm section of Oak Hill, Fairfax County, Virginia.jpg",
+      "author": "Famartin",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2021-11-05%2012%2015%2059%20An%20Eastern%20Red%20Cedar%20with%20mature%20cones%20and%20a%20White%20Oak%20sapling%20changing%20color%20in%20autumn%20along%20Stone%20Heather%20Drive%20in%20the%20Franklin%20Farm%20section%20of%20Oak%20Hill%2C%20Fairfax%20County%2C%20Virginia.jpg"
+    },
+    "tree": {
+      "title": "File:2024-10-30 14 14 46 Large Eastern Red Cedar near the Wells Mills Lake Dam within Wells Mills Park in Ocean Township, Ocean County, New Jersey.jpg",
+      "author": "Famartin",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2024-10-30%2014%2014%2046%20Large%20Eastern%20Red%20Cedar%20near%20the%20Wells%20Mills%20Lake%20Dam%20within%20Wells%20Mills%20Park%20in%20Ocean%20Township%2C%20Ocean%20County%2C%20New%20Jersey.jpg"
+    }
   },
   "northern-white-cedar": {
-    "title": "File:2020 year. Herbarium. Thuja. img-001.jpg",
-    "author": "Dmitry Makeev",
-    "license": "cc by-sa 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2020%20year.%20Herbarium.%20Thuja.%20img-001.jpg"
+    "leaf": {
+      "title": "File:2020 year. Herbarium. Thuja. img-001.jpg",
+      "author": "Dmitry Makeev",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2020%20year.%20Herbarium.%20Thuja.%20img-001.jpg"
+    },
+    "bark": {
+      "title": "File:2021-03-03 09 20 16 American Arborvitae bark along Terrace Boulevard in the Parkway Village section of Ewing Township, Mercer County, New Jersey.jpg",
+      "author": "Famartin",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2021-03-03%2009%2020%2016%20American%20Arborvitae%20bark%20along%20Terrace%20Boulevard%20in%20the%20Parkway%20Village%20section%20of%20Ewing%20Township%2C%20Mercer%20County%2C%20New%20Jersey.jpg"
+    },
+    "trunk": {
+      "title": "File:Hole in a cedar trunk, Quebec City.jpg",
+      "author": "Wilfredor",
+      "license": "cc0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AHole%20in%20a%20cedar%20trunk%2C%20Quebec%20City.jpg"
+    },
+    "fruit": {
+      "title": "File:20250823 Thuja occidentalis northern white-cedar Żywotnik zachodni female cones 01.jpg",
+      "author": "Abraham",
+      "license": "cc by 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A20250823%20Thuja%20occidentalis%20northern%20white-cedar%20%C5%BBywotnik%20zachodni%20female%20cones%2001.jpg"
+    },
+    "tree": {
+      "title": "File:Thuja occidentalis 'Smaragd' 2016 (26084495131).jpg",
+      "author": "F. D. Richards from Clinton, MI",
+      "license": "cc by-sa 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AThuja%20occidentalis%20%27Smaragd%27%202016%20%2826084495131%29.jpg"
+    }
   },
   "baldcypress": {
-    "title": "File:Baldcypress, Taxodium distichum, Foliage.jpg",
-    "author": "Kieran Hunt",
-    "license": "cc by-sa 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-    "sourcePage": "https://commons.wikimedia.org/wiki/File%3ABaldcypress%2C%20Taxodium%20distichum%2C%20Foliage.jpg"
+    "leaf": {
+      "title": "File:Baldcypress, Taxodium distichum, Foliage.jpg",
+      "author": "Kieran Hunt",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ABaldcypress%2C%20Taxodium%20distichum%2C%20Foliage.jpg"
+    },
+    "bark": {
+      "title": "File:2021-03-03 16 41 59 Bald Cypress bark along a walking path in the Franklin Farm section of Oak Hill, Fairfax County, Virginia.jpg",
+      "author": "Famartin",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2021-03-03%2016%2041%2059%20Bald%20Cypress%20bark%20along%20a%20walking%20path%20in%20the%20Franklin%20Farm%20section%20of%20Oak%20Hill%2C%20Fairfax%20County%2C%20Virginia.jpg"
+    },
+    "trunk": {
+      "title": "File:2025-06-04 12 14 27 Knees around the trunk of a Bald Cypress in the Trap Pond Bald Cypress Swamp within Trap Pond State Park in Sussex County, Delaware.jpg",
+      "author": "Famartin",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2025-06-04%2012%2014%2027%20Knees%20around%20the%20trunk%20of%20a%20Bald%20Cypress%20in%20the%20Trap%20Pond%20Bald%20Cypress%20Swamp%20within%20Trap%20Pond%20State%20Park%20in%20Sussex%20County%2C%20Delaware.jpg"
+    },
+    "fruit": {
+      "title": "File:Baldcypress Taxodium distichum cone fall.jpg",
+      "author": "Cossey25",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ABaldcypress%20Taxodium%20distichum%20cone%20fall.jpg"
+    },
+    "tree": {
+      "title": "File:Baldcypress Taxodium distichum habit fall.jpg",
+      "author": "Cossey25",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ABaldcypress%20Taxodium%20distichum%20habit%20fall.jpg"
+    }
   }
 }
