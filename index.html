@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Great Scott's Tree &amp; Leaf ID</title>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>%F0%9F%8C%B3</text></svg>">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header class="app-header">
+    <h1>🌳 Great Scott's Tree &amp; Leaf ID</h1>
+    <p class="tagline">Flashcards for botany &amp; arborist species identification practice</p>
+  </header>
+
+  <main id="app">
+    <section class="controls" id="controls">
+      <div class="control-group">
+        <label for="mode-select">Quiz mode</label>
+        <select id="mode-select">
+          <option value="multiple">Multiple choice</option>
+          <option value="fill">Fill in the blank</option>
+        </select>
+      </div>
+      <div class="control-group">
+        <label for="name-select">Answer with</label>
+        <select id="name-select">
+          <option value="common">Common name</option>
+          <option value="scientific">Scientific name</option>
+        </select>
+      </div>
+      <div class="control-group">
+        <label for="group-select">Species set</label>
+        <select id="group-select">
+          <option value="all">All species (48)</option>
+          <option value="broadleaf">Broadleaf only</option>
+          <option value="conifer">Conifer only</option>
+        </select>
+      </div>
+      <button id="restart-btn" class="btn btn-secondary">Restart quiz</button>
+    </section>
+
+    <section class="status-bar">
+      <div class="progress-text" id="progress-text">Card 0 / 0</div>
+      <div class="score-text" id="score-text">Score: 0 / 0</div>
+      <div class="progress-bar-track"><div class="progress-bar-fill" id="progress-bar-fill"></div></div>
+    </section>
+
+    <section class="card" id="quiz-card">
+      <div class="image-wrap">
+        <img id="species-image" src="" alt="Tree or leaf to identify">
+        <button id="hint-btn" class="btn btn-hint" title="Show a hint">💡 Hint</button>
+      </div>
+
+      <div id="hint-box" class="hint-box hidden"></div>
+
+      <p class="prompt-text" id="prompt-text">What species is this?</p>
+
+      <div id="mc-options" class="mc-options hidden"></div>
+
+      <form id="fill-form" class="fill-form hidden" autocomplete="off">
+        <input type="text" id="fill-input" placeholder="Type your answer..." autocomplete="off" spellcheck="false">
+        <button type="submit" class="btn btn-primary">Submit</button>
+      </form>
+
+      <div id="feedback" class="feedback hidden"></div>
+
+      <div class="card-actions">
+        <button id="next-btn" class="btn btn-primary hidden">Next card →</button>
+      </div>
+    </section>
+
+    <section id="summary" class="summary hidden">
+      <h2>Quiz complete!</h2>
+      <p id="summary-score"></p>
+      <div id="missed-list" class="missed-list"></div>
+      <div class="summary-actions">
+        <button id="retry-missed-btn" class="btn btn-primary">Review missed only</button>
+        <button id="restart-all-btn" class="btn btn-secondary">Start over (all species)</button>
+      </div>
+    </section>
+  </main>
+
+  <footer class="app-footer">
+    <p>Photos sourced from <a href="https://commons.wikimedia.org" target="_blank" rel="noopener">Wikimedia Commons</a>, openly licensed (CC0 / Public Domain / CC-BY / CC-BY-SA).
+      <button id="credits-link" class="link-btn">View photo credits</button>
+    </p>
+  </footer>
+
+  <div id="credits-modal" class="modal hidden">
+    <div class="modal-content">
+      <button id="credits-close" class="modal-close">✕</button>
+      <h2>Photo Credits</h2>
+      <p>All photos are from Wikimedia Commons under open licenses. Click a species to view the original source page.</p>
+      <div id="credits-list" class="credits-list"></div>
+    </div>
+  </div>
+
+  <script src="js/app.js"></script>
+</body>
+</html>
