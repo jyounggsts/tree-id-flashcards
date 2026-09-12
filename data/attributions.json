@@ -2034,6 +2034,13 @@
       "license": "cc by-sa 3.0",
       "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3ACootamundra%20wattle%20leaves.jpg"
+    },
+    "bark": {
+      "title": "File:Acacia baileyana (15773139277).jpg",
+      "author": "Donald Hobern from Copenhagen, Denmark",
+      "license": "cc by 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AAcacia%20baileyana%20%2815773139277%29.jpg"
     }
   },
   "acacia-cultriformis": {
@@ -2043,10 +2050,24 @@
       "license": "public domain",
       "licenseUrl": "",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AAcacia%20cultriformis%20leaves.jpg"
+    },
+    "bark": {
+      "title": "File:Acacia cultriformis1.jpg",
+      "author": "KENPEI",
+      "license": "cc by-sa 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AAcacia%20cultriformis1.jpg"
     }
   },
   "acacia-cyclops": {
     "leaf": {
+      "title": "File:2026-03-09-Coastal-Wattle-01.jpg",
+      "author": "Elrondil",
+      "license": "cc by 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2026-03-09-Coastal-Wattle-01.jpg"
+    },
+    "bark": {
       "title": "File:2026-03-09-Coastal-Wattle-01.jpg",
       "author": "Elrondil",
       "license": "cc by 4.0",
@@ -2061,6 +2082,13 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AMimosa%20leaf.jpg"
+    },
+    "bark": {
+      "title": "File:Acacia dealbata bark (9567669821).jpg",
+      "author": "John Tann from Sydney, Australia",
+      "license": "cc by 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AAcacia%20dealbata%20bark%20%289567669821%29.jpg"
     }
   },
   "acacia-decurrens": {
@@ -2070,6 +2098,13 @@
       "license": "cc by 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AAcacia%20decurrens%20leaves%201.jpg"
+    },
+    "bark": {
+      "title": "File:Acacia decurrens (Acacia negra) - Flickr - Alejandro Bayer.jpg",
+      "author": "Alejandro  Bayer Tamayo from Armenia, Colombia",
+      "license": "cc by-sa 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AAcacia%20decurrens%20%28Acacia%20negra%29%20-%20Flickr%20-%20Alejandro%20Bayer.jpg"
     }
   },
   "acacia-longifolia": {
@@ -2079,6 +2114,13 @@
       "license": "cc by-sa 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AAcacia%20mucronata%20subsp.%20longifolia%20%28Narrow-leaf%20Wattle%29%20%2824972627266%29%20%282%29.jpg"
+    },
+    "bark": {
+      "title": "File:2026-02-14 Acacia longifolia in the forest north of Ferrel 1.jpg",
+      "author": "Alexkom000",
+      "license": "cc by 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2026-02-14%20Acacia%20longifolia%20in%20the%20forest%20north%20of%20Ferrel%201.jpg"
     }
   },
   "acacia-mearnsii": {
@@ -2088,6 +2130,13 @@
       "license": "cc by 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3ABlack%20Wattle%20underneath%20leaves%20%286285468925%29.jpg"
+    },
+    "bark": {
+      "title": "File:Black Wattle bark (6285994716).jpg",
+      "author": "John Tann from Sydney, Australia",
+      "license": "cc by 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ABlack%20Wattle%20bark%20%286285994716%29.jpg"
     }
   },
   "acacia-melanoxylon": {
@@ -2097,6 +2146,13 @@
       "license": "cc by 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3ABlackwood%20leaf%20%286257046273%29.jpg"
+    },
+    "bark": {
+      "title": "File:Starr 041221 1795 acacia melanoxylon-bark.jpg",
+      "author": "Forest &amp; Kim Starr",
+      "license": "cc by 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AStarr%20041221%201795%20acacia%20melanoxylon-bark.jpg"
     }
   },
   "acacia-pendula": {
@@ -2106,10 +2162,24 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AAcacia%20pendula%200zz.jpg"
+    },
+    "bark": {
+      "title": "File:Acacia-pendula-bark.jpg",
+      "author": "Don A.W. Carlson",
+      "license": "cc by-sa 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AAcacia-pendula-bark.jpg"
     }
   },
   "acacia-pycnantha": {
     "leaf": {
+      "title": "File:Acacia pycnantha (golden wattle) (Sellicks Hill, Fleurieu Peninsula, South Australia) 6.jpg",
+      "author": "James St. John",
+      "license": "cc by 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AAcacia%20pycnantha%20%28golden%20wattle%29%20%28Sellicks%20Hill%2C%20Fleurieu%20Peninsula%2C%20South%20Australia%29%206.jpg"
+    },
+    "bark": {
       "title": "File:Acacia pycnantha (golden wattle) (Sellicks Hill, Fleurieu Peninsula, South Australia) 6.jpg",
       "author": "James St. John",
       "license": "cc by 2.0",
@@ -2124,10 +2194,24 @@
       "license": "cc by 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3A190307%20188%20SD%20Botanic%20Gdn%20-%20Australian%20Garden%2C%20Acacia%20redolens%20Freeway%20Acacia%2C%20prostrate%20forms%20are%20hugely%20popular%20groundcovers%20along%20highways%20and%20elsewhere%20%2833467459998%29.jpg"
+    },
+    "bark": {
+      "title": "File:190307 188 SD Botanic Gdn - Australian Garden, Acacia redolens Freeway Acacia, prostrate forms are hugely popular groundcovers along highways and elsewhere (33467459998).jpg",
+      "author": "cultivar413 from Fallbrook, California",
+      "license": "cc by 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A190307%20188%20SD%20Botanic%20Gdn%20-%20Australian%20Garden%2C%20Acacia%20redolens%20Freeway%20Acacia%2C%20prostrate%20forms%20are%20hugely%20popular%20groundcovers%20along%20highways%20and%20elsewhere%20%2833467459998%29.jpg"
     }
   },
   "acacia-retinodes": {
     "leaf": {
+      "title": "File:Acacia retinodes MucBotGard.jpg",
+      "author": "Pharaoh han",
+      "license": "cc by-sa 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AAcacia%20retinodes%20MucBotGard.jpg"
+    },
+    "bark": {
       "title": "File:Acacia retinodes MucBotGard.jpg",
       "author": "Pharaoh han",
       "license": "cc by-sa 3.0",
@@ -2142,6 +2226,13 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AAcacia%20April%202015-1.jpg"
+    },
+    "bark": {
+      "title": "File:Acacia April 2015-1.jpg",
+      "author": "Alvesgaspar",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AAcacia%20April%202015-1.jpg"
     }
   },
   "acacia-stenophylla": {
@@ -2151,6 +2242,13 @@
       "license": "cc by-sa 3.0",
       "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AAcacia-stenophylla-pods3.jpg"
+    },
+    "bark": {
+      "title": "File:Acacia-stenophylla-bark.jpg",
+      "author": "Don A.W. Carlson",
+      "license": "cc by 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AAcacia-stenophylla-bark.jpg"
     }
   },
   "acacia-verticillata": {
@@ -2160,6 +2258,13 @@
       "license": "cc by-sa 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AAcacia%20verticillata%20%27Prickly%20Moses%27%20%28Legumnosae%29%20plant.jpg"
+    },
+    "bark": {
+      "title": "File:Prickly Mimosa bark (6710436863).jpg",
+      "author": "John Tann from Sydney, Australia",
+      "license": "cc by 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3APrickly%20Mimosa%20bark%20%286710436863%29.jpg"
     }
   },
   "acer-buergerianum": {
@@ -2169,6 +2274,13 @@
       "license": "cc by-sa 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AAcer%20buergerianum%20automne%20foliage.jpg"
+    },
+    "bark": {
+      "title": "File:Acer buergerianum (bark), Mount Auburn Cemetery.JPG",
+      "author": "Daderot",
+      "license": "public domain",
+      "licenseUrl": "",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AAcer%20buergerianum%20%28bark%29%2C%20Mount%20Auburn%20Cemetery.JPG"
     }
   },
   "acer-campestre": {
@@ -2178,6 +2290,13 @@
       "license": "cc by-sa 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AAcer%20campestre%20leaf%2003%20by%20Line1.JPG"
+    },
+    "bark": {
+      "title": "File:Acer-campestre-old-bark.JPG",
+      "author": "Sten Porse",
+      "license": "cc by-sa 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AAcer-campestre-old-bark.JPG"
     }
   },
   "acer-macrophyllum": {
@@ -2187,10 +2306,24 @@
       "license": "cc by 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AAcer%20macrophyllum%20foliage%20Portland.jpg"
+    },
+    "bark": {
+      "title": "File:Acer macrophyllum bark 7532.jpg",
+      "author": "Walter Siegmund (talk)",
+      "license": "cc by 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AAcer%20macrophyllum%20bark%207532.jpg"
     }
   },
   "acer-oblongum": {
     "leaf": {
+      "title": "File:Acer oblongum kz01.jpg",
+      "author": "Krzysztof Ziarnek, Kenraiz",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AAcer%20oblongum%20kz01.jpg"
+    },
+    "bark": {
       "title": "File:Acer oblongum kz01.jpg",
       "author": "Krzysztof Ziarnek, Kenraiz",
       "license": "cc by-sa 4.0",
@@ -2205,10 +2338,24 @@
       "license": "cc by 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AAcer%20Palmatum%20In%20The%20Spring%20%28217394643%29.jpeg"
+    },
+    "bark": {
+      "title": "File:Acer palmatum bark 1 LR.jpg",
+      "author": "PumpkinSky",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AAcer%20palmatum%20bark%201%20LR.jpg"
     }
   },
   "acer-paxii": {
     "leaf": {
+      "title": "File:Acer paxii kz01.jpg",
+      "author": "Krzysztof Ziarnek, Kenraiz",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AAcer%20paxii%20kz01.jpg"
+    },
+    "bark": {
       "title": "File:Acer paxii kz01.jpg",
       "author": "Krzysztof Ziarnek, Kenraiz",
       "license": "cc by-sa 4.0",
@@ -2223,6 +2370,13 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AAcer%20platanoides%20leaf%20in%20October.jpg"
+    },
+    "bark": {
+      "title": "File:Acer platanoides bark.JPG",
+      "author": "Krzysztof Ziarnek",
+      "license": "cc by-sa 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AAcer%20platanoides%20bark.JPG"
     }
   },
   "acer-pseudoplatanus": {
@@ -2232,6 +2386,13 @@
       "license": "cc by-sa 3.0",
       "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AAcer%20pseudoplatanus%20leaf%2C%20May%202008%2C%20Prague%2C%20Czech%20Republic.jpg"
+    },
+    "bark": {
+      "title": "File:Acer pseudoplatanus bark Siemianowice.jpg",
+      "author": "Adrian Tync",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AAcer%20pseudoplatanus%20bark%20Siemianowice.jpg"
     }
   },
   "aesculus-carnea": {
@@ -2241,6 +2402,13 @@
       "license": "cc by-sa 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AHorse-chestnut%20buds%20%2852821015666%29.jpg"
+    },
+    "bark": {
+      "title": "File:Aesculus carnea.jpg",
+      "author": "Christo",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AAesculus%20carnea.jpg"
     }
   },
   "aesculus-californica": {
@@ -2250,6 +2418,13 @@
       "license": "cc0",
       "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AAesculus%20Californica%20Berkeley2.jpg"
+    },
+    "bark": {
+      "title": "File:Aesculus californica in Hackfalls Arboretum (1).jpg",
+      "author": "Krzysztof Golik",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AAesculus%20californica%20in%20Hackfalls%20Arboretum%20%281%29.jpg"
     }
   },
   "aesculus-hippocastanum": {
@@ -2259,6 +2434,13 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AAesculus%20hippocastanum%20leaves.jpg"
+    },
+    "bark": {
+      "title": "File:Aesculus Hippocastanum bark - 1.jpg",
+      "author": "Spiritia",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AAesculus%20Hippocastanum%20bark%20-%201.jpg"
     }
   },
   "aesculus-pavia": {
@@ -2268,6 +2450,13 @@
       "license": "cc by-sa 2.5",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3ARed%20Buckeye%20Aesculus%20pavia%20Leaf%20Closeup%202700px.JPG"
+    },
+    "bark": {
+      "title": "File:Aesculus pavia - United States Botanic Garden - DSC09462.JPG",
+      "author": "Daderot",
+      "license": "cc0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AAesculus%20pavia%20-%20United%20States%20Botanic%20Garden%20-%20DSC09462.JPG"
     }
   },
   "afrocarpus-falcatus": {
@@ -2277,6 +2466,13 @@
       "license": "public domain",
       "licenseUrl": "",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3ADecussocarpusFalcatusFoliage.JPG"
+    },
+    "bark": {
+      "title": "File:Podocarpus falcatus KirstenboshBotGard09292010Bark.JPG",
+      "author": "User:BotBln",
+      "license": "cc by-sa 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3APodocarpus%20falcatus%20KirstenboshBotGard09292010Bark.JPG"
     }
   },
   "agonis-flexuosa": {
@@ -2286,6 +2482,13 @@
       "license": "cc0",
       "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AAgonis%20Flexuosa%2C%20Botanic%20Gardens%28GN12402%29.jpg"
+    },
+    "bark": {
+      "title": "File:Bark Agonis flexuosa.JPG",
+      "author": "Dodshe",
+      "license": "cc by-sa 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ABark%20Agonis%20flexuosa.JPG"
     }
   },
   "ailanthus-altissima": {
@@ -2295,6 +2498,13 @@
       "license": "cc0",
       "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3A20150224Ailanthus%20altissima1.jpg"
+    },
+    "bark": {
+      "title": "File:2023-06-19 11 14 20 Bark on a large Tree-of-Heaven within Ann M. Banchoff Park in the Mountainview section of Ewing Township, Mercer County, New Jersey.jpg",
+      "author": "Famartin",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2023-06-19%2011%2014%2020%20Bark%20on%20a%20large%20Tree-of-Heaven%20within%20Ann%20M.%20Banchoff%20Park%20in%20the%20Mountainview%20section%20of%20Ewing%20Township%2C%20Mercer%20County%2C%20New%20Jersey.jpg"
     }
   },
   "albizia-julibrissin": {
@@ -2304,6 +2514,13 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3ABipinnate%20leaf%20anatomy%20with%20alternate%20labels.jpg"
+    },
+    "bark": {
+      "title": "File:2021-03-08 14 54 43 Silk Tree (Mimosa) bark along Old Ox Road in the Dulles section of Sterling, Loudoun County, Virginia.jpg",
+      "author": "Famartin",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2021-03-08%2014%2054%2043%20Silk%20Tree%20%28Mimosa%29%20bark%20along%20Old%20Ox%20Road%20in%20the%20Dulles%20section%20of%20Sterling%2C%20Loudoun%20County%2C%20Virginia.jpg"
     }
   },
   "allocasuarina-verticillata": {
@@ -2313,6 +2530,13 @@
       "license": "cc by 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3ADrooping%20She-oak%20leaflet%20%288613230148%29.jpg"
+    },
+    "bark": {
+      "title": "File:Drooping She-oak bark (8612128985).jpg",
+      "author": "John Tann from Sydney, Australia",
+      "license": "cc by 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ADrooping%20She-oak%20bark%20%288612128985%29.jpg"
     }
   },
   "alnus-cordata": {
@@ -2322,10 +2546,24 @@
       "license": "cc by-sa 3.0",
       "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AAlnus-cordata-leaves.JPG"
+    },
+    "bark": {
+      "title": "File:AlnusCordata11.jpg",
+      "author": "Douglas Goldman",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AAlnusCordata11.jpg"
     }
   },
   "alnus-rhombifolia": {
     "leaf": {
+      "title": "File:2016-10-22-15.05.54 ZS PMax Alnus rhombifolia-1 (30436126811).jpg",
+      "author": "John Rusk from Berkeley, CA, United States of America",
+      "license": "cc by 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2016-10-22-15.05.54%20ZS%20PMax%20Alnus%20rhombifolia-1%20%2830436126811%29.jpg"
+    },
+    "bark": {
       "title": "File:2016-10-22-15.05.54 ZS PMax Alnus rhombifolia-1 (30436126811).jpg",
       "author": "John Rusk from Berkeley, CA, United States of America",
       "license": "cc by 2.0",
@@ -2340,6 +2578,13 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3ALeaf%203262.jpg"
+    },
+    "bark": {
+      "title": "File:Alnus rubra 28199.JPG",
+      "author": "Walter Siegmund",
+      "license": "cc by 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AAlnus%20rubra%2028199.JPG"
     }
   },
   "angophora-costata": {
@@ -2349,6 +2594,13 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AAngophora%20costata%20-%20leaves%20%28adult%29.jpg"
+    },
+    "bark": {
+      "title": "File:Angophora costata bark.jpg",
+      "author": "Zeek7",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AAngophora%20costata%20bark.jpg"
     }
   },
   "araucaria-araucana": {
@@ -2358,6 +2610,13 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2021-02-13%2016%2051%2003%20Needles%20coated%20in%20ice%20on%20a%20Monkey%20Puzzle%20along%20Tranquility%20Court%20in%20the%20Franklin%20Farm%20section%20of%20Oak%20Hill%2C%20Fairfax%20County%2C%20Virginia.jpg"
+    },
+    "bark": {
+      "title": "File:Araucaria araucana bark ( Scott Zona) 001.jpg",
+      "author": "Scott Zona from Miami, Florida, USA",
+      "license": "cc by 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AAraucaria%20araucana%20bark%20%28%20Scott%20Zona%29%20001.jpg"
     }
   },
   "araucaria-bidwillii": {
@@ -2367,6 +2626,13 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AAraucaria%20bidwillii%20foliage%20Bunya%20Mountains%20National%20Park%20Queensland%201980s%20IMG%200093.jpg"
+    },
+    "bark": {
+      "title": "File:Araucarias Riverside Drive West End P1230429.jpg",
+      "author": "John Robert McPherson",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AAraucarias%20Riverside%20Drive%20West%20End%20P1230429.jpg"
     }
   },
   "araucaria-columnaris": {
@@ -2376,6 +2642,13 @@
       "license": "cc by-sa 3.0",
       "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AAraucaria%20columnaris%20needles%2001%20by%20Line1.jpg"
+    },
+    "bark": {
+      "title": "File:Araucaria columnaris kz01.jpg",
+      "author": "Krzysztof Ziarnek, Kenraiz",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AAraucaria%20columnaris%20kz01.jpg"
     }
   },
   "araucaria-cunninghamii": {
@@ -2385,6 +2658,13 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AAraucaria%20cunninghamii%20Stephan%27s%20Needle%20and%20vertical%20structures%20at%20dawn%20Reddacliff%20Place%20Brisbane%20P1150005.jpg"
+    },
+    "bark": {
+      "title": "File:AraucariaCunninghamiiBark.JPG",
+      "author": "Honymand",
+      "license": "public domain",
+      "licenseUrl": "",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AAraucariaCunninghamiiBark.JPG"
     }
   },
   "araucaria-heterophylla": {
@@ -2394,6 +2674,13 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3ANorfolk%20Island%20pine%20leaves%20%28Araucaria%20heterophylla%2C%20Jardim%20da%20Pra%C3%A7a%20de%20Londres%2C%20Lisbon%2C%20Portugal%20julesvernex2.jpg"
+    },
+    "bark": {
+      "title": "File:Norfolk Island pine bark (3394684958).jpg",
+      "author": "John Tann from Sydney, Australia",
+      "license": "cc by 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ANorfolk%20Island%20pine%20bark%20%283394684958%29.jpg"
     }
   },
   "arbutus-andrachne": {
@@ -2403,10 +2690,24 @@
       "license": "cc by-sa 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AArbutus%20andrachne%20leaves%20%28Ab%20plant%20101%29.jpg"
+    },
+    "bark": {
+      "title": "File:Arbutus andrachne - bark.jpg",
+      "author": "Dinkum",
+      "license": "cc0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AArbutus%20andrachne%20-%20bark.jpg"
     }
   },
   "arbutus-canariensis": {
     "leaf": {
+      "title": "File:20250630 Arbutus canariensis.jpg",
+      "author": "Flocci Nivis",
+      "license": "cc by 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A20250630%20Arbutus%20canariensis.jpg"
+    },
+    "bark": {
       "title": "File:20250630 Arbutus canariensis.jpg",
       "author": "Flocci Nivis",
       "license": "cc by 4.0",
@@ -2421,6 +2722,13 @@
       "license": "public domain",
       "licenseUrl": "",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3A1916.%20Lepidoptera.%20Tischeriidae.%20Arbutus%20madrona%20leaf%20miner.%20%2836187899176%29.jpg"
+    },
+    "bark": {
+      "title": "File:MADRONE TREES WITH PEELING BARK. NEAR DEER HARBOR ON ORCAS ISLAND - NARA - 545281.jpg",
+      "author": "Gene Daniels",
+      "license": "public domain",
+      "licenseUrl": "",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AMADRONE%20TREES%20WITH%20PEELING%20BARK.%20NEAR%20DEER%20HARBOR%20ON%20ORCAS%20ISLAND%20-%20NARA%20-%20545281.jpg"
     }
   },
   "arbutus-unedo": {
@@ -2430,6 +2738,13 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3A%28MHNT%29%20Arbutus%20unedo%20Juvenile.jpg"
+    },
+    "bark": {
+      "title": "File:(MAD) A. unedo -bark-1.jpg",
+      "author": "Philmarin",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A%28MAD%29%20A.%20unedo%20-bark-1.jpg"
     }
   },
   "archontophoenix-alexandrae": {
@@ -2457,6 +2772,13 @@
       "license": "cc by-sa 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3ABauhinia%20blakeana%20leaf.jpg"
+    },
+    "bark": {
+      "title": "File:Bark I IMG 2073.jpg",
+      "author": "J.M.Garg",
+      "license": "cc by-sa 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ABark%20I%20IMG%202073.jpg"
     }
   },
   "bauhinia-forficata": {
@@ -2466,6 +2788,13 @@
       "license": "cc by 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3ABauhinia%20forficata%20%288434419038%29.jpg"
+    },
+    "bark": {
+      "title": "File:Bauhinia-forficataDSC3659.jpg",
+      "author": "CostaPPPR",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ABauhinia-forficataDSC3659.jpg"
     }
   },
   "bauhinia-variegata": {
@@ -2475,6 +2804,13 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3ABauhinia%20variegata%2C%20Parque%20de%20la%20Alegr%C3%ADa%2C%20M%C3%A1laga%20%2801%29.jpg"
+    },
+    "bark": {
+      "title": "File:Gardenology.org-IMG 7108 qsbg11mar.jpg",
+      "author": "Raffi Kojian",
+      "license": "cc by-sa 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AGardenology.org-IMG%207108%20qsbg11mar.jpg"
     }
   },
   "betula-pendula": {
@@ -2484,6 +2820,13 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AApple%20Leafminer%20%28Lyonetia%20clerkella%29%20Mines%20in%20a%20Silver%20Birch%20%28Betula%20pendula%29%20Leaf%20-%20Oslo%2C%20Norway%202020-08-14.jpg"
+    },
+    "bark": {
+      "title": "File:Bark of Birch.jpg",
+      "author": "Slottsviken51",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ABark%20of%20Birch.jpg"
     }
   },
   "brachychiton-acerifolius": {
@@ -2493,6 +2836,13 @@
       "license": "cc by 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3ABrachychiton%20acerifolius%20leaf%20by%20tree-species.jpg"
+    },
+    "bark": {
+      "title": "File:Brachychiton acerifolius Brachychiton klonolistny 2023-02-24 09.jpg",
+      "author": "Agnieszka Kwiecień, Nova",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ABrachychiton%20acerifolius%20Brachychiton%20klonolistny%202023-02-24%2009.jpg"
     }
   },
   "brachychiton-discolor": {
@@ -2502,6 +2852,13 @@
       "license": "public domain",
       "licenseUrl": "",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3ABrachychiton%20discolor%20%28villa%20Hanbury%2C%20Italy%29%20leaves.jpg"
+    },
+    "bark": {
+      "title": "File:Lacebark Tree (Brachychiton discolor) (Malvaceae from Eastern Australia ...) (45112291551).jpg",
+      "author": "Bernard DUPONT from FRANCE",
+      "license": "cc by-sa 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ALacebark%20Tree%20%28Brachychiton%20discolor%29%20%28Malvaceae%20from%20Eastern%20Australia%20...%29%20%2845112291551%29.jpg"
     }
   },
   "brachychiton-populneus": {
@@ -2511,6 +2868,13 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2%20Brachychiton%20populneus%20leaves.jpg"
+    },
+    "bark": {
+      "title": "File:Starr-230126-0050-Brachychiton populneus-bark-Cooke Rd Kula-Maui (52665957475).jpg",
+      "author": "Forest and Kim Starr",
+      "license": "cc by 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AStarr-230126-0050-Brachychiton%20populneus-bark-Cooke%20Rd%20Kula-Maui%20%2852665957475%29.jpg"
     }
   },
   "brachychiton-rupestris": {
@@ -2520,6 +2884,13 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3ABrachychiton%20rupestris%20-%20juvenile%20leaves%20kz01.jpg"
+    },
+    "bark": {
+      "title": "File:Brachychiton rupestris bark, New Farm Park IMGP0033.jpg",
+      "author": "John Robert McPherson",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ABrachychiton%20rupestris%20bark%2C%20New%20Farm%20Park%20IMGP0033.jpg"
     }
   },
   "brahea-armata": {
@@ -2556,10 +2927,24 @@
       "license": "cc by 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3ACallistemon%20citrinus%20leaf%20%288738560224%29.jpg"
+    },
+    "bark": {
+      "title": "File:Callistemon citrinus bark (8737448115).jpg",
+      "author": "John Tann from Sydney, Australia",
+      "license": "cc by 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ACallistemon%20citrinus%20bark%20%288737448115%29.jpg"
     }
   },
   "callistemon-viminalis": {
     "leaf": {
+      "title": "File:(MHNT) Callistemon viminalis Hot Pink - Immature inflorescence - Les Martels, Giroussens Tarn.jpg",
+      "author": "Didier Descouens",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A%28MHNT%29%20Callistemon%20viminalis%20Hot%20Pink%20-%20Immature%20inflorescence%20-%20Les%20Martels%2C%20Giroussens%20Tarn.jpg"
+    },
+    "bark": {
       "title": "File:(MHNT) Callistemon viminalis Hot Pink - Immature inflorescence - Les Martels, Giroussens Tarn.jpg",
       "author": "Didier Descouens",
       "license": "cc by-sa 4.0",
@@ -2574,6 +2959,13 @@
       "license": "cc by-sa 3.0",
       "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AIncense%20Cedar%20needles-750px.JPG"
+    },
+    "bark": {
+      "title": "File:Calocedrus decurrens bark.jpg",
+      "author": "Gmihail at Serbian Wikipedia",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ACalocedrus%20decurrens%20bark.jpg"
     }
   },
   "calodendrum-capense": {
@@ -2583,6 +2975,13 @@
       "license": "cc by-sa 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3ACalodendrum%20capense%2C%20geurkliere%2C%20a%2C%20Uniegeboutuine.jpg"
+    },
+    "bark": {
+      "title": "File:Calodendrum capense, loof, Uniegeboutuine.jpg",
+      "author": "JMK",
+      "license": "cc by-sa 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ACalodendrum%20capense%2C%20loof%2C%20Uniegeboutuine.jpg"
     }
   },
   "carpinus-betulus": {
@@ -2592,6 +2991,13 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2021-10-28%20Autumn%20leaves%2001.JPG"
+    },
+    "bark": {
+      "title": "File:Carpinus betulus bark.jpg",
+      "author": "Димитър Найденов / Dimìtar Nàydenov",
+      "license": "cc by-sa 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ACarpinus%20betulus%20bark.jpg"
     }
   },
   "carya-illinoinensis": {
@@ -2601,6 +3007,13 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3ACarya%20illinoinensis%20Pecan%20leaf%20petiole%20with%20pulvillus%20partly%20surrounding%20apical%20or%20axillary%20buds%20IMG%209486.jpg"
+    },
+    "bark": {
+      "title": "File:Pecan (Carya illinoinensis) bark detail.jpg",
+      "author": "MONGO",
+      "license": "public domain",
+      "licenseUrl": "",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3APecan%20%28Carya%20illinoinensis%29%20bark%20detail.jpg"
     }
   },
   "casuarina-cunninghamiana": {
@@ -2610,6 +3023,13 @@
       "license": "cc by 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3ABranchlets%20and%20leaves%20of%20C%20cunninghamiana%20%28upper%29%20and%20C%20equisetifolia%20%28lower%29.jpg"
+    },
+    "bark": {
+      "title": "File:Casuarina cunninghamiana bark (16031625567).jpg",
+      "author": "John Tann from Sydney, Australia",
+      "license": "cc by 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ACasuarina%20cunninghamiana%20bark%20%2816031625567%29.jpg"
     }
   },
   "casuarina-equisetifolia": {
@@ -2619,6 +3039,13 @@
       "license": "cc by 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3ABranchlets%20and%20leaves%20of%20C%20cunninghamiana%20%28upper%29%20and%20C%20equisetifolia%20%28lower%29.jpg"
+    },
+    "bark": {
+      "title": "File:Coastal She-oak bark (8665934973).jpg",
+      "author": "John Tann from Sydney, Australia",
+      "license": "cc by 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ACoastal%20She-oak%20bark%20%288665934973%29.jpg"
     }
   },
   "catalpa-bignonioides": {
@@ -2628,6 +3055,13 @@
       "license": "cc by-sa 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3ACatalpa%20bignonioides%27s%20leaf%20in%20Korea.JPG"
+    },
+    "bark": {
+      "title": "File:Catalpa bignonioides's bark in Korea.JPG",
+      "author": "Dalgial",
+      "license": "cc by-sa 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ACatalpa%20bignonioides%27s%20bark%20in%20Korea.JPG"
     }
   },
   "catalpa-speciosa": {
@@ -2637,10 +3071,24 @@
       "license": "cc by 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3ACatalpa%20speciosa%20leaf%202015%20-%20andrey%20zharkikh.jpg"
+    },
+    "bark": {
+      "title": "File:Catalpa speciosa textura del tronco.jpg",
+      "author": "No machine-readable author provided. Alberto Salguero assumed (based on copyright claims).",
+      "license": "cc by-sa 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ACatalpa%20speciosa%20textura%20del%20tronco.jpg"
     }
   },
   "chitalpa-tashkentensis": {
     "leaf": {
+      "title": "File:Chitalpa.jpg",
+      "author": "Stickpen",
+      "license": "public domain",
+      "licenseUrl": "",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AChitalpa.jpg"
+    },
+    "bark": {
       "title": "File:Chitalpa.jpg",
       "author": "Stickpen",
       "license": "public domain",
@@ -2655,6 +3103,13 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AA%20Toona%20sinensis%20tree.jpg"
+    },
+    "bark": {
+      "title": "File:ToonaSinensisBark.jpg",
+      "author": "Fanghong",
+      "license": "cc by-sa 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AToonaSinensisBark.jpg"
     }
   },
   "cedrus-atlantica": {
@@ -2664,10 +3119,24 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2019-04-30%2016%2023%2055%20New%20spring%20needles%20on%20a%20Horstmann%20Blue%20Atlas%20Cedar%20along%20Tranquility%20Court%20in%20the%20Franklin%20Farm%20section%20of%20Oak%20Hill%2C%20Fairfax%20County%2C%20Virginia.jpg"
+    },
+    "bark": {
+      "title": "File:2023-03-24 16 10 48 Atlas Cedar bark along Aquetong Lane in the Mountainview section of Ewing Township, Mercer County, New Jersey.jpg",
+      "author": "Famartin",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2023-03-24%2016%2010%2048%20Atlas%20Cedar%20bark%20along%20Aquetong%20Lane%20in%20the%20Mountainview%20section%20of%20Ewing%20Township%2C%20Mercer%20County%2C%20New%20Jersey.jpg"
     }
   },
   "cedrus-brevifolia": {
     "leaf": {
+      "title": "File:Cedar trees and pines on slopes of Mt Tripylos, Troodos Mountains, Cyprus.jpg",
+      "author": "Michal Klajban",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ACedar%20trees%20and%20pines%20on%20slopes%20of%20Mt%20Tripylos%2C%20Troodos%20Mountains%2C%20Cyprus.jpg"
+    },
+    "bark": {
       "title": "File:Cedar trees and pines on slopes of Mt Tripylos, Troodos Mountains, Cyprus.jpg",
       "author": "Michal Klajban",
       "license": "cc by-sa 4.0",
@@ -2682,6 +3151,13 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2025-12-28%2010%2050%2048%20Deodar%20Cedar%20twigs%20and%20needles%20coated%20in%20glaze%20ice%20along%20Willis%20Drive%20in%20the%20Mountainview%20section%20of%20Ewing%20Township%2C%20Mercer%20County%2C%20New%20Jersey.jpg"
+    },
+    "bark": {
+      "title": "File:2021-03-11 13 40 20 Cedar bark along a walking path in the Franklin Farm section of Oak Hill, Fairfax County, Virginia.jpg",
+      "author": "Famartin",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2021-03-11%2013%2040%2020%20Cedar%20bark%20along%20a%20walking%20path%20in%20the%20Franklin%20Farm%20section%20of%20Oak%20Hill%2C%20Fairfax%20County%2C%20Virginia.jpg"
     }
   },
   "cedrus-libani": {
@@ -2691,6 +3167,13 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2019-04-30%2016%2023%2055%20New%20spring%20needles%20on%20a%20Horstmann%20Blue%20Atlas%20Cedar%20along%20Tranquility%20Court%20in%20the%20Franklin%20Farm%20section%20of%20Oak%20Hill%2C%20Fairfax%20County%2C%20Virginia.jpg"
+    },
+    "bark": {
+      "title": "File:2023-03-24 16 10 48 Atlas Cedar bark along Aquetong Lane in the Mountainview section of Ewing Township, Mercer County, New Jersey.jpg",
+      "author": "Famartin",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2023-03-24%2016%2010%2048%20Atlas%20Cedar%20bark%20along%20Aquetong%20Lane%20in%20the%20Mountainview%20section%20of%20Ewing%20Township%2C%20Mercer%20County%2C%20New%20Jersey.jpg"
     }
   },
   "ceiba-speciosa": {
@@ -2700,6 +3183,13 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3ACeiba%20speciosa%20leaves%20at%20Mito%20Botanical%20Gardens%20in%20Ibaraki%20Prefecture%2001.jpg"
+    },
+    "bark": {
+      "title": "File:Bark of Ceiba speciosa at Mito Botanical Gardens in Ibaraki Prefecture 02.jpg",
+      "author": "小石川人晃",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ABark%20of%20Ceiba%20speciosa%20at%20Mito%20Botanical%20Gardens%20in%20Ibaraki%20Prefecture%2002.jpg"
     }
   },
   "celtis-australis": {
@@ -2709,6 +3199,13 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3ALeaf%20of%20Celtis%20australis%2008.jpg"
+    },
+    "bark": {
+      "title": "File:Celtis australis textura del tronco.jpg",
+      "author": "Pablo Alberto Salguero Quiles",
+      "license": "cc by-sa 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ACeltis%20australis%20textura%20del%20tronco.jpg"
     }
   },
   "celtis-laevigata": {
@@ -2718,6 +3215,13 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3ACeltis%20laevigata%E2%80%94to%20show%20parasitic%20Phoradendron%20sp.%20forming%20a%20ball%20of%20foliage.jpg"
+    },
+    "bark": {
+      "title": "File:Celtis laevigata—to show bark.jpg",
+      "author": "KATHERINE WAGNER-REISS",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ACeltis%20laevigata%E2%80%94to%20show%20bark.jpg"
     }
   },
   "celtis-sinensis": {
@@ -2727,10 +3231,24 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3ACeltics%20sinensis%20spring%20foliage.jpg"
+    },
+    "bark": {
+      "title": "File:Celtis sinensis's bark.JPG",
+      "author": "Dalgial",
+      "license": "cc by-sa 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ACeltis%20sinensis%27s%20bark.JPG"
     }
   },
   "ceratonia-siliqua": {
     "leaf": {
+      "title": "File:Algarrobo, árbol frutal (Ceratonia Siliqua L., 1753).jpg",
+      "author": "Juan Emilio Prades Bel",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AAlgarrobo%2C%20%C3%A1rbol%20frutal%20%28Ceratonia%20Siliqua%20L.%2C%201753%29.jpg"
+    },
+    "bark": {
       "title": "File:Algarrobo, árbol frutal (Ceratonia Siliqua L., 1753).jpg",
       "author": "Juan Emilio Prades Bel",
       "license": "cc by-sa 4.0",
@@ -2745,6 +3263,13 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2023-09-28%2015%2027%2030%20Leaf%20changing%20color%20in%20autumn%20on%20a%20Katsura%20tree%20along%20Lochatong%20Road%20in%20the%20Mountainview%20section%20of%20Ewing%20Township%2C%20Mercer%20County%2C%20New%20Jersey.jpg"
+    },
+    "bark": {
+      "title": "File:2023-07-12 11 07 55 Bark on a Katsura tree along Willis Drive in the Mountainview section of Ewing Township, Mercer County, New Jersey.jpg",
+      "author": "Famartin",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2023-07-12%2011%2007%2055%20Bark%20on%20a%20Katsura%20tree%20along%20Willis%20Drive%20in%20the%20Mountainview%20section%20of%20Ewing%20Township%2C%20Mercer%20County%2C%20New%20Jersey.jpg"
     }
   },
   "cercis-occidentalis": {
@@ -2754,6 +3279,13 @@
       "license": "cc by 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2016-03-19-11.55.37%20ZS%20PMax%20Cercis%20occidentalis-1%20%2825916453515%29.jpg"
+    },
+    "bark": {
+      "title": "File:Cercis occidentalis bark.jpg",
+      "author": "Nadiatalent",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ACercis%20occidentalis%20bark.jpg"
     }
   },
   "cercis-siliquastrum": {
@@ -2763,6 +3295,13 @@
       "license": "cc by-sa 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3ACercis%20siliquastrum%20leafes.JPG"
+    },
+    "bark": {
+      "title": "File:Cercis siliquastrum bark, Varna 1.jpg",
+      "author": "Spiritia",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ACercis%20siliquastrum%20bark%2C%20Varna%201.jpg"
     }
   },
   "chamaecyparis-lawsoniana": {
@@ -2772,6 +3311,13 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AChamaecyparis%20lawsoniana%20%27Alumii%27%20Cyprysik%20Lawsona%202019-08-03%2001.jpg"
+    },
+    "bark": {
+      "title": "File:Cypress bark.jpg",
+      "author": "Rosendahl",
+      "license": "public domain",
+      "licenseUrl": "",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ACypress%20bark.jpg"
     }
   },
   "chamaerops-humilis": {
@@ -2790,6 +3336,13 @@
       "license": "cc by-sa 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AChilopsis%20linearis%20foliage.jpg"
+    },
+    "bark": {
+      "title": "File:Desert Willow (6505719099).jpg",
+      "author": "Leslie Seaton from Seattle, WA, USA",
+      "license": "cc by 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ADesert%20Willow%20%286505719099%29.jpg"
     }
   },
   "chionanthus-retusus": {
@@ -2799,6 +3352,13 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AChionanthus%20retusus%20%28leaf%20s2%29.jpg"
+    },
+    "bark": {
+      "title": "File:Chinese Fringetree Chionanthus retusus bark.jpg",
+      "author": "Cossey25",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AChinese%20Fringetree%20Chionanthus%20retusus%20bark.jpg"
     }
   },
   "chionanthus-virginicus": {
@@ -2808,10 +3368,24 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AWhite%20Fringetree%20Chionanthus%20virginicus%20leaf%20fall%2004.jpg"
+    },
+    "bark": {
+      "title": "File:White Fringetree Chionanthus virginicus bark.jpg",
+      "author": "Cossey25",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AWhite%20Fringetree%20Chionanthus%20virginicus%20bark.jpg"
     }
   },
   "chiranthodendron-pentadactylon": {
     "leaf": {
+      "title": "File:Chiranthodendron pentadactylon PB220049.jpg",
+      "author": "Margaret Donald",
+      "license": "cc by-sa 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AChiranthodendron%20pentadactylon%20PB220049.jpg"
+    },
+    "bark": {
       "title": "File:Chiranthodendron pentadactylon PB220049.jpg",
       "author": "Margaret Donald",
       "license": "cc by-sa 2.0",
@@ -2826,6 +3400,13 @@
       "license": "cc by 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3ACamphor%20Laurel%20leaf%20%285057099352%29.jpg"
+    },
+    "bark": {
+      "title": "File:Bark of Cinnamomum camphora 2.jpg",
+      "author": "Dodshe",
+      "license": "cc by-sa 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ABark%20of%20Cinnamomum%20camphora%202.jpg"
     }
   },
   "cordyline-australis": {
@@ -2844,6 +3425,13 @@
       "license": "cc by 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3ACORNUS%20CAPITATAweb.jpg"
+    },
+    "bark": {
+      "title": "File:Cornus capitata C.jpg",
+      "author": "Wouter Hagens",
+      "license": "public domain",
+      "licenseUrl": "",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ACornus%20capitata%20C.jpg"
     }
   },
   "cornus-kousa": {
@@ -2853,6 +3441,13 @@
       "license": "cc by-sa 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3ACornus%20kousa%27s%20leaf.JPG"
+    },
+    "bark": {
+      "title": "File:2021-03-08 13 46 05 Korean Dogwood bark along Franklin Farm Road in the Franklin Farm section of Oak Hill, Fairfax County, Virginia.jpg",
+      "author": "Famartin",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2021-03-08%2013%2046%2005%20Korean%20Dogwood%20bark%20along%20Franklin%20Farm%20Road%20in%20the%20Franklin%20Farm%20section%20of%20Oak%20Hill%2C%20Fairfax%20County%2C%20Virginia.jpg"
     }
   },
   "cornus-mas": {
@@ -2862,10 +3457,24 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3ACornus%20mas%20leaf%20buds1.jpg"
+    },
+    "bark": {
+      "title": "File:Bark of Cornelian cherry Cornus mas.jpg",
+      "author": "Downtowngal",
+      "license": "cc by-sa 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ABark%20of%20Cornelian%20cherry%20Cornus%20mas.jpg"
     }
   },
   "cornus-nuttallii": {
     "leaf": {
+      "title": "File:Cornus nuttallii - Pacific dogwood (52462723802).jpg",
+      "author": "Geoff McKay from Palmerston North, New Zealand",
+      "license": "cc by 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ACornus%20nuttallii%20-%20Pacific%20dogwood%20%2852462723802%29.jpg"
+    },
+    "bark": {
       "title": "File:Cornus nuttallii - Pacific dogwood (52462723802).jpg",
       "author": "Geoff McKay from Palmerston North, New Zealand",
       "license": "cc by 2.0",
@@ -2880,6 +3489,13 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3ACorymbiaFicifolia%20xCalophylla%20PerthBG-20171218-1b.jpg"
+    },
+    "bark": {
+      "title": "File:CorymbiaFicifolia xCalophylla PerthBG-20171218-1b.jpg",
+      "author": "User:Zenwort",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ACorymbiaFicifolia%20xCalophylla%20PerthBG-20171218-1b.jpg"
     }
   },
   "corymbia-citriodora": {
@@ -2889,6 +3505,13 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3ACorymbia%20citriodora%20-%20juvenile%20leaves.jpg"
+    },
+    "bark": {
+      "title": "File:Corymbia citriodora - shedding bark 4.jpg",
+      "author": "Geekstreet",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ACorymbia%20citriodora%20-%20shedding%20bark%204.jpg"
     }
   },
   "corymbia-ficifolia": {
@@ -2898,6 +3521,13 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3ACorymbia%20ficifolia%20-%20adult%20leaves.jpg"
+    },
+    "bark": {
+      "title": "File:Corymbia ficifolia - trunk bark.jpg",
+      "author": "Geekstreet",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ACorymbia%20ficifolia%20-%20trunk%20bark.jpg"
     }
   },
   "crataegus-laevigata": {
@@ -2907,10 +3537,24 @@
       "license": "cc by-sa 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3ACrataegus%20laevigata%20leaf.JPG"
+    },
+    "bark": {
+      "title": "File:Crataegus-laevigata-bark.jpg",
+      "author": "Sten Porse",
+      "license": "cc by-sa 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ACrataegus-laevigata-bark.jpg"
     }
   },
   "crataegus-phaenopyrum": {
     "leaf": {
+      "title": "File:Crataegus phaenopyrum at Missouri Botanical Garden 1.jpg",
+      "author": "F. D. Richards from Clinton, MI",
+      "license": "cc by-sa 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ACrataegus%20phaenopyrum%20at%20Missouri%20Botanical%20Garden%201.jpg"
+    },
+    "bark": {
       "title": "File:Crataegus phaenopyrum at Missouri Botanical Garden 1.jpg",
       "author": "F. D. Richards from Clinton, MI",
       "license": "cc by-sa 2.0",
@@ -2925,6 +3569,13 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3ACampo%20en%20Pataguas%20Orilla%20al%20atardecer%20en%20invierno.jpg"
+    },
+    "bark": {
+      "title": "File:Crinodendron patagua 179209343.jpg",
+      "author": "Nicolás Lavandero",
+      "license": "cc by 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ACrinodendron%20patagua%20179209343.jpg"
     }
   },
   "cryptomeria-japonica": {
@@ -2934,6 +3585,13 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3ACryptomeria%20japonica-1-bsi-yercaud-salem-India.jpg"
+    },
+    "bark": {
+      "title": "File:Cryptomeria japonica 'Compacta' - bark - Arboretum Kalmthout (2026-06-05).jpg",
+      "author": "Cyreen Knockaert",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ACryptomeria%20japonica%20%27Compacta%27%20-%20bark%20-%20Arboretum%20Kalmthout%20%282026-06-05%29.jpg"
     }
   },
   "cupaniopsis-anacardioides": {
@@ -2943,6 +3601,13 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3ACupaniopsis%20anacardioides%20foliage.jpg"
+    },
+    "bark": {
+      "title": "File:Starr 031204-0007 Cupaniopsis anacardioides.jpg",
+      "author": "Forest &amp; Kim Starr",
+      "license": "cc by 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AStarr%20031204-0007%20Cupaniopsis%20anacardioides.jpg"
     }
   },
   "dodonaea-viscosa": {
@@ -2952,6 +3617,13 @@
       "license": "cc by 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3ACommon%20Honeybee%20Apis%20melifera%20on%20Dodonaea%20viscosa%20broadleaf%20hopbush%20Kauai%203772.jpg"
+    },
+    "bark": {
+      "title": "File:Dodonaea viscosa (5188013052).jpg",
+      "author": "David  Eickhoff from Pearl City, Hawaii, USA",
+      "license": "cc by 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ADodonaea%20viscosa%20%285188013052%29.jpg"
     }
   },
   "dracaena-draco": {
@@ -2970,6 +3642,13 @@
       "license": "cc by-sa 3.0",
       "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AElaeagnus-angustifolia-leaves.JPG"
+    },
+    "bark": {
+      "title": "File:Elaeagnus angustifolia bark 1.jpg",
+      "author": "Spiritia",
+      "license": "cc by-sa 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AElaeagnus%20angustifolia%20bark%201.jpg"
     }
   },
   "elaeis-guineensis": {
@@ -2988,6 +3667,13 @@
       "license": "cc0",
       "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AEriobotrya%20deflexa%20-%20Christchurch%20Botanic%20Gardens%20-%20Christchurch%2C%20NZ%20-%20DSC00543.jpg"
+    },
+    "bark": {
+      "title": "File:Eriobotrya deflexa - Christchurch Botanic Gardens - Christchurch, NZ - DSC00543.jpg",
+      "author": "Daderot",
+      "license": "cc0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AEriobotrya%20deflexa%20-%20Christchurch%20Botanic%20Gardens%20-%20Christchurch%2C%20NZ%20-%20DSC00543.jpg"
     }
   },
   "eriobotrya-japonica": {
@@ -2997,6 +3683,13 @@
       "license": "cc by 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3ALoquat%20leaf.JPG"
+    },
+    "bark": {
+      "title": "File:Starr-230107-0812-Eriobotrya japonica-bark and branches-Hawea Pl Olinda-Maui (52665577136).jpg",
+      "author": "Forest and Kim Starr",
+      "license": "cc by 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AStarr-230107-0812-Eriobotrya%20japonica-bark%20and%20branches-Hawea%20Pl%20Olinda-Maui%20%2852665577136%29.jpg"
     }
   },
   "erythrina-bidwillii": {
@@ -3006,6 +3699,13 @@
       "license": "cc by-sa 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3ALeaves%20of%20Bidwill%27s%20Coral%20Tree%20%28533121169%29.jpg"
+    },
+    "bark": {
+      "title": "File:Bidwill's Coral Tree (405624717).jpg",
+      "author": "Dinesh Valke from Thane, India",
+      "license": "cc by-sa 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ABidwill%27s%20Coral%20Tree%20%28405624717%29.jpg"
     }
   },
   "erythrina-caffra": {
@@ -3015,6 +3715,13 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AErythrina%20Caffra%20leaves.jpg"
+    },
+    "bark": {
+      "title": "File:Erythrina Caffra trunk.jpg",
+      "author": "Andrew Higgs",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AErythrina%20Caffra%20trunk.jpg"
     }
   },
   "erythrina-coralloides": {
@@ -3024,10 +3731,24 @@
       "license": "cc by 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AErythrina%20coralloides%2C%20leaves%20of%20the%20Naked%20Coral%20Tree.%20%289548781659%29.jpg"
+    },
+    "bark": {
+      "title": "File:190307 044 SD Botanic Gdn - Seeds of Wonder Kids' Garden, Erythrina x sykesii Australian Coral Tree, a likely hybrid of E coralloides and E lysistemon (46619904854).jpg",
+      "author": "cultivar413 from Fallbrook, California",
+      "license": "cc by 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A190307%20044%20SD%20Botanic%20Gdn%20-%20Seeds%20of%20Wonder%20Kids%27%20Garden%2C%20Erythrina%20x%20sykesii%20Australian%20Coral%20Tree%2C%20a%20likely%20hybrid%20of%20E%20coralloides%20and%20E%20lysistemon%20%2846619904854%29.jpg"
     }
   },
   "erythrina-falcata": {
     "leaf": {
+      "title": "File:Brazilian Coral Tree (Erythrina falcata) (20830850982).jpg",
+      "author": "Under the same moon...",
+      "license": "cc by 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ABrazilian%20Coral%20Tree%20%28Erythrina%20falcata%29%20%2820830850982%29.jpg"
+    },
+    "bark": {
       "title": "File:Brazilian Coral Tree (Erythrina falcata) (20830850982).jpg",
       "author": "Under the same moon...",
       "license": "cc by 2.0",
@@ -3042,6 +3763,13 @@
       "license": "cc by-sa 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3ADwarf%20Coral%20Tree%20%28Erythrina%20humeana%29%20leaves%20%2817379337482%29.jpg"
+    },
+    "bark": {
+      "title": "File:Erythrina humeana, blomme, Manie vd Schijff BT, a.jpg",
+      "author": "JMK",
+      "license": "cc by-sa 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AErythrina%20humeana%2C%20blomme%2C%20Manie%20vd%20Schijff%20BT%2C%20a.jpg"
     }
   },
   "erythrina-latissima": {
@@ -3051,6 +3779,13 @@
       "license": "cc by-sa 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AMyrmicaria%20natalensis%2C%20a%2C%20by%20wolluis%20op%20Erythrina%20latissima.jpg"
+    },
+    "bark": {
+      "title": "File:Erythrina latissima, KZN NBT.jpg",
+      "author": "I created this image. JMK (talk) 10:36, 23 June 2011 (UTC)",
+      "license": "cc by-sa 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AErythrina%20latissima%2C%20KZN%20NBT.jpg"
     }
   },
   "erythrina-lysistemon": {
@@ -3060,6 +3795,13 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AErythrina%20lysistemon%2C%20habitus%2C%20Groenkloof%20NR%2C%20a.jpg"
+    },
+    "bark": {
+      "title": "File:Erythrina lysistemon bark.jpg",
+      "author": "No machine-readable author provided. Abrahami assumed (based on copyright claims).",
+      "license": "cc by-sa 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AErythrina%20lysistemon%20bark.jpg"
     }
   },
   "erythrina-speciosa": {
@@ -3069,10 +3811,24 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AAt%20Jard%C3%ADn%20de%20Aclimataci%C3%B3n%20de%20La%20Orotava%202023%20023.jpg"
+    },
+    "bark": {
+      "title": "File:HK CUHK 中文大學 Tai Po 大埔 Ma Liu Shui New Asia College Ivory Coral Tree 象牙花 Erythrina speciosa QR Code Fabaceae Aug 2013 ZR2.jpg",
+      "author": "Zhim woods Tian",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AHK%20CUHK%20%E4%B8%AD%E6%96%87%E5%A4%A7%E5%AD%B8%20Tai%20Po%20%E5%A4%A7%E5%9F%94%20Ma%20Liu%20Shui%20New%20Asia%20College%20Ivory%20Coral%20Tree%20%E8%B1%A1%E7%89%99%E8%8A%B1%20Erythrina%20speciosa%20QR%20Code%20Fabaceae%20Aug%202013%20ZR2.jpg"
     }
   },
   "erythrina-sykesii": {
     "leaf": {
+      "title": "File:Erythrina-x-sykesii-tree.jpg",
+      "author": "Kahuroa",
+      "license": "public domain",
+      "licenseUrl": "",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AErythrina-x-sykesii-tree.jpg"
+    },
+    "bark": {
       "title": "File:Erythrina-x-sykesii-tree.jpg",
       "author": "Kahuroa",
       "license": "public domain",
@@ -3087,6 +3843,13 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AEucalyptus%20camaldulensis%20-%20adult%20leaves.jpg"
+    },
+    "bark": {
+      "title": "File:Eucalyptus camaldulensis - trunk bark.jpg",
+      "author": "Geekstreet",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AEucalyptus%20camaldulensis%20-%20trunk%20bark.jpg"
     }
   },
   "eucalyptus-cinerea": {
@@ -3096,6 +3859,13 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AEucalyptus%20cinerea%20leaves.jpg"
+    },
+    "bark": {
+      "title": "File:Starr-110609-6069-Eucalyptus cinerea-trunk and rough bark-Shibuya Farm Kula-Maui (25070331946).jpg",
+      "author": "Forest and Kim Starr",
+      "license": "CC BY 3.0 us",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/us/deed.en",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AStarr-110609-6069-Eucalyptus%20cinerea-trunk%20and%20rough%20bark-Shibuya%20Farm%20Kula-Maui%20%2825070331946%29.jpg"
     }
   },
   "eucalyptus-cladocalyx": {
@@ -3105,10 +3875,24 @@
       "license": "cc by 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3ACharaxes%20sempronius%20%28Tailed%20Emperor%29%20-%20feeding%20on%20Sugar%20Gum%20%28Eucalyptus%20cladocalyx%29%20sap.jpg"
+    },
+    "bark": {
+      "title": "File:Starr-201227-8797-Eucalyptus cladocalyx-trunk and bark-Hawea Pl Olinda-Maui (50860406752).jpg",
+      "author": "Forest and Kim Starr",
+      "license": "cc by 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AStarr-201227-8797-Eucalyptus%20cladocalyx-trunk%20and%20bark-Hawea%20Pl%20Olinda-Maui%20%2850860406752%29.jpg"
     }
   },
   "eucalyptus-conferruminata": {
     "leaf": {
+      "title": "File:Eucalyptus-20070325-011.jpg",
+      "author": "Ghouston",
+      "license": "cc0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AEucalyptus-20070325-011.jpg"
+    },
+    "bark": {
       "title": "File:Eucalyptus-20070325-011.jpg",
       "author": "Ghouston",
       "license": "cc0",
@@ -3123,6 +3907,13 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3ABudderoo%20NP%20Eucalyptus%20globulus%20at%20Jamberoo%20Lookout.jpg"
+    },
+    "bark": {
+      "title": "File:Gippsland Blue Gum new bark (6281398726).jpg",
+      "author": "John Tann from Sydney, Australia",
+      "license": "cc by 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AGippsland%20Blue%20Gum%20new%20bark%20%286281398726%29.jpg"
     }
   },
   "eucalyptus-grandis": {
@@ -3132,10 +3923,24 @@
       "license": "cc by-sa 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AEgrandisAlexFCA1.jpg"
+    },
+    "bark": {
+      "title": "File:Eucalyptus grandis bark decorticating 7th Brigade Park Chermside L1100306.jpg",
+      "author": "John Robert McPherson",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AEucalyptus%20grandis%20bark%20decorticating%207th%20Brigade%20Park%20Chermside%20L1100306.jpg"
     }
   },
   "eucalyptus-gunnii": {
     "leaf": {
+      "title": "File:Anna Westerlund vase with florist's daisies (Chrysanthemum × morifolium) and cider gum (Eucalyptus gunnii), Lisbon, Portugal (approx. GPS location) julesvernex2-2.jpg",
+      "author": "Jules Verne Times Two",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AAnna%20Westerlund%20vase%20with%20florist%27s%20daisies%20%28Chrysanthemum%20%C3%97%20morifolium%29%20and%20cider%20gum%20%28Eucalyptus%20gunnii%29%2C%20Lisbon%2C%20Portugal%20%28approx.%20GPS%20location%29%20julesvernex2-2.jpg"
+    },
+    "bark": {
       "title": "File:Anna Westerlund vase with florist's daisies (Chrysanthemum × morifolium) and cider gum (Eucalyptus gunnii), Lisbon, Portugal (approx. GPS location) julesvernex2-2.jpg",
       "author": "Jules Verne Times Two",
       "license": "cc by-sa 4.0",
@@ -3150,6 +3955,13 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AEucalyptus%20leucoxylon%20bellarinensis%200zz.jpg"
+    },
+    "bark": {
+      "title": "File:Eucalyptus leucoxylon bellarinensis 0zz.jpg",
+      "author": "Photo by David J. Stang",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AEucalyptus%20leucoxylon%20bellarinensis%200zz.jpg"
     }
   },
   "eucalyptus-nicholii": {
@@ -3159,6 +3971,13 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AEucalyptus%20nicholii%20buds.jpg"
+    },
+    "bark": {
+      "title": "File:Eucalyptus nicholii, Narrow-Leaved Black Peppermint (4570525904).jpg",
+      "author": "Rexness from Melbourne, Australia",
+      "license": "cc by-sa 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AEucalyptus%20nicholii%2C%20Narrow-Leaved%20Black%20Peppermint%20%284570525904%29.jpg"
     }
   },
   "eucalyptus-polyanthemos": {
@@ -3168,10 +3987,24 @@
       "license": "cc by 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AEucalyptus%20polyanthemos%20leaves%201.jpg"
+    },
+    "bark": {
+      "title": "File:Eucalyptus polyanthemos bark 1.jpg",
+      "author": "Donald Hobern from Canberra, Australia",
+      "license": "cc by 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AEucalyptus%20polyanthemos%20bark%201.jpg"
     }
   },
   "eucalyptus-pulverulenta": {
     "leaf": {
+      "title": "File:Eucalyptus pulverulenta (16387512803).jpg",
+      "author": "peganum from Small Dole, England",
+      "license": "cc by-sa 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AEucalyptus%20pulverulenta%20%2816387512803%29.jpg"
+    },
+    "bark": {
       "title": "File:Eucalyptus pulverulenta (16387512803).jpg",
       "author": "peganum from Small Dole, England",
       "license": "cc by-sa 2.0",
@@ -3186,6 +4019,13 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AEucalyptus%20robusta%20-%20adult%20leaves%2002.jpg"
+    },
+    "bark": {
+      "title": "File:Eucalyptus robusta - trunk bark.jpg",
+      "author": "Geekstreet",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AEucalyptus%20robusta%20-%20trunk%20bark.jpg"
     }
   },
   "eucalyptus-rudis": {
@@ -3195,6 +4035,13 @@
       "license": "cc by 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AStarr-220330-1968-Eucalyptus%20rudis-leaves-Hawea%20Pl%20Olinda-Maui%20%2852434001013%29.jpg"
+    },
+    "bark": {
+      "title": "File:Starr-220330-1962-Eucalyptus rudis-trunk and bark-Hawea Pl Olinda-Maui (52433931460).jpg",
+      "author": "Forest and Kim Starr",
+      "license": "cc by 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AStarr-220330-1962-Eucalyptus%20rudis-trunk%20and%20bark-Hawea%20Pl%20Olinda-Maui%20%2852433931460%29.jpg"
     }
   },
   "eucalyptus-saligna": {
@@ -3204,6 +4051,13 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3ASydney%20Blue%20Gum%20%28E.saligna%29%20-%20leaves.jpg"
+    },
+    "bark": {
+      "title": "File:Sydney Blue Gum (E.saligna) - trunk bark.jpg",
+      "author": "Geekstreet",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ASydney%20Blue%20Gum%20%28E.saligna%29%20-%20trunk%20bark.jpg"
     }
   },
   "eucalyptus-sideroxylon": {
@@ -3213,6 +4067,13 @@
       "license": "public domain",
       "licenseUrl": "",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AE.sideroxylon%2C%20branchlets%2C%20stems%2C%20leaves%2C%20capsules%20%26%20buds.jpg"
+    },
+    "bark": {
+      "title": "File:Bark of Iron bark (Eucalyptus sideroxylon).jpg",
+      "author": "MayumiKataoka",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ABark%20of%20Iron%20bark%20%28Eucalyptus%20sideroxylon%29.jpg"
     }
   },
   "eucalyptus-tereticornis": {
@@ -3222,10 +4083,24 @@
       "license": "cc by 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AEucalyptus%20terticornis%20buds%2C%20capsules%20and%20foliage.jpeg"
+    },
+    "bark": {
+      "title": "File:Eucalyptus tereticornis bark charred by fire IMG 0014 (8).jpg",
+      "author": "John Robert McPherson",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AEucalyptus%20tereticornis%20bark%20charred%20by%20fire%20IMG%200014%20%288%29.jpg"
     }
   },
   "eucalyptus-torquata": {
     "leaf": {
+      "title": "File:Eucalyptus 2 Montjuiic.JPG",
+      "author": "Dinkum",
+      "license": "cc0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AEucalyptus%202%20Montjuiic.JPG"
+    },
+    "bark": {
       "title": "File:Eucalyptus 2 Montjuiic.JPG",
       "author": "Dinkum",
       "license": "cc0",
@@ -3240,6 +4115,13 @@
       "license": "cc by-sa 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3ALeaves%20of%20Eucalyptus%20viminalis.jpg"
+    },
+    "bark": {
+      "title": "File:Eucalyptus viminalis - trunk bark.jpg",
+      "author": "Geekstreet",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AEucalyptus%20viminalis%20-%20trunk%20bark.jpg"
     }
   },
   "euterpe-oleracea": {
@@ -3258,6 +4140,13 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AFagus%20sylvatica%20single%20leaf%20-%20HLABG.png"
+    },
+    "bark": {
+      "title": "File:Bark of Fagus sylvatica (1).jpg",
+      "author": "Krzysztof Golik",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ABark%20of%20Fagus%20sylvatica%20%281%29.jpg"
     }
   },
   "feijoa-sellowiana": {
@@ -3267,6 +4156,13 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AFeijoa%20sellowiana-1-sims%20park-coonoor-ooty-India.jpg"
+    },
+    "bark": {
+      "title": "File:Bark of a Guayabo tree.jpg",
+      "author": "Albarubescens",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ABark%20of%20a%20Guayabo%20tree.jpg"
     }
   },
   "ficus-auriculata": {
@@ -3276,6 +4172,13 @@
       "license": "cc by-sa 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3ABroad-leaf%20Fig%20%28Ficus%20auriculata%29%201.jpg"
+    },
+    "bark": {
+      "title": "File:At La Orotava 2023 137.jpg",
+      "author": "Photograph by Mike Peel (www.mikepeel.net).",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AAt%20La%20Orotava%202023%20137.jpg"
     }
   },
   "ficus-benjamina": {
@@ -3285,6 +4188,13 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AFicus%20benjamina%20epiphytes%20behind%20marcescent%20leaf%20bases%20of%20Phoenix%20roebelini%20King%20George%20Square%20Brisbane%20City%2001.jpg"
+    },
+    "bark": {
+      "title": "File:Ficus benjamina 7th Brigade Park Chermside P1070707.jpg",
+      "author": "John Robert McPherson",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AFicus%20benjamina%207th%20Brigade%20Park%20Chermside%20P1070707.jpg"
     }
   },
   "ficus-carica": {
@@ -3294,6 +4204,13 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AFicus%20carica%20Leaf%20variations.jpg"
+    },
+    "bark": {
+      "title": "File:Nalpamaram.jpg",
+      "author": "Zuhairali",
+      "license": "cc by-sa 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ANalpamaram.jpg"
     }
   },
   "ficus-elastica": {
@@ -3303,6 +4220,13 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3ACystolith%20in%20the%20leaf%20of%20Ficus%20Elastica.jpg"
+    },
+    "bark": {
+      "title": "File:Ambato 13.jpg",
+      "author": "Burkhard Mücke",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AAmbato%2013.jpg"
     }
   },
   "ficus-macrophylla": {
@@ -3312,6 +4236,13 @@
       "license": "cc by-sa 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AFicus%20macrophylla%2C%20blaarbearing%2C%20Burgers%20Park.jpg"
+    },
+    "bark": {
+      "title": "File:Wingham Brush with Moreton Bay Fig.jpg",
+      "author": "Poyt448 Peter Woodard",
+      "license": "cc0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AWingham%20Brush%20with%20Moreton%20Bay%20Fig.jpg"
     }
   },
   "ficus-microcarpa": {
@@ -3321,6 +4252,13 @@
       "license": "cc by 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AStarr%20080601-5190%20Ficus%20microcarpa.jpg"
+    },
+    "bark": {
+      "title": "File:Ficus microcarpa on Casuarina cunninghamiana 7th Brigade Park Chermside IMGP0340.jpg",
+      "author": "John Robert McPherson",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AFicus%20microcarpa%20on%20Casuarina%20cunninghamiana%207th%20Brigade%20Park%20Chermside%20IMGP0340.jpg"
     }
   },
   "ficus-rubiginosa": {
@@ -3330,6 +4268,13 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AFicus%20rubiginosa%20-%20Leaves.jpg"
+    },
+    "bark": {
+      "title": "File:Ficus rubiginosa - Stem with bark.jpg",
+      "author": "Alialb",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AFicus%20rubiginosa%20-%20Stem%20with%20bark.jpg"
     }
   },
   "firmiana-simplex": {
@@ -3339,6 +4284,13 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AAogiri%20%28Firmiana%20simplex%29%20with%20yellow%20leaves.jpg"
+    },
+    "bark": {
+      "title": "File:Firmiana simplex's bark.JPG",
+      "author": "Dalgial",
+      "license": "cc by-sa 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AFirmiana%20simplex%27s%20bark.JPG"
     }
   },
   "fraxinus-angustifolia": {
@@ -3348,6 +4300,13 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3ABacklit%20narrow-leaved%20ash%20leaves%20%28Fraxinus%20angustifolia%29%20with%20a%20dog%20walking%20in%20the%20background%2C%20Montes%20Claros%20%28Monsanto%29%2C%20Lisbon%2C%20Portugal%20julesvernex2.jpg"
+    },
+    "bark": {
+      "title": "File:Fraxinus angustifolia subsp. oxycarpa bark.jpg",
+      "author": "Димитър Найденов / Dimìtar Nàydenov",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AFraxinus%20angustifolia%20subsp.%20oxycarpa%20bark.jpg"
     }
   },
   "fraxinus-latifolia": {
@@ -3357,6 +4316,13 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3ALamiales%20-%20Fraxinus%20latifolia%20leaves%20and%20Crocus%20sp..jpg"
+    },
+    "bark": {
+      "title": "File:Fraxinus latifolia in Eastwoodhill Arboretum (1).jpg",
+      "author": "Krzysztof Golik",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AFraxinus%20latifolia%20in%20Eastwoodhill%20Arboretum%20%281%29.jpg"
     }
   },
   "fraxinus-uhdei": {
@@ -3366,10 +4332,24 @@
       "license": "cc by 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AStarr-221205-0295-Fraxinus%20uhdei-leaf%20duff%20and%20mushroom-Waihou%20Spring-Maui%20%2852655353704%29.jpg"
+    },
+    "bark": {
+      "title": "File:Starr 041107-0620 Fraxinus uhdei.jpg",
+      "author": "Forest &amp; Kim Starr",
+      "license": "cc by 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AStarr%20041107-0620%20Fraxinus%20uhdei.jpg"
     }
   },
   "fraxinus-velutina": {
     "leaf": {
+      "title": "File:Fraxinus velutina kz01.jpg",
+      "author": "Kenraiz",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AFraxinus%20velutina%20kz01.jpg"
+    },
+    "bark": {
       "title": "File:Fraxinus velutina kz01.jpg",
       "author": "Kenraiz",
       "license": "cc by-sa 4.0",
@@ -3384,6 +4364,13 @@
       "license": "cc by-sa 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AFraxinus%20ornus%20%28Oleaceae%29%20leaf.JPG"
+    },
+    "bark": {
+      "title": "File:Мъждрян - кора.JPG",
+      "author": "Димитър Найденов / Dimìtar Nàydenov",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A%D0%9C%D1%8A%D0%B6%D0%B4%D1%80%D1%8F%D0%BD%20-%20%D0%BA%D0%BE%D1%80%D0%B0.JPG"
     }
   },
   "geijera-parviflora": {
@@ -3393,6 +4380,13 @@
       "license": "cc by 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AGeijera%20parviflora%20foliage.jpg"
+    },
+    "bark": {
+      "title": "File:Geijera parviflora Wilga-Havilah1.jpg",
+      "author": "Poyt448 Peter Woodard",
+      "license": "cc0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AGeijera%20parviflora%20Wilga-Havilah1.jpg"
     }
   },
   "ginkgo-biloba": {
@@ -3402,6 +4396,13 @@
       "license": "cc by 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AButterfly%20shaped%20Ginkgo%20Biloba%20new%20leaf%20%2853179352607%29.jpg"
+    },
+    "bark": {
+      "title": "File:2021-03-02 17 19 54 Ginkgo bark along White Barn Court in the Franklin Farm section of Oak Hill, Fairfax County, Virginia.jpg",
+      "author": "Famartin",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2021-03-02%2017%2019%2054%20Ginkgo%20bark%20along%20White%20Barn%20Court%20in%20the%20Franklin%20Farm%20section%20of%20Oak%20Hill%2C%20Fairfax%20County%2C%20Virginia.jpg"
     }
   },
   "grevillea-robusta": {
@@ -3411,10 +4412,24 @@
       "license": "cc by-sa 3.0",
       "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AGrevillea%20robusta%20-%20leaf.jpg"
+    },
+    "bark": {
+      "title": "File:Grevillea robusta trunk bark 01.jpg",
+      "author": "No machine-readable author provided. Rickjpelleg assumed (based on copyright claims).",
+      "license": "cc by 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AGrevillea%20robusta%20trunk%20bark%2001.jpg"
     }
   },
   "handroanthus-chrysotrichus": {
     "leaf": {
+      "title": "File:Golden Trumpet Tree Handroanthus chrysanthus 0279.jpg",
+      "author": "ImagePerson",
+      "license": "cc by 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AGolden%20Trumpet%20Tree%20Handroanthus%20chrysanthus%200279.jpg"
+    },
+    "bark": {
       "title": "File:Golden Trumpet Tree Handroanthus chrysanthus 0279.jpg",
       "author": "ImagePerson",
       "license": "cc by 4.0",
@@ -3429,6 +4444,13 @@
       "license": "cc by-sa 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AHarpephyllum%20caffrum%2C%20loof%20en%20bloeiwyses%2C%20a%2C%20Manie%20vd%20Schijff%20BT.jpg"
+    },
+    "bark": {
+      "title": "File:HarpephyllumCaffrum PerthBG-20171218-2.jpg",
+      "author": "User:Zenwort",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AHarpephyllumCaffrum%20PerthBG-20171218-2.jpg"
     }
   },
   "hesperocyparis-macrocarpa": {
@@ -3438,6 +4460,13 @@
       "license": "cc0",
       "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AHesperocyparis%20macrocarpa%20Berkeley%20Aquatic%20park%20leaf%20detail.jpg"
+    },
+    "bark": {
+      "title": "File:Hesperocyparis macrocarpa Berkeley Aquatic park bark detail.jpg",
+      "author": "Awinch1001",
+      "license": "cc0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AHesperocyparis%20macrocarpa%20Berkeley%20Aquatic%20park%20bark%20detail.jpg"
     }
   },
   "hesperotropsis-leylandii": {
@@ -3447,10 +4476,24 @@
       "license": "cc by 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3ACupressocyparis%20leylandii%20%27Castlewellan%20Gold%27%20gold%20leafs.jpg"
+    },
+    "bark": {
+      "title": "File:Cupressocyparis leylandii.jpg",
+      "author": "W.Baumgartner",
+      "license": "cc by-sa 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ACupressocyparis%20leylandii.jpg"
     }
   },
   "heteromeles-arbutifolia": {
     "leaf": {
+      "title": "File:2015-07-04-13.03.41 ZS PMax Heteromeles arbutifolia-1 (19413464092).jpg",
+      "author": "John Rusk from Berkeley, CA, United States of America",
+      "license": "cc by 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2015-07-04-13.03.41%20ZS%20PMax%20Heteromeles%20arbutifolia-1%20%2819413464092%29.jpg"
+    },
+    "bark": {
       "title": "File:2015-07-04-13.03.41 ZS PMax Heteromeles arbutifolia-1 (19413464092).jpg",
       "author": "John Rusk from Berkeley, CA, United States of America",
       "license": "cc by 2.0",
@@ -3465,6 +4508,13 @@
       "license": "cc by-sa 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AHymenosporum%20flavum%2C%20loof%20en%20vrugkapsules%2C%20Nieuw%20Muckleneuk.jpg"
+    },
+    "bark": {
+      "title": "File:Hymenosporum flavum, loof en vrugkapsules, Nieuw Muckleneuk.jpg",
+      "author": "JMK",
+      "license": "cc by-sa 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AHymenosporum%20flavum%2C%20loof%20en%20vrugkapsules%2C%20Nieuw%20Muckleneuk.jpg"
     }
   },
   "jacaranda-mimosifolia": {
@@ -3474,6 +4524,13 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AJacaranda%20leaves%20in%20Athens%20on%20August%204%2C%202023.jpg"
+    },
+    "bark": {
+      "title": "File:Starr 080417-4091 Jacaranda mimosifolia.jpg",
+      "author": "Forest &amp; Kim Starr",
+      "license": "cc by 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AStarr%20080417-4091%20Jacaranda%20mimosifolia.jpg"
     }
   },
   "koelreuteria-bipinnata": {
@@ -3483,10 +4540,24 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AHK%20%E9%A6%99%E6%B8%AF%E5%85%AC%E5%9C%92%20Hong%20Kong%20Park%20%E6%A4%8D%E7%89%A9%20%E6%A8%B9%E6%9C%A8%20plant%20tree%20green%20leaves%20December%202020%20SS2%2004.jpg"
+    },
+    "bark": {
+      "title": "File:Koelreuteria bipinnata, Morris Arboretum 01.jpg",
+      "author": "Shuvaev",
+      "license": "cc by 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AKoelreuteria%20bipinnata%2C%20Morris%20Arboretum%2001.jpg"
     }
   },
   "koelreuteria-elegans": {
     "leaf": {
+      "title": "File:Chinese-Golden-rain tree (Koelreuteria elegans), Sao Paulo Brazil.jpg",
+      "author": "mauroguanandi",
+      "license": "cc by 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AChinese-Golden-rain%20tree%20%28Koelreuteria%20elegans%29%2C%20Sao%20Paulo%20Brazil.jpg"
+    },
+    "bark": {
       "title": "File:Chinese-Golden-rain tree (Koelreuteria elegans), Sao Paulo Brazil.jpg",
       "author": "mauroguanandi",
       "license": "cc by 2.0",
@@ -3501,6 +4572,13 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3A%28MHNT%29%20Koelreuteria%20paniculata%20-Leaves%20and%20inflorescences%20-%20Palais%20Niel.jpg"
+    },
+    "bark": {
+      "title": "File:KoelreuteriaPaniculataBark.jpg",
+      "author": "Chhe (talk)",
+      "license": "public domain",
+      "licenseUrl": "",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AKoelreuteriaPaniculataBark.jpg"
     }
   },
   "lagerstroemia-fauriei": {
@@ -3510,6 +4588,13 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2026-04-21%2015%2036%2030%20Leaf%20mortality%20on%20an%20Muskogee%20Crape%20Myrtle%20after%20a%20record%20cold%20morning%20along%20Aquetong%20Lane%20in%20the%20Mountainview%20section%20of%20Ewing%20Township%2C%20Mercer%20County%2C%20New%20Jersey.jpg"
+    },
+    "bark": {
+      "title": "File:Lagerstroemia fauriei 0zz.jpg",
+      "author": "Photo by David J. Stang",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ALagerstroemia%20fauriei%200zz.jpg"
     }
   },
   "lagerstroemia-indica": {
@@ -3519,6 +4604,13 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2023-04-29%2014%2054%2052%20Red-leaf%20barberry%2C%20an%20Enduring%20Red%20Crape%20Myrtle%20and%20an%20Infinitini%20Orchid%20Crape%20Myrtle%20leafing%20out%20in%20spring%20along%20Aquetong%20Lane%20in%20the%20Mountainview%20section%20of%20Ewing%20Township%2C%20Mercer%20County%2C%20New%20Jersey.jpg"
+    },
+    "bark": {
+      "title": "File:(MHNT) Lagerstroemia indica - Bark in winter.jpg",
+      "author": "Didier Descouens",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A%28MHNT%29%20Lagerstroemia%20indica%20-%20Bark%20in%20winter.jpg"
     }
   },
   "lagunaria-patersonia": {
@@ -3528,6 +4620,13 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3ALagunaria%20patersonia%205Dsr%203730.jpg"
+    },
+    "bark": {
+      "title": "File:Lagunaria patersonia-bark.jpg",
+      "author": "No machine-readable author provided. Eug assumed (based on copyright claims).",
+      "license": "cc by-sa 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ALagunaria%20patersonia-bark.jpg"
     }
   },
   "laurus-nobilis": {
@@ -3537,10 +4636,24 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3ABay%20Leaves%20Lauris%20nobilis.jpg"
+    },
+    "bark": {
+      "title": "File:Dafinë (Albanian); Laurus nobilis (Latin); Bay laurel (English) - Butrint National Park, Albania.jpg",
+      "author": "A.A",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ADafin%C3%AB%20%28Albanian%29%3B%20Laurus%20nobilis%20%28Latin%29%3B%20Bay%20laurel%20%28English%29%20-%20Butrint%20National%20Park%2C%20Albania.jpg"
     }
   },
   "leptospermum-laevigatum": {
     "leaf": {
+      "title": "File:Leptospermum laevigatum (7081144943).jpg",
+      "author": "Akos Kokai",
+      "license": "cc by 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ALeptospermum%20laevigatum%20%287081144943%29.jpg"
+    },
+    "bark": {
       "title": "File:Leptospermum laevigatum (7081144943).jpg",
       "author": "Akos Kokai",
       "license": "cc by 2.0",
@@ -3555,6 +4668,13 @@
       "license": "cc by-sa 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AWax-leaf%20privet%20%28Ligustrum%20japonicum%29%20in%20Athens%20on%20May%2011%2C%202023.jpg"
+    },
+    "bark": {
+      "title": "File:Ligustrum japonicum--PHOTO 20170512 131047.jpg",
+      "author": "Sun Jiao (Interaccoonale)",
+      "license": "cc by 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ALigustrum%20japonicum--PHOTO%2020170512%20131047.jpg"
     }
   },
   "lophostemon-confertus": {
@@ -3564,6 +4684,13 @@
       "license": "cc0",
       "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3ALophostemon%20confertus%20leaves%20Emeryville%203.jpg"
+    },
+    "bark": {
+      "title": "File:L. confertus bark.jpg",
+      "author": "OBonney",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AL.%20confertus%20bark.jpg"
     }
   },
   "lyonothamnus-floribundus": {
@@ -3573,6 +4700,13 @@
       "license": "cc by 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AE20160923-0003%E2%80%94Lyonothamnus%20floribundus%20ssp.%20aspleniifolius%E2%80%94RPBG%20%2829589438490%29.jpg"
+    },
+    "bark": {
+      "title": "File:Lyonothamnus floribundus subsp. aspleniifolius (14996519818).jpg",
+      "author": "Leonora (Ellie) Enking from East Preston, United Kingdom",
+      "license": "cc by-sa 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ALyonothamnus%20floribundus%20subsp.%20aspleniifolius%20%2814996519818%29.jpg"
     }
   },
   "macadamia-integrifolia": {
@@ -3582,6 +4716,13 @@
       "license": "cc by 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AStarr%20080715-9227%20Macadamia%20integrifolia.jpg"
+    },
+    "bark": {
+      "title": "File:Jeune pousse de Macadamia integrifolia.jpg",
+      "author": "MAJOIE SANDRINE",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AJeune%20pousse%20de%20Macadamia%20integrifolia.jpg"
     }
   },
   "magnolia-denudata": {
@@ -3591,6 +4732,13 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AMagnolia%20denudata%20-%20leaves%20-%20Orto%20e%20Museo%20Botanico%20di%20Pisa%20-%202024-09-30%2017-00-34%20002.jpg"
+    },
+    "bark": {
+      "title": "File:Yulan Magnolia Magnolia denudata Bark Horizontal.JPG",
+      "author": "Photo by and (c)2016 Derek Ramsey (Ram-Man)",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AYulan%20Magnolia%20Magnolia%20denudata%20Bark%20Horizontal.JPG"
     }
   },
   "magnolia-grandiflora": {
@@ -3600,6 +4748,13 @@
       "license": "public domain",
       "licenseUrl": "",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AMagnolia-leaf-bud.jpg"
+    },
+    "bark": {
+      "title": "File:2021-03-04 11 30 59 Southern Magnolia bark along Indale Court in the Franklin Farm section of Oak Hill, Fairfax County, Virginia.jpg",
+      "author": "Famartin",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2021-03-04%2011%2030%2059%20Southern%20Magnolia%20bark%20along%20Indale%20Court%20in%20the%20Franklin%20Farm%20section%20of%20Oak%20Hill%2C%20Fairfax%20County%2C%20Virginia.jpg"
     }
   },
   "magnolia-soulangeana": {
@@ -3609,6 +4764,13 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2023-05-14%2013%2030%2013%20A%20Saucer%20Magnolia%20leafing%20out%20in%20spring%20within%20Ann%20M.%20Banchoff%20Park%20in%20the%20Mountainview%20section%20of%20Ewing%20Township%2C%20Mercer%20County%2C%20New%20Jersey.jpg"
+    },
+    "bark": {
+      "title": "File:2021-02-25 18 52 50 Saucer Magnolia bark at the Franklin Farm Village Shopping Center in the Franklin Farm section of Oak Hill, Fairfax County, Virginia.jpg",
+      "author": "Famartin",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2021-02-25%2018%2052%2050%20Saucer%20Magnolia%20bark%20at%20the%20Franklin%20Farm%20Village%20Shopping%20Center%20in%20the%20Franklin%20Farm%20section%20of%20Oak%20Hill%2C%20Fairfax%20County%2C%20Virginia.jpg"
     }
   },
   "magnolia-liliiflora": {
@@ -3618,6 +4780,13 @@
       "license": "cc by-sa 3.0",
       "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AMagnolia%20liliiflora%20Leaves.jpg"
+    },
+    "bark": {
+      "title": "File:Magnolia liliiflora 'Nigra' in Jardin des Plantes, Paris 01.jpg",
+      "author": "Moonik",
+      "license": "cc by-sa 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AMagnolia%20liliiflora%20%27Nigra%27%20in%20Jardin%20des%20Plantes%2C%20Paris%2001.jpg"
     }
   },
   "malus-floribunda": {
@@ -3627,6 +4796,13 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AStellwaag%2000475a01.jpg"
+    },
+    "bark": {
+      "title": "File:Malus floribunda 5zz.jpg",
+      "author": "Photo by David J. Stang",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AMalus%20floribunda%205zz.jpg"
     }
   },
   "mangifera-indica": {
@@ -3636,6 +4812,13 @@
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3ALeaves%20of%20Mangifera%20indica%20%28Indian%20mango%20tree%29.jpg"
+    },
+    "bark": {
+      "title": "File:(Mangifera indica) Tree bark view at Kambalakonda.JPG",
+      "author": "Adityamadhav83",
+      "license": "cc by-sa 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A%28Mangifera%20indica%29%20Tree%20bark%20view%20at%20Kambalakonda.JPG"
     }
   },
   "markhamia-lutea": {
@@ -3645,10 +4828,24 @@
       "license": "cc by-sa 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AMarkhamia%20lutea%20leaves%20at%20Secunderabad%20W%20IMG%206691.jpg"
+    },
+    "bark": {
+      "title": "File:Markhamia lutea (3438748038).jpg",
+      "author": "Dinesh Valke from Thane, India",
+      "license": "cc by-sa 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AMarkhamia%20lutea%20%283438748038%29.jpg"
     }
   },
   "maytenus-boaria": {
     "leaf": {
+      "title": "File:Maytenus boaria - Jardín Botánico de Barcelona - Barcelona, Spain - DSC09301.JPG",
+      "author": "Daderot",
+      "license": "cc0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AMaytenus%20boaria%20-%20Jard%C3%ADn%20Bot%C3%A1nico%20de%20Barcelona%20-%20Barcelona%2C%20Spain%20-%20DSC09301.JPG"
+    },
+    "bark": {
       "title": "File:Maytenus boaria - Jardín Botánico de Barcelona - Barcelona, Spain - DSC09301.JPG",
       "author": "Daderot",
       "license": "cc0",
@@ -3663,6 +4860,13 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AMelaleuca%20July%202026-2.jpg"
+    },
+    "bark": {
+      "title": "File:Melaleuca July 2026-2.jpg",
+      "author": "Alvesgaspar",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AMelaleuca%20July%202026-2.jpg"
     }
   },
   "melaleuca-ericifolia": {
@@ -3672,6 +4876,13 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AAspalathus%20ericifolia%20ssp.%20ericifolia.jpg"
+    },
+    "bark": {
+      "title": "File:Swamp Paperbark beside a swamp (6256968493).jpg",
+      "author": "John Tann from Sydney, Australia",
+      "license": "cc by 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ASwamp%20Paperbark%20beside%20a%20swamp%20%286256968493%29.jpg"
     }
   },
   "melaleuca-linariifolia": {
@@ -3681,10 +4892,24 @@
       "license": "cc by 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AJ20150602-0025%E2%80%94Melaleuca%20linariifolia%E2%80%94Albany%20%2817846363604%29.jpg"
+    },
+    "bark": {
+      "title": "File:Melaleuca linariifolia bark.jpg",
+      "author": "Ethel Aardvark",
+      "license": "cc by 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AMelaleuca%20linariifolia%20bark.jpg"
     }
   },
   "melaleuca-nesophila": {
     "leaf": {
+      "title": "File:Insel-Myrtenheide.jpg",
+      "author": "Uwe Thobae",
+      "license": "cc by-sa 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AInsel-Myrtenheide.jpg"
+    },
+    "bark": {
       "title": "File:Insel-Myrtenheide.jpg",
       "author": "Uwe Thobae",
       "license": "cc by-sa 3.0",
@@ -3699,6 +4924,13 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AMelaleuca%20quinquenervia%20foliage%20Wallum%20heath%20near%20Lake%20Ainsworth%20Lennox%20Head%20New%20South%20Wales%20IMG%200006.jpg"
+    },
+    "bark": {
+      "title": "File:(85) Paperbark.jpg",
+      "author": "Fir0002 (talk) (Uploads)",
+      "license": "cc by-sa 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A%2885%29%20Paperbark.jpg"
     }
   },
   "melaleuca-styphelioides": {
@@ -3708,6 +4940,13 @@
       "license": "cc0",
       "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AMelaleuca%20Styphelioides%2C%20Botanic%20Gardens%28GN12423%29.jpg"
+    },
+    "bark": {
+      "title": "File:Paperbark bark (5602722460).jpg",
+      "author": "John Tann from Sydney, Australia",
+      "license": "cc by 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3APaperbark%20bark%20%285602722460%29.jpg"
     }
   },
   "melia-azedarach": {
@@ -3717,6 +4956,13 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AMelia%20azedarach%20doubly%20imparipinnate%20compound%20leaf%20IMG%202096c.jpg"
+    },
+    "bark": {
+      "title": "File:Melia azedarach trunk bark 02.JPG",
+      "author": "Harlock81",
+      "license": "cc by-sa 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AMelia%20azedarach%20trunk%20bark%2002.JPG"
     }
   },
   "metasequoia-glyptostroboides": {
@@ -3726,6 +4972,13 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2023-11-11%2012%2052%2004%20Dawn%20Redwood%20needles%20changing%20color%20in%20autumn%20along%20Delaware%20Avenue%20in%20the%20Mountainview%20section%20of%20Ewing%20Township%2C%20Mercer%20County%2C%20New%20Jersey.jpg"
+    },
+    "bark": {
+      "title": "File:2021-03-04 10 29 27 Dawn Redwood bark along Old Dairy Road in the Franklin Farm section of Oak Hill, Fairfax County, Virginia.jpg",
+      "author": "Famartin",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2021-03-04%2010%2029%2027%20Dawn%20Redwood%20bark%20along%20Old%20Dairy%20Road%20in%20the%20Franklin%20Farm%20section%20of%20Oak%20Hill%2C%20Fairfax%20County%2C%20Virginia.jpg"
     }
   },
   "metrosideros-excelsa": {
@@ -3735,6 +4988,13 @@
       "license": "cc0",
       "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3ADense%20foliage%20of%20P%C5%8Dhutukawa%20%28Metrosideros%20excelsa%29.jpg"
+    },
+    "bark": {
+      "title": "File:An infloresence of pōhutukawa (Metrosideros excella).jpg",
+      "author": "William Harland",
+      "license": "cc by 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AAn%20infloresence%20of%20p%C5%8Dhutukawa%20%28Metrosideros%20excella%29.jpg"
     }
   },
   "michelia-doltsopa": {
@@ -3744,6 +5004,13 @@
       "license": "cc by-sa 3.0",
       "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AVein%20skeleton%20of%20a%20leaf.JPG"
+    },
+    "bark": {
+      "title": "File:Madeira, Palheiro Gardens - Michelia doltsopa IMG 2213.JPG",
+      "author": "Hedwig Storch",
+      "license": "cc by-sa 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AMadeira%2C%20Palheiro%20Gardens%20-%20Michelia%20doltsopa%20IMG%202213.JPG"
     }
   },
   "morus-alba": {
@@ -3753,6 +5020,13 @@
       "license": "cc by 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AMorus%20alba-leaves.jpg"
+    },
+    "bark": {
+      "title": "File:2024-12-06 12 08 34 White Mulberry bark along Willis Drive in the Mountainview section of Ewing Township, Mercer County, New Jersey.jpg",
+      "author": "Famartin",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2024-12-06%2012%2008%2034%20White%20Mulberry%20bark%20along%20Willis%20Drive%20in%20the%20Mountainview%20section%20of%20Ewing%20Township%2C%20Mercer%20County%2C%20New%20Jersey.jpg"
     }
   },
   "morus-nigra": {
@@ -3762,6 +5036,13 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AMorus%20nigra%20-%20Leaf%20upside.jpg"
+    },
+    "bark": {
+      "title": "File:Morus nigra (13).jpg",
+      "author": "Marija Gajić",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AMorus%20nigra%20%2813%29.jpg"
     }
   },
   "myoporum-laetum": {
@@ -3771,6 +5052,13 @@
       "license": "cc by-sa 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3ANgaio%20leaf%20%28Myoporum%20laetum%29%2C%20backlit.jpg"
+    },
+    "bark": {
+      "title": "File:Myoporum laetum - Palmengarten Frankfurt - DSC01919.JPG",
+      "author": "Daderot",
+      "license": "cc0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AMyoporum%20laetum%20-%20Palmengarten%20Frankfurt%20-%20DSC01919.JPG"
     }
   },
   "nerium-oleander": {
@@ -3780,6 +5068,13 @@
       "license": "cc by-sa 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3A20080211%20Chelsea%20Damselfly%20On%20Oleander%20Leaf.jpg"
+    },
+    "bark": {
+      "title": "File:Nerium oleander (oleander).jpg",
+      "author": "Kiruthikapalani",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ANerium%20oleander%20%28oleander%29.jpg"
     }
   },
   "nolina-recurvata": {
@@ -3798,10 +5093,24 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AOlive%20leaf.jpg"
+    },
+    "bark": {
+      "title": "File:The epiphytic association Lecanoretum carpineae on the bark of Olea europaea.jpg",
+      "author": "Industrees",
+      "license": "cc0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AThe%20epiphytic%20association%20Lecanoretum%20carpineae%20on%20the%20bark%20of%20Olea%20europaea.jpg"
     }
   },
   "parkinsonia-aculeata": {
     "leaf": {
+      "title": "File:Parkinsonia aculeata (2023).jpg",
+      "author": "sonnia hill",
+      "license": "cc by 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AParkinsonia%20aculeata%20%282023%29.jpg"
+    },
+    "bark": {
       "title": "File:Parkinsonia aculeata (2023).jpg",
       "author": "sonnia hill",
       "license": "cc by 2.0",
@@ -3816,6 +5125,13 @@
       "license": "cc by-sa 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3ACercidium%20floridum%20whole.jpg"
+    },
+    "bark": {
+      "title": "File:Parkinsonia florida—bark.jpg",
+      "author": "KATHERINE WAGNER-REISS",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AParkinsonia%20florida%E2%80%94bark.jpg"
     }
   },
   "parkinsonia-microphylla": {
@@ -3825,6 +5141,13 @@
       "license": "cc by-sa 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AParkinsonia%20microphylla%20leaves.jpg"
+    },
+    "bark": {
+      "title": "File:Parkinsonia (Cercidium) microphyllum - bark.JPG",
+      "author": "Rosser1954",
+      "license": "cc by-sa 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AParkinsonia%20%28Cercidium%29%20microphyllum%20-%20bark.JPG"
     }
   },
   "parrotia-persica": {
@@ -3834,6 +5157,13 @@
       "license": "cc by-sa 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3A0%20Parrotia%20persica%20-%20Parc%20de%20Mariemont%20%281%29.JPG"
+    },
+    "bark": {
+      "title": "File:Bark of Parrotia.JPG",
+      "author": "Hans G. Oberlack",
+      "license": "cc by-sa 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ABark%20of%20Parrotia.JPG"
     }
   },
   "paulownia-tomentosa": {
@@ -3843,6 +5173,13 @@
       "license": "cc by 2.5",
       "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3APaulowniaFortuneiLeaf.jpg"
+    },
+    "bark": {
+      "title": "File:2024-10-07 14 14 56 Royal Empress Tree bark along the \"Giant Stairs\" section of the Shore Trail within Palisades Interstate Park in Alpine, Bergen County, New Jersey.jpg",
+      "author": "Famartin",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2024-10-07%2014%2014%2056%20Royal%20Empress%20Tree%20bark%20along%20the%20%22Giant%20Stairs%22%20section%20of%20the%20Shore%20Trail%20within%20Palisades%20Interstate%20Park%20in%20Alpine%2C%20Bergen%20County%2C%20New%20Jersey.jpg"
     }
   },
   "persea-americana": {
@@ -3852,6 +5189,13 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AAvocado%20leaves.JPG"
+    },
+    "bark": {
+      "title": "File:Alpukat mentega Persea americana var. guatemalensis.jpg",
+      "author": "Lalalalabpi",
+      "license": "cc by 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AAlpukat%20mentega%20Persea%20americana%20var.%20guatemalensis.jpg"
     }
   },
   "phoenix-canariensis": {
@@ -3897,6 +5241,13 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3ALightlight%20with%20Cycas%20revoluta%20and%20photinia%20serrulata%20in%20front%20of%20office%20of%20Miyajidake%20Shrine.JPG"
+    },
+    "bark": {
+      "title": "File:Lightlight with Cycas revoluta and photinia serrulata in front of office of Miyajidake Shrine.JPG",
+      "author": "そらみみ (Soramimi)",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ALightlight%20with%20Cycas%20revoluta%20and%20photinia%20serrulata%20in%20front%20of%20office%20of%20Miyajidake%20Shrine.JPG"
     }
   },
   "pinus-canariensis": {
@@ -3906,10 +5257,24 @@
       "license": "cc by-sa 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3APinus%20canariensis%20-%20needles%20%28Jard%C3%ADn%20Bot%C3%A1nico%20Canario%20Viera%20y%20Clavijo%29.jpg"
+    },
+    "bark": {
+      "title": "File:P.canariensis-bark-1.jpg",
+      "author": "Philmarin",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AP.canariensis-bark-1.jpg"
     }
   },
   "pinus-eldarica": {
     "leaf": {
+      "title": "File:Pinus brutia var eldarica kz1.jpg",
+      "author": "Krzysztof Ziarnek, Kenraiz",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3APinus%20brutia%20var%20eldarica%20kz1.jpg"
+    },
+    "bark": {
       "title": "File:Pinus brutia var eldarica kz1.jpg",
       "author": "Krzysztof Ziarnek, Kenraiz",
       "license": "cc by-sa 4.0",
@@ -3924,6 +5289,13 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3ABrown%20needles%20from%20Pinus%20halepensis%20at%20the%20Mediterranean%20coast%20in%20Catalonia.jpg"
+    },
+    "bark": {
+      "title": "File:P. halepensis-bark-1.jpg",
+      "author": "Philmarin",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AP.%20halepensis-bark-1.jpg"
     }
   },
   "pinus-mugo": {
@@ -3933,6 +5305,13 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2019-04-25%2013%2006%2049%20New%20needles%20in%20spring%20on%20a%20Mugo%20Pine%20along%20Tranquility%20Court%20in%20the%20Franklin%20Farm%20section%20of%20Oak%20Hill%2C%20Fairfax%20County%2C%20Virginia.jpg"
+    },
+    "bark": {
+      "title": "File:Pinus mugo subsp. uncinata Sosna hakowata 2013-08-11 01.jpg",
+      "author": "Agnieszka Kwiecień, Nova",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3APinus%20mugo%20subsp.%20uncinata%20Sosna%20hakowata%202013-08-11%2001.jpg"
     }
   },
   "pinus-nigra": {
@@ -3942,10 +5321,24 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2014-12-18%2009%2000%2059%20Rime%20on%20pine%20needles%20after%20freezing%20fog%20in%20Elko%2C%20Nevada.JPG"
+    },
+    "bark": {
+      "title": "File:Austrian Pine Pinus nigra Bark Closeup 2000px.jpg",
+      "author": "Photo (c)2007 Derek Ramsey (Ram-Man)",
+      "license": "cc by-sa 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AAustrian%20Pine%20Pinus%20nigra%20Bark%20Closeup%202000px.jpg"
     }
   },
   "pinus-patula": {
     "leaf": {
+      "title": "File:Pinus patula-1-post office-yercaud-salem-India.JPG",
+      "author": "Yercaud-elango",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3APinus%20patula-1-post%20office-yercaud-salem-India.JPG"
+    },
+    "bark": {
       "title": "File:Pinus patula-1-post office-yercaud-salem-India.JPG",
       "author": "Yercaud-elango",
       "license": "cc by-sa 4.0",
@@ -3960,6 +5353,13 @@
       "license": "public domain",
       "licenseUrl": "",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3APinus%20pinea%20needles%202009-11-22%20DehesaBoyaldePuertollano.jpg"
+    },
+    "bark": {
+      "title": "File:Bark details, Pinus pinea.jpg",
+      "author": "Zeynel Cebeci",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ABark%20details%2C%20Pinus%20pinea.jpg"
     }
   },
   "pinus-ponderosa": {
@@ -3969,6 +5369,13 @@
       "license": "cc by 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3APinus%20ponderosa%20%28ponderosa%20pine%29%209%20%2825571184588%29.jpg"
+    },
+    "bark": {
+      "title": "File:Pinus Ponderosa tree bark 1.jpg",
+      "author": "Spiritia",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3APinus%20Ponderosa%20tree%20bark%201.jpg"
     }
   },
   "pinus-radiata": {
@@ -3978,6 +5385,13 @@
       "license": "cc by 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3APeru%20-%20Cusco%20Trekking%20006%20-%20needles%20%287094764465%29.jpg"
+    },
+    "bark": {
+      "title": "File:Monterey pine trunk, Burnside Escarpment.jpg",
+      "author": "Bjankuloski06",
+      "license": "cc by 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AMonterey%20pine%20trunk%2C%20Burnside%20Escarpment.jpg"
     }
   },
   "pinus-thunbergii": {
@@ -3987,6 +5401,13 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2021-03-08%2013%2055%2026%20Needles%20on%20a%20small%20pine%20tree%20on%20the%20edge%20of%20Franklin%20Farm%20Park%20in%20the%20Franklin%20Farm%20section%20of%20Oak%20Hill%2C%20Fairfax%20County%2C%20Virginia.jpg"
+    },
+    "bark": {
+      "title": "File:Bark of Pinus thunbergii.jpg",
+      "author": "Geographer",
+      "license": "cc by-sa 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ABark%20of%20Pinus%20thunbergii.jpg"
     }
   },
   "pinus-torreyana": {
@@ -3996,6 +5417,13 @@
       "license": "cc0",
       "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3APinus%20torreyana%20Berkeley%20Aquatic%20Park%205%20Needles.jpg"
+    },
+    "bark": {
+      "title": "File:Torrey Pine Bark Mature.jpg",
+      "author": "Micahbendicion",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ATorrey%20Pine%20Bark%20Mature.jpg"
     }
   },
   "pistacia-chinensis": {
@@ -4005,6 +5433,13 @@
       "license": "CC BY-SA 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3APistacia%20chinensis%20%28Anacardiaceae%29%20%28leaves%29.JPG"
+    },
+    "bark": {
+      "title": "File:Pistacia chinensis bark.jpg",
+      "author": "Nadiatalent",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3APistacia%20chinensis%20bark.jpg"
     }
   },
   "pistacia-vera": {
@@ -4014,6 +5449,13 @@
       "license": "cc by-sa 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3APistacia%20vera%20%28Pistachio%29%20leaves%20in%20RDA%2C%20Bogra.jpg"
+    },
+    "bark": {
+      "title": "File:Antepfıstığı - Pistacia vera 01.jpg",
+      "author": "Zeynel Cebeci",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AAntepf%C4%B1st%C4%B1%C4%9F%C4%B1%20-%20Pistacia%20vera%2001.jpg"
     }
   },
   "pittosporum-angustifolium": {
@@ -4023,10 +5465,24 @@
       "license": "cc by 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3APittosporum%20angustifolium%20leaf%20%2815301462303%29.jpg"
+    },
+    "bark": {
+      "title": "File:Pittosporum angustifolium bark (15733818020).jpg",
+      "author": "John Tann from Sydney, Australia",
+      "license": "cc by 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3APittosporum%20angustifolium%20bark%20%2815733818020%29.jpg"
     }
   },
   "pittosporum-crassifolium": {
     "leaf": {
+      "title": "File:Pittosporum crassifolium 11.jpg",
+      "author": "Krzysztof Golik",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3APittosporum%20crassifolium%2011.jpg"
+    },
+    "bark": {
       "title": "File:Pittosporum crassifolium 11.jpg",
       "author": "Krzysztof Golik",
       "license": "cc by-sa 4.0",
@@ -4041,10 +5497,24 @@
       "license": "cc by 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AClose%20up%20of%20lemonwood%20leaves%20with%20black%20background.jpg"
+    },
+    "bark": {
+      "title": "File:Pittosporum eugenioides in Christchurch Botanic Gardens.jpg",
+      "author": "Krzysztof Golik",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3APittosporum%20eugenioides%20in%20Christchurch%20Botanic%20Gardens.jpg"
     }
   },
   "pittosporum-rhombifolium": {
     "leaf": {
+      "title": "File:Pittosporum rhombifolium and Araucaria cuninghamii OReillys Guesthouse Lamington National Park Queensland P1310345.jpg",
+      "author": "John Robert McPherson",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3APittosporum%20rhombifolium%20and%20Araucaria%20cuninghamii%20OReillys%20Guesthouse%20Lamington%20National%20Park%20Queensland%20P1310345.jpg"
+    },
+    "bark": {
       "title": "File:Pittosporum rhombifolium and Araucaria cuninghamii OReillys Guesthouse Lamington National Park Queensland P1310345.jpg",
       "author": "John Robert McPherson",
       "license": "cc by-sa 4.0",
@@ -4059,6 +5529,13 @@
       "license": "cc by-sa 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3APittosporum%20tenuifolium%20foliage.jpg"
+    },
+    "bark": {
+      "title": "File:Pittosporum tenuifolium 'Irene Paterson' IMG 1947.jpg",
+      "author": "Don McCulley",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3APittosporum%20tenuifolium%20%27Irene%20Paterson%27%20IMG%201947.jpg"
     }
   },
   "pittosporum-tobira": {
@@ -4068,6 +5545,13 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3ALeaf%20of%20Japanese%20Cheesewood.jpg"
+    },
+    "bark": {
+      "title": "File:Hedge Pittosporum tobira July 2026-1.jpg",
+      "author": "Alvesgaspar",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AHedge%20Pittosporum%20tobira%20July%202026-1.jpg"
     }
   },
   "platanus-acerifolia": {
@@ -4077,6 +5561,13 @@
       "license": "cc by-sa 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3ALondon%20Plane%20trees%20%28Platanus%20%C3%97%20acerifolia%29.jpg"
+    },
+    "bark": {
+      "title": "File:Bark of a London Plane (Platanus × acerifolia) - geograph.org.uk - 3019538.jpg",
+      "author": "David Lally",
+      "license": "cc by-sa 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ABark%20of%20a%20London%20Plane%20%28Platanus%20%C3%97%20acerifolia%29%20-%20geograph.org.uk%20-%203019538.jpg"
     }
   },
   "platanus-mexicana": {
@@ -4086,6 +5577,13 @@
       "license": "cc by 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3APlatanus%20mexicana.jpg"
+    },
+    "bark": {
+      "title": "File:Ejemplares de Platanus mexicana (álamo blanco) en la Sierra Gorda de Querétaro.jpg",
+      "author": "Juan Carlos Fonseca Mata",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AEjemplares%20de%20Platanus%20mexicana%20%28%C3%A1lamo%20blanco%29%20en%20la%20Sierra%20Gorda%20de%20Quer%C3%A9taro.jpg"
     }
   },
   "platanus-racemosa": {
@@ -4095,6 +5593,13 @@
       "license": "cc0",
       "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3APlatanus%20racemosa%20leaves%20Stanta%20Barbara%20Botanical%20Garden%204.jpg"
+    },
+    "bark": {
+      "title": "File:Sunol Preserve Platanus Racemosa bark.jpg",
+      "author": "Awinch1001",
+      "license": "cc0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ASunol%20Preserve%20Platanus%20Racemosa%20bark.jpg"
     }
   },
   "podocarpus-macrophyllus": {
@@ -4104,6 +5609,13 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3APodocarpus%20macrophyllus%20%28leaf%20young%29.jpg"
+    },
+    "bark": {
+      "title": "File:(Podocarpus macrophyllus close-up in Ashiya, Japan) - DPLA - 19c033cfcfad66bf94eb00f1073e740f.jpg",
+      "author": "Carlquist, Sherwin John, 1930-2021",
+      "license": "cc by 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A%28Podocarpus%20macrophyllus%20close-up%20in%20Ashiya%2C%20Japan%29%20-%20DPLA%20-%2019c033cfcfad66bf94eb00f1073e740f.jpg"
     }
   },
   "populus-nigra-italica": {
@@ -4113,6 +5625,13 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3APopulus%20nigra%20leaf%20scar.jpg"
+    },
+    "bark": {
+      "title": "File:Populus nigra bark.jpg",
+      "author": "Димитър Найденов / Dimìtar Nàydenov",
+      "license": "cc by-sa 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3APopulus%20nigra%20bark.jpg"
     }
   },
   "prunus-campanulata": {
@@ -4122,10 +5641,24 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AHK%20%E4%B8%AD%E7%92%B0%20Central%20%E9%A6%99%E6%B8%AF%E5%8B%95%E6%A4%8D%E7%89%A9%E5%85%AC%E5%9C%92%20Zoological%20and%20Botanical%20Gardens%20flora%20green%20leaves%20April%202020%20SS2%2080.jpg"
+    },
+    "bark": {
+      "title": "File:Biology (10.3897-zookeys.861.34387) Figures 9–12.jpg",
+      "author": "Liang J-Y, Hsu Y-F (2019) Two new species of the tribe Synanthedonini (Lepidoptera, Sesiidae), with new hostplant associations from Taiwan. ZooKeys 861: 81-90. https://doi.org/10.3897/zookeys.861.34387",
+      "license": "cc by 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ABiology%20%2810.3897-zookeys.861.34387%29%20Figures%209%E2%80%9312.jpg"
     }
   },
   "prunus-caroliniana": {
     "leaf": {
+      "title": "File:Cherry laurel (24954238841).jpg",
+      "author": "Melissa McMasters from Memphis, TN, United States",
+      "license": "cc by 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ACherry%20laurel%20%2824954238841%29.jpg"
+    },
+    "bark": {
       "title": "File:Cherry laurel (24954238841).jpg",
       "author": "Melissa McMasters from Memphis, TN, United States",
       "license": "cc by 2.0",
@@ -4140,6 +5673,13 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3A-Prunus%20cerasifera%20-leaf%20-photography%20-Greenary%20-garden%20-%20Rainny%20season.jpg"
+    },
+    "bark": {
+      "title": "File:20140110Prunus cerasifera Reilingen5.jpg",
+      "author": "AnRo0002",
+      "license": "cc0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A20140110Prunus%20cerasifera%20Reilingen5.jpg"
     }
   },
   "prunus-ilicifolia": {
@@ -4149,6 +5689,13 @@
       "license": "cc0",
       "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AHollyleaf%20Cherry%20-%20Elfin%20Forest.jpg"
+    },
+    "bark": {
+      "title": "File:H20090606-0885--Prunus ilicifolia--RPBG (14293000044).jpg",
+      "author": "John Rusk from Berkeley, CA, United States of America",
+      "license": "cc by 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AH20090606-0885--Prunus%20ilicifolia--RPBG%20%2814293000044%29.jpg"
     }
   },
   "prunus-laurocerasus": {
@@ -4158,6 +5705,13 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3ALorbeerkirsch-Blatt%20mit%20Schrotschusskrankheit.jpg"
+    },
+    "bark": {
+      "title": "File:(MHNT) Prunus laurocerasus inflorescence - Bouloc France.jpg",
+      "author": "Didier Descouens",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A%28MHNT%29%20Prunus%20laurocerasus%20inflorescence%20-%20Bouloc%20France.jpg"
     }
   },
   "prunus-lusitanica": {
@@ -4167,6 +5721,13 @@
       "license": "cc by-sa 3.0",
       "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3APrunus-lusitanica-leaves.JPG"
+    },
+    "bark": {
+      "title": "File:Prunus-lusitanica-20190502a.jpg",
+      "author": "Luis Fernández García",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3APrunus-lusitanica-20190502a.jpg"
     }
   },
   "prunus-serrulata": {
@@ -4176,6 +5737,13 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3A-2019-11-16%20Autumn%20leafs%20in%20Trimingham.JPG"
+    },
+    "bark": {
+      "title": "File:2021-02-23 16 45 00 Kanzan Cherry bark along Tranquility Court in the Franklin Farm section of Oak Hill, Fairfax County, Virginia.jpg",
+      "author": "Famartin",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2021-02-23%2016%2045%2000%20Kanzan%20Cherry%20bark%20along%20Tranquility%20Court%20in%20the%20Franklin%20Farm%20section%20of%20Oak%20Hill%2C%20Fairfax%20County%2C%20Virginia.jpg"
     }
   },
   "pyrus-calleryana": {
@@ -4185,6 +5753,13 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2024-12-07%2011%2010%2016%20Callery%20Pear%20leaf%20changing%20color%20in%20late%20autumn%20along%20Mercer%20County%20Route%20579%20%28Bear%20Tavern%20Road%29%20in%20the%20Mountainview%20section%20of%20Ewing%20Township%2C%20Mercer%20County%2C%20New%20Jersey.jpg"
+    },
+    "bark": {
+      "title": "File:(MAD) P. calleryana -bark-1.jpg",
+      "author": "Philmarin",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A%28MAD%29%20P.%20calleryana%20-bark-1.jpg"
     }
   },
   "quercus-agrifolia": {
@@ -4194,6 +5769,13 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AQuercus%20agrifolia%20leaf%20top%20side.png"
+    },
+    "bark": {
+      "title": "File:Quercus agrifolia bark Berkeley hills 3.jpg",
+      "author": "Awinch1001",
+      "license": "cc0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AQuercus%20agrifolia%20bark%20Berkeley%20hills%203.jpg"
     }
   },
   "quercus-chrysolepis": {
@@ -4203,6 +5785,13 @@
       "license": "cc by-sa 3.0",
       "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3ABlue%20and%20Live%20oak%20leaf%20clusters.jpg"
+    },
+    "bark": {
+      "title": "File:Canyon live oak in uvas canyon.jpg",
+      "author": "Wahn",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ACanyon%20live%20oak%20in%20uvas%20canyon.jpg"
     }
   },
   "quercus-douglasii": {
@@ -4212,6 +5801,13 @@
       "license": "cc by-sa 3.0",
       "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3ABlue%20and%20Live%20oak%20leaf%20clusters.jpg"
+    },
+    "bark": {
+      "title": "File:Quercus douglasii Bark Stanford Dish Park.jpg",
+      "author": "Awinch1001",
+      "license": "cc0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AQuercus%20douglasii%20Bark%20Stanford%20Dish%20Park.jpg"
     }
   },
   "quercus-engelmannii": {
@@ -4221,6 +5817,13 @@
       "license": "cc by 2.5",
       "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AEngelmann%20oak%20foliage.jpg"
+    },
+    "bark": {
+      "title": "File:Quercus engelmannii UC Berkeley Botanic Garden 14.jpg",
+      "author": "Awinch1001",
+      "license": "cc0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AQuercus%20engelmannii%20UC%20Berkeley%20Botanic%20Garden%2014.jpg"
     }
   },
   "quercus-garryana": {
@@ -4230,6 +5833,13 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3ADry%20leaves%207986.jpg"
+    },
+    "bark": {
+      "title": "File:2017-04-29-14.56.53 ZS PMax Quercus garryana—DxO (34386331555).jpg",
+      "author": "John Rusk from Berkeley, CA, United States of America",
+      "license": "cc by 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2017-04-29-14.56.53%20ZS%20PMax%20Quercus%20garryana%E2%80%94DxO%20%2834386331555%29.jpg"
     }
   },
   "quercus-hypoleucoides": {
@@ -4239,6 +5849,13 @@
       "license": "cc0",
       "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AQuercus%20hypoleucoides%20leaf%20detail%20Berkeley%20Aquatic%20Park.jpg"
+    },
+    "bark": {
+      "title": "File:Quercus hypoleucoides - Flickr - aspidoscelis (3).jpg",
+      "author": "Patrick Alexander from Las Cruces, NM",
+      "license": "cc0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AQuercus%20hypoleucoides%20-%20Flickr%20-%20aspidoscelis%20%283%29.jpg"
     }
   },
   "quercus-ilex": {
@@ -4248,6 +5865,13 @@
       "license": "cc by-sa 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3ALeaf%20miner%20infestation%20of%20a%20Holm%20oak%20%28Quercus%20ilex%29%20-%20geograph.org.uk%20-%205762171.jpg"
+    },
+    "bark": {
+      "title": "File:Cicadidae cicala su leccio.jpg",
+      "author": "Cosimo Scorrano at it.wikipedia",
+      "license": "cc by-sa 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ACicadidae%20cicala%20su%20leccio.jpg"
     }
   },
   "quercus-kelloggii": {
@@ -4257,6 +5881,13 @@
       "license": "cc by-sa 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3ACalifornia%20Black%20Oak%20Leaf.JPG"
+    },
+    "bark": {
+      "title": "File:Quercus kelloggii bark Briones Preserve 1.jpg",
+      "author": "Awinch1001",
+      "license": "cc by 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AQuercus%20kelloggii%20bark%20Briones%20Preserve%201.jpg"
     }
   },
   "quercus-lobata": {
@@ -4266,6 +5897,13 @@
       "license": "cc0",
       "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3ACynips%20douglasii%20Stanford%20Dish%20on%20Quercus%20lobata%201.jpg"
+    },
+    "bark": {
+      "title": "File:Quercus lobata bark Briones 14.jpg",
+      "author": "Awinch1001",
+      "license": "cc0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AQuercus%20lobata%20bark%20Briones%2014.jpg"
     }
   },
   "quercus-robur": {
@@ -4275,6 +5913,13 @@
       "license": "cc by-sa 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2009-11-14%20%2817%29%20Acorn%20Leaf%2C%20Eichelblatt.JPG"
+    },
+    "bark": {
+      "title": "File:Bark of European oak (Quercus robur) in winter, Woodland south of Schlosspark Belvedere, Weimar, Germany 01.jpg",
+      "author": "KaiKemmann",
+      "license": "cc by 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ABark%20of%20European%20oak%20%28Quercus%20robur%29%20in%20winter%2C%20Woodland%20south%20of%20Schlosspark%20Belvedere%2C%20Weimar%2C%20Germany%2001.jpg"
     }
   },
   "quercus-suber": {
@@ -4284,6 +5929,13 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3ACork%20oak%20in%20Israel%20-%20leafs%20-2.JPG"
+    },
+    "bark": {
+      "title": "File:Cork - bark in Portugal.jpg",
+      "author": "Cbuske46",
+      "license": "cc0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ACork%20-%20bark%20in%20Portugal.jpg"
     }
   },
   "quercus-tomentella": {
@@ -4293,6 +5945,13 @@
       "license": "cc by 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AQuercus%20tomentella%20acorn%20and%20leaves%20%E2%80%94%20Franco%20Folini.jpg"
+    },
+    "bark": {
+      "title": "File:Quercus tomentella bark Santa Barbara Botanic Garden 4.jpg",
+      "author": "Awinch1001",
+      "license": "cc by 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AQuercus%20tomentella%20bark%20Santa%20Barbara%20Botanic%20Garden%204.jpg"
     }
   },
   "quercus-virginiana": {
@@ -4302,6 +5961,13 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AQuercus%20virginiana%2C%20the%20form%20with%20toothed%20leaves.jpg"
+    },
+    "bark": {
+      "title": "File:Quercus virginiana bark 1 LR.jpg",
+      "author": "PumpkinSky",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AQuercus%20virginiana%20bark%201%20LR.jpg"
     }
   },
   "quercus-wislizeni": {
@@ -4311,10 +5977,24 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AQuercus%20wislizeni%20catkins%20and%20new%20leaves.jpg"
+    },
+    "bark": {
+      "title": "File:Quercus wislizeni trunks.jpg",
+      "author": "Benny White",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AQuercus%20wislizeni%20trunks.jpg"
     }
   },
   "robinia-ambigua": {
     "leaf": {
+      "title": "File:2014-06-02 13 01 37 Purple locust at the Aspen Annex post office in Elko, Nevada.JPG",
+      "author": "Famartin",
+      "license": "cc by-sa 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2014-06-02%2013%2001%2037%20Purple%20locust%20at%20the%20Aspen%20Annex%20post%20office%20in%20Elko%2C%20Nevada.JPG"
+    },
+    "bark": {
       "title": "File:2014-06-02 13 01 37 Purple locust at the Aspen Annex post office in Elko, Nevada.JPG",
       "author": "Famartin",
       "license": "cc by-sa 3.0",
@@ -4329,6 +6009,13 @@
       "license": "cc by 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3APalmate%20leaves%20of%20Schefflera%20actinophylla%20%28%3D%20Heptapleurum%20actinophyllum%29%20in%20Yumenoshima%20Tropical%20Greenhouse%20Dome%2C%20Tokyo.jpg"
+    },
+    "bark": {
+      "title": "File:Schefflera actinophylla (= Heptapleurum actinophyllum) in Yumenoshima Tropical Greenhouse Dome, Tokyo.jpg",
+      "author": "M108t",
+      "license": "cc by 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ASchefflera%20actinophylla%20%28%3D%20Heptapleurum%20actinophyllum%29%20in%20Yumenoshima%20Tropical%20Greenhouse%20Dome%2C%20Tokyo.jpg"
     }
   },
   "schinus-molle": {
@@ -4338,6 +6025,13 @@
       "license": "CC0",
       "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3ASchinus%20molle%20-%20Jard%C3%ADn%20Bot%C3%A1nico%20de%20Barcelona%20-%20Barcelona%2C%20Spain%20-%20DSC09305.JPG"
+    },
+    "bark": {
+      "title": "File:(ALB) S. molle-bark-1.jpg",
+      "author": "Philmarin",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A%28ALB%29%20S.%20molle-bark-1.jpg"
     }
   },
   "schinus-terebinthifolius": {
@@ -4347,10 +6041,24 @@
       "license": "cc by 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AStarr%20080429-8859%20Schinus%20terebinthifolius.jpg"
+    },
+    "bark": {
+      "title": "File:Schinus terebinthifolius stem.jpg",
+      "author": "João Medeiros",
+      "license": "cc by 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ASchinus%20terebinthifolius%20stem.jpg"
     }
   },
   "schinus-polygamus": {
     "leaf": {
+      "title": "File:Schinus polygamus 2.jpg",
+      "author": "Cillas",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ASchinus%20polygamus%202.jpg"
+    },
+    "bark": {
       "title": "File:Schinus polygamus 2.jpg",
       "author": "Cillas",
       "license": "cc by-sa 4.0",
@@ -4365,6 +6073,13 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AMarula%20Trees%20in%20September%20without%20leaves%20Oniipa%20Namibia.jpg"
+    },
+    "bark": {
+      "title": "File:Sclerocarya birrea bark.jpg",
+      "author": "ChriKo",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ASclerocarya%20birrea%20bark.jpg"
     }
   },
   "sequoia-sempervirens": {
@@ -4374,6 +6089,13 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2019-04-25%2010%2027%2017%20New%20needles%20in%20spring%20on%20a%20Coast%20Redwood%20along%20Tranquility%20Court%20in%20the%20Franklin%20Farm%20section%20of%20Oak%20Hill%2C%20Fairfax%20County%2C%20Virginia.jpg"
+    },
+    "bark": {
+      "title": "File:Coast Redwood fallen branch bark tunnels.jpg",
+      "author": "Cbarlow",
+      "license": "cc0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ACoast%20Redwood%20fallen%20branch%20bark%20tunnels.jpg"
     }
   },
   "sequoiadendron-giganteum": {
@@ -4383,6 +6105,13 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2019-04-26%2008%2005%2032%20New%20needles%20in%20spring%20on%20a%20Giant%20Sequoia%20along%20Tranquility%20Court%20in%20the%20Franklin%20Farm%20section%20of%20Oak%20Hill%2C%20Fairfax%20County%2C%20Virginia.jpg"
+    },
+    "bark": {
+      "title": "File:Bark Sequoiadendron giganteum.JPG",
+      "author": "The Angels 2010",
+      "license": "cc by-sa 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ABark%20Sequoiadendron%20giganteum.JPG"
     }
   },
   "styphnolobium-japonicum": {
@@ -4392,6 +6121,13 @@
       "license": "public domain",
       "licenseUrl": "",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AJapanese%20Pagodatree%20%28Sophora%20japonica%29%20leaf%20details.jpg"
+    },
+    "bark": {
+      "title": "File:2024-01-27 14 58 42 Pagoda tree bark on the grounds of the Mountain View Golf Course in Ewing Township, Mercer County, New Jersey.jpg",
+      "author": "Famartin",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2024-01-27%2014%2058%2042%20Pagoda%20tree%20bark%20on%20the%20grounds%20of%20the%20Mountain%20View%20Golf%20Course%20in%20Ewing%20Township%2C%20Mercer%20County%2C%20New%20Jersey.jpg"
     }
   },
   "spathodea-campanulata": {
@@ -4401,10 +6137,24 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3ASpathodea%20companulata%2C%20African%20tulip%20tree%2C%20Fountaintree%2C%20-%E0%B4%AB%E0%B5%97%E0%B4%A3%E0%B5%8D%E0%B4%9F%E0%B4%A8%E0%B5%8D%E2%80%8D%E0%B4%AE%E0%B4%B0%E0%B4%82.%20Leaf%20.jpg"
+    },
+    "bark": {
+      "title": "File:Bark of Spathodea campanulata.jpg",
+      "author": "Geographer",
+      "license": "cc by-sa 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ABark%20of%20Spathodea%20campanulata.jpg"
     }
   },
   "stenocarpus-sinuatus": {
     "leaf": {
+      "title": "File:Stenocarpus sinuatus, droë vrugkapsules, Manie van der Schijff BT, b.jpg",
+      "author": "JMK",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AStenocarpus%20sinuatus%2C%20dro%C3%AB%20vrugkapsules%2C%20Manie%20van%20der%20Schijff%20BT%2C%20b.jpg"
+    },
+    "bark": {
       "title": "File:Stenocarpus sinuatus, droë vrugkapsules, Manie van der Schijff BT, b.jpg",
       "author": "JMK",
       "license": "cc by-sa 4.0",
@@ -4428,10 +6178,24 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AHouse%20wall%20lined%20with%20Brush%20cherry%20%28Syzygium%20australe%29%2C%20Avenida%20do%20M%C3%A9xico%2C%20Lisbon%2C%20Portugal%20julesvernex2.jpg"
+    },
+    "bark": {
+      "title": "File:House wall lined with Brush cherry (Syzygium australe), Avenida do México, Lisbon, Portugal julesvernex2.jpg",
+      "author": "Jules Verne Times Two",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AHouse%20wall%20lined%20with%20Brush%20cherry%20%28Syzygium%20australe%29%2C%20Avenida%20do%20M%C3%A9xico%2C%20Lisbon%2C%20Portugal%20julesvernex2.jpg"
     }
   },
   "syzygium-paniculatum": {
     "leaf": {
+      "title": "File:Syzygium paniculatum, bloeiwyses, Tuks, b.jpg",
+      "author": "JMK",
+      "license": "cc by-sa 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ASyzygium%20paniculatum%2C%20bloeiwyses%2C%20Tuks%2C%20b.jpg"
+    },
+    "bark": {
       "title": "File:Syzygium paniculatum, bloeiwyses, Tuks, b.jpg",
       "author": "JMK",
       "license": "cc by-sa 3.0",
@@ -4446,6 +6210,13 @@
       "license": "cc by-sa 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AOld%20tamarix%20in%20Livadi.%20Astypalaia%2C%20Greece.jpg"
+    },
+    "bark": {
+      "title": "File:Old tamarix in Livadi. Astypalaia, Greece.jpg",
+      "author": "Ввласенко",
+      "license": "cc by-sa 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AOld%20tamarix%20in%20Livadi.%20Astypalaia%2C%20Greece.jpg"
     }
   },
   "thuja-plicata": {
@@ -4455,6 +6226,13 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AFoliage%203282.jpg"
+    },
+    "bark": {
+      "title": "File:Bark 3283.jpg",
+      "author": "Chris Light",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ABark%203283.jpg"
     }
   },
   "tilia-cordata": {
@@ -4464,6 +6242,13 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3ATilia%20cordata%20leaf%20abaxial%20side.jpg"
+    },
+    "bark": {
+      "title": "File:Tilia-cordata-bark-young-tree.JPG",
+      "author": "Sten Porse",
+      "license": "cc by-sa 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ATilia-cordata-bark-young-tree.JPG"
     }
   },
   "tilia-platyphyllos": {
@@ -4473,6 +6258,13 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AT.%20platyphyllos%20%27Laciniata%27%E2%80%94leaf.jpg"
+    },
+    "bark": {
+      "title": "File:ID 1060 Linde in Schöder 002.jpg",
+      "author": "Christian Pirkl",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AID%201060%20Linde%20in%20Sch%C3%B6der%20002.jpg"
     }
   },
   "tilia-tomentosa": {
@@ -4482,6 +6274,13 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AKrak%C3%B3w%20Park%20Wad%C3%B3w%20ul.%20Jaskrowa%20pomnik%20przyrody%20Lipa%20srebrzysta%20Tilia%20tomentosa.jpg"
+    },
+    "bark": {
+      "title": "File:Tilia Argentea bark - 1.jpg",
+      "author": "Spiritia",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ATilia%20Argentea%20bark%20-%201.jpg"
     }
   },
   "toxicodendron-diversilobum": {
@@ -4491,6 +6290,13 @@
       "license": "cc by 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3A%22Leaves%20of%20three%2C%20let%20it%20be%22%20-%20Poison%20Oak%20-%20Flickr%20-%20S.%20Rae.jpg"
+    },
+    "bark": {
+      "title": "File:POISON OAK (toxicodendron diversilobum) (4-5-08) canet -1 (2391067502).jpg",
+      "author": "ALAN SCHMIERER",
+      "license": "cc0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3APOISON%20OAK%20%28toxicodendron%20diversilobum%29%20%284-5-08%29%20canet%20-1%20%282391067502%29.jpg"
     }
   },
   "trachycarpus-fortunei": {
@@ -4509,6 +6315,13 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3ATriadicaSebifera3.jpg"
+    },
+    "bark": {
+      "title": "File:TriadicaSebifera11.jpg",
+      "author": "Douglas Goldman",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ATriadicaSebifera11.jpg"
     }
   },
   "tristaniopsis-laurina": {
@@ -4518,6 +6331,13 @@
       "license": "cc0",
       "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3ATristaniopsis%20laurina%20IMG%201121.jpg"
+    },
+    "bark": {
+      "title": "File:Tristaniopsis laurina bark 01.jpg",
+      "author": "Allthingsnative",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ATristaniopsis%20laurina%20bark%2001.jpg"
     }
   },
   "ulmus-glabra": {
@@ -4527,6 +6347,13 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3ALeaves%20of%20Ulmus%20glabra%20%27Horizontalis%27.jpg"
+    },
+    "bark": {
+      "title": "File:Ulmus glabra (smooth light-green leaved, red-barked), North Merchiston Cemetry, Edinburgh (4).jpg",
+      "author": "Tom elm",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AUlmus%20glabra%20%28smooth%20light-green%20leaved%2C%20red-barked%29%2C%20North%20Merchiston%20Cemetry%2C%20Edinburgh%20%284%29.jpg"
     }
   },
   "ulmus-minor": {
@@ -4536,6 +6363,13 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3ALeaf%20of%20Ulmus%20minor%20%27Cucullata%27.jpg"
+    },
+    "bark": {
+      "title": "File:Bark of Ulmus minor 'Dicksonii' at Peasholm Park, Scarborough.jpg",
+      "author": "Tom elm",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ABark%20of%20Ulmus%20minor%20%27Dicksonii%27%20at%20Peasholm%20Park%2C%20Scarborough.jpg"
     }
   },
   "ulmus-hollandica": {
@@ -4545,6 +6379,13 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AAZ0004%20Ulmus%20x%20hollandica.%20Edinburgh%2C%20Buckingham%20Terrace.%20Samarae%20and%20new%20leaves.jpg"
+    },
+    "bark": {
+      "title": "File:Bark of Ulmus 'Wentworthii', Holyrood Palace (1).jpg",
+      "author": "Max Coleman",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ABark%20of%20Ulmus%20%27Wentworthii%27%2C%20Holyrood%20Palace%20%281%29.jpg"
     }
   },
   "ulmus-parvifolia": {
@@ -4554,6 +6395,13 @@
       "license": "cc0",
       "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AJP%20%E6%B2%96%E7%B9%A9%20Okinawa%20%E9%82%A3%E9%9C%B8%E5%B8%82%20Naha%20City%20%E7%A6%8F%E5%B7%9E%E5%9C%92%20Fukushuen%20Garden%20flora%20n%20trees%20n%20green%20leaves%20February%202026%20N13P%20207.jpg"
+    },
+    "bark": {
+      "title": "File:RN Ulmus parvifolia bark.JPG",
+      "author": "Ronnie Nijboer",
+      "license": "cc0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ARN%20Ulmus%20parvifolia%20bark.JPG"
     }
   },
   "ulmus-procera": {
@@ -4563,6 +6411,13 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3ALeaves%20of%20Ulmus%20minor%20%27Procera%27%2C%20short%20shoots%20of%20old%20trees.jpg"
+    },
+    "bark": {
+      "title": "File:Bark of Ulmus minor 'Procera'.jpg",
+      "author": "Max Coleman",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3ABark%20of%20Ulmus%20minor%20%27Procera%27.jpg"
     }
   },
   "ulmus-pumila": {
@@ -4572,6 +6427,13 @@
       "license": "cc by-sa 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3ALeaves%20of%20possible%20Ulmus%20pumila%20%27Poort%20Bulten%27%20%28top%20of%20leaf%29.jpg"
+    },
+    "bark": {
+      "title": "File:2021-03-03 09 32 10 Siberian Elm bark along Terrace Boulevard in the Parkway Village section of Ewing Township, Mercer County, New Jersey.jpg",
+      "author": "Famartin",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3A2021-03-03%2009%2032%2010%20Siberian%20Elm%20bark%20along%20Terrace%20Boulevard%20in%20the%20Parkway%20Village%20section%20of%20Ewing%20Township%2C%20Mercer%20County%2C%20New%20Jersey.jpg"
     }
   },
   "umbellularia-californica": {
@@ -4581,6 +6443,13 @@
       "license": "cc0",
       "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3ACALIFORNIA%20BAY%20LEAVES%20IN%20SPRING%20%285-28-10%29%20cerro%20alto%20trail%20-01%20%284648911022%29.jpg"
+    },
+    "bark": {
+      "title": "File:Umbellularia californica trunk and bark Briones Preserve 6.jpg",
+      "author": "Awinch1001",
+      "license": "cc by 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AUmbellularia%20californica%20trunk%20and%20bark%20Briones%20Preserve%206.jpg"
     }
   },
   "vitex-lucens": {
@@ -4590,6 +6459,13 @@
       "license": "public domain",
       "licenseUrl": "",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3APuririLeaves.jpg"
+    },
+    "bark": {
+      "title": "File:Pūriri bark 20250702 130708.jpg",
+      "author": "Prosperosity",
+      "license": "cc0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AP%C5%ABriri%20bark%2020250702%20130708.jpg"
     }
   },
   "washingtonia-filifera": {
@@ -4617,10 +6493,24 @@
       "license": "cc by 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AWollemia%20nobilis%20at%20Kew%20Gardens%2C%20July%202016%20%28foliage%29.jpg"
+    },
+    "bark": {
+      "title": "File:Wollemia bark.JPG",
+      "author": "Poyt448 Peter Woodard",
+      "license": "cc0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AWollemia%20bark.JPG"
     }
   },
   "xylosma-congestum": {
     "leaf": {
+      "title": "File:Xylosma-congestum-20071001.jpg",
+      "author": "Miwasatoshi",
+      "license": "cc by-sa 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AXylosma-congestum-20071001.jpg"
+    },
+    "bark": {
       "title": "File:Xylosma-congestum-20071001.jpg",
       "author": "Miwasatoshi",
       "license": "cc by-sa 4.0",
@@ -4653,6 +6543,13 @@
       "license": "public domain",
       "licenseUrl": "",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AAutumn%20Leaf%2008Nov17.jpg"
+    },
+    "bark": {
+      "title": "File:Grey-bark Elm (Zelkova serrata) (22222550538).jpg",
+      "author": "harum.koh from Kobe city, Japan",
+      "license": "cc by-sa 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AGrey-bark%20Elm%20%28Zelkova%20serrata%29%20%2822222550538%29.jpg"
     }
   },
   "erythrina-crista-galli": {
@@ -4662,6 +6559,13 @@
       "license": "CC BY-SA 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
       "sourcePage": "https://commons.wikimedia.org/wiki/File%3AErythrina%20crista-galli%20-%20Flickr%20-%20peganum.jpg"
+    },
+    "bark": {
+      "title": "File:Starr-120522-6064-Erythrina crista galli-trunk and bark-Iao Tropical Gardens of Maui-Maui (24775404509).jpg",
+      "author": "Forest and Kim Starr",
+      "license": "CC BY 3.0 us",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/us/deed.en",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File%3AStarr-120522-6064-Erythrina%20crista%20galli-trunk%20and%20bark-Iao%20Tropical%20Gardens%20of%20Maui-Maui%20%2824775404509%29.jpg"
     }
   }
 }

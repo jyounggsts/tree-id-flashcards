@@ -87,6 +87,7 @@ CATEGORY_CONFIG = {
         "good": ["bark"],
         "bad": ["leaf", "leaves", "needle", "needles", "foliage", "flower", "fruit"],
         "wide_shots_ok": False,
+        "skip_group": "palm",  # palms have no true bark
     },
     "trunk": {
         "query": {"broadleaf": "trunk", "conifer": "trunk"},
